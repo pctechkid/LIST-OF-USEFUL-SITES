@@ -52,3 +52,10 @@ All the information on this website is purely for informational purposes and is 
 ***
 ***
 
+## [NSFW](https://github.com/Piratezparty/Piratezparty/blob/main/NSFW.md)
+
+**List for cultured men** 
+
+***
+***
+
