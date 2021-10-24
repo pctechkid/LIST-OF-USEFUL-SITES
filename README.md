@@ -10,7 +10,7 @@ All the information on this website is purely for informational purposes and is 
 ***
 ***
 
-## [Entertainment](https://github.com/nbats/FMHY/wiki/%F0%9F%93%BA-Movies---TV---Anime---Sports)
+## [Entertainment](https://github.com/Piratezparty/Piratezparty/blob/main/Entertainment.md)
 
 **Movies, TV, Anime, Sports** 
 
