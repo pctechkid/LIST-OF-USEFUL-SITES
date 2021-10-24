@@ -17,9 +17,16 @@ All the information on this website is purely for informational purposes and is 
 ***
 ***
 
-## [Reading-Education](https://github.com/Piratezparty/Piratezparty/blob/main/Reading-Education)
+## [Reading-Education](https://github.com/Piratezparty/Piratezparty/blob/main/Reading-Education.md)
 
 **Books, Comics, Magazines, Newspapers, Manga, Light Novels** 
+
+***
+***
+
+## [Tools](https://github.com/Piratezparty/Piratezparty/blob/main/Tools.md)
+
+**Entertainment Tools, Audio Tools, Encoding Tools** 
 
 ***
 ***
