@@ -59,3 +59,10 @@ All the information on this website is purely for informational purposes and is 
 ***
 ***
 
+## [Miscellaneous](https://github.com/Piratezparty/Piratezparty/blob/main/Miscellaneous.md)
+
+**Freebies, Tricks, Photo-Fonts** 
+
+***
+***
+
