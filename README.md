@@ -40,7 +40,14 @@ All the information on this website is purely for informational purposes and is 
 
 ## [Guides](https://github.com/Piratezparty/Piratezparty/blob/main/Guides.md)
 
-**Encoding , MediaManagers, Torrenting** 
+**Encoding, MediaManagers, Torrenting** 
+
+***
+***
+
+## [Awesome-Collection](https://github.com/Piratezparty/Piratezparty/blob/main/Awesome-Collection.md)
+
+**Awesome Repositories** 
 
 ***
 ***
