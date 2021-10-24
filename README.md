@@ -38,3 +38,10 @@ All the information on this website is purely for informational purposes and is 
 ***
 ***
 
+## [Guides](https://github.com/Piratezparty/Piratezparty/blob/main/Guides.md)
+
+**Encoding , MediaManagers, Torrenting** 
+
+***
+***
+
