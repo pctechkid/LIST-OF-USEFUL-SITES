@@ -26,7 +26,7 @@ All the information on this website is purely for informational purposes and is 
 ## Reading-Education
 
 * **[Books](https://github.com/Piratezparty/Piratezparty/blob/main/Books.md)**
-* **[Manga](
+* **[Manga](https://github.com/Piratezparty/Piratezparty/blob/main/Manga.md)**
 
 ***
 ***
