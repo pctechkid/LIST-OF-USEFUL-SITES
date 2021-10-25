@@ -19,4 +19,4 @@ https://yepmail.co/
 https://trashmail.com/
 https://www.mintemail.com/
 
-# ► Adblock
+# ► Adblocking
