@@ -12,7 +12,11 @@ All the information on this website is purely for informational purposes and is 
 
 ## [Entertainment](https://github.com/Piratezparty/Piratezparty/blob/main/Entertainment.md)
 
-**Movies, TV, Anime, Sports, Games, Songs** 
+* Movies/Series
+* Anime
+* Sports
+* Games
+* Songs
 
 ***
 ***
