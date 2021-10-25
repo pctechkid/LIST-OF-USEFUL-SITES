@@ -18,6 +18,3 @@
 * https://yepmail.co/
 * https://trashmail.com/
 * https://www.mintemail.com/
-
-# ► Adblocking
-* **[BlockTheSpot](https://github.com/mrpond/BlockTheSpot)** / **[Spotify-Ad-Blocker](https://github.com/Xeroday/Spotify-Ad-Blocker)** - *Video, audio & banner adblock/skip for Spotify Desktop Version* 
