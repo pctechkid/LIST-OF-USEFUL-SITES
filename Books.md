@@ -22,3 +22,13 @@
 * [bookyards](https://bookyards.com/en)
 * [getfreeebooks](https://getfreeebooks.com)
 * [digitalbook](https://www.digitalbook.io)
+
+# ► Audiobooks
+* [audiobookbay](http://audiobookbay.ws/) (DDL)
+* [tokybook](https://tokybook.com/) (Online)
+* [hotaudiobooks](https://hotaudiobooks.com) (Online)
+* [audiobookforsoul](https://audiobookforsoul.net/) (Online)
+* [audiobookreviews](https://audiobookreviews.com) (DDL)
+* [xaudiobooks](https://xaudiobooks.com) (DDL)
+* [hpaudiobooks](hpaudiobooks.club) (Online)
+* [audiobookbay](http://audiobookbay.nl/) (DDL)
