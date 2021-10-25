@@ -1,5 +1,4 @@
-# Movie/Series
-#### Websites for Both Bollywood/Hollywood CONTENT (streaming+DDL)
+# ► Websites for Both Bollywood/Hollywood CONTENT (streaming+DDL)
 
 * [Todaypk](https://ww3.1todaypk.ws)
 * [hindilinks4u](https://www.hindilinks4u.to/)
@@ -61,9 +60,9 @@
 * [happy2hub](https://happy2hub.org/)
 * [olamovies](https://olamovies.vip)
 
-#### Websites to Stream English/Hollywood Content (streaming)
+# ► Websites to Stream English/Hollywood Content (streaming)
 
-##### Streaming (720p)
+## Streaming (720p)
 * [myflixer](http://myflixer.to/)
 * [emovies](https://emovies.io/)
 * [www1.gowatchseries](https://www1.gowatchseries.bz/)
@@ -89,7 +88,7 @@
 * [turkish123](https://turkish123.com/)
 
 
-##### Streaming (HD)
+## Streaming (HD)
 * [themoviebay](https://www.themoviebay.net/)
 * [soap2day](http://soap2day.to/)
 * [www2.smilestv](https://www2.smilestv.net/)
@@ -112,7 +111,7 @@
 * [southparkstudios](https://www.southparkstudios.com/)
 * [onlyseries](https://onlyseries.net/)
 
-##### Streaming (1080p)
+## Streaming (1080p)
 * [c1ne](https://c1ne.co/)
 * [wwatchseries](https://wwatchseries.com/)
 * [lookmovie](https://lookmovie.io/)
@@ -129,7 +128,7 @@
 * [hdmovie8](https://hdmovie8.com/)
 * [ymovies](https://ymovies.to/)
 
-#### Websites to Download English/Hollywood movies and series (DDL)
+# Websites to Download English/Hollywood movies and series (DDL)
 
 * [pahe](https://pahe.ph)
 * [megaddl](https://megaddl.co/)
