@@ -1,5 +1,5 @@
-
-## Websites for Both Bollywood/Hollywood CONTENT (streaming+DDL)
+# Movie/Series
+#### Websites for Both Bollywood/Hollywood CONTENT (streaming+DDL)
 
 * [Todaypk](https://ww3.1todaypk.ws)
 * [hindilinks4u](https://www.hindilinks4u.to/)
@@ -15,8 +15,8 @@
 * [hworldfree4u](https://worldfree4u.pink/)
 * [movieswatch24](https://www.movieswatch24.com.pk/)
 * [bolly2tolly](https://www.bolly2tolly.net/)
-* [https://hdfriday.com/](https://hdfriday.com/)
-* [amznhd.me](https://amznhd.me/)
+* [hdfriday](https://hdfriday.com/)
+* [amznhd](https://amznhd.me/)
 * [9kmovies](https://9kmovies.cyou/)
 * [downloadhub.ninja/](https://downloadhub.ninja/)
 * [bollyholic](https://bollyholic.nl/) | [PogoLinks](http://PogoLinks.xyz)
@@ -24,39 +24,39 @@
 * [9xmovies](https://9xmovies.video/)
 * [moviesghar91](https://www.moviesghar91.com/)
 * [movipk](https://www.movi.pk/)
-https://onlinemovieshindi.com/ 
-https://www.uwatchfree.cz/
-https://hindi123movies.com/
-https://hdhub4u.wiki/
-https://altmovies.me/
-https://www.mkvcinemas.tube/ 
-https://1jalshamoviez.org/
-https://cinevood.cloud/
-https://www.ssrmovies.ninja/
-https://bollymovies.club/
-https://katmoviehd.sx/
-https://skymovieshd.kim/
-https://www.full4movies.org/
-https://filmygod.co.in/
-https://cinevez.xyz/ 
-https://hdmoviehubs.site/
-https://vegamovies.co.in/ 
-http://bollywoodfilma.best/
-https://filmlinks4u.pro/
-https://btcmovies.xyz/ 
-https://www.tamilrockermovies.watch/
-https://www.1tamilmv.art/ 
-https://3hiidude.org/ 
-https://www.tamilblasters.me/
-https://filmybro.top/
-https://filmyfy.net
-https://inextmovies.vip/
-https://www.1tamilmv.pw/
-http://www.desirulez.cc/
-https://SDMoviesHD.com
-http://Bollydrip.com
-https://einthusan.tv/intro/
-https://cinemakottaga.ml
-https://www.mkvhub.ws/
-https://happy2hub.org/
-https://olamovies.vip
+* [onlinemovieshindi](https://onlinemovieshindi.com/)
+* [uwatchfree](https://www.uwatchfree.cz/)
+* [hindi123movies](hindi123movies)
+* [hdhub4u](https://hdhub4u.wiki/)
+* [altmovies](https://altmovies.me/)
+* [mkvcinemas](https://www.mkvcinemas.tube/)
+* [1jalshamoviez](https://1jalshamoviez.org/)
+* [cinevood](https://cinevood.cloud/)
+* [ssrmovies](https://www.ssrmovies.ninja/)
+* [bollymovies](https://bollymovies.club/)
+* [katmoviehd](https://katmoviehd.sx/)
+* [skymovieshd](https://skymovieshd.kim/)
+* [full4movies](https://www.full4movies.org/)
+* [filmygod](https://filmygod.co.in/)
+* [cinevez](https://cinevez.xyz/)
+* [hdmoviehubs](https://hdmoviehubs.site/)
+* [vegamovies](https://vegamovies.co.in/) 
+* [bollywoodfilma](http://bollywoodfilma.best/)
+* [filmlinks4u](https://filmlinks4u.pro/)
+* [btcmovies](https://btcmovies.xyz/) 
+* [tamilrockermovies](https://www.tamilrockermovies.watch/)
+* [1tamilmv](https://www.1tamilmv.art/) 
+* [3hiidude](https://3hiidude.org/)
+* [tamilblasters](https://www.tamilblasters.me/)
+* [filmybro](https://filmybro.top/)
+* [filmyfy](https://filmyfy.net)
+* [inextmovies](https://inextmovies.vip/)
+* [1tamilmv](https://www.1tamilmv.pw/)
+* [desirulez](http://www.desirulez.cc/)
+* [SDMoviesHD](https://SDMoviesHD.com)
+* [Bollydrip](http://Bollydrip.com)
+* [einthusan](https://einthusan.tv/intro/)
+* [cinemakottaga](https://cinemakottaga.ml)
+* [mkvhub](https://www.mkvhub.ws/)
+* [happy2hub](https://happy2hub.org/)
+* [olamovies](https://olamovies.vip)
