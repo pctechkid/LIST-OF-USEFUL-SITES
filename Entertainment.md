@@ -15,15 +15,15 @@
 * [hworldfree4u](https://worldfree4u.pink/)
 * [movieswatch24](https://www.movieswatch24.com.pk/)
 * [bolly2tolly](https://www.bolly2tolly.net/)
-https://hdfriday.com/
-https://amznhd.me/
-https://9kmovies.cyou/
-https://downloadhub.ninja/
-https://bollyholic.nl/ | http://PogoLinks.xyz (sharer+ddl)
-https://7starhdmovies.link/
-https://9xmovies.video/
-https://www.moviesghar91.com/
-https://www.movi.pk/
+* [https://hdfriday.com/](https://hdfriday.com/)
+* [amznhd.me](https://amznhd.me/)
+* [9kmovies](https://9kmovies.cyou/)
+* [downloadhub.ninja/](https://downloadhub.ninja/)
+* [bollyholic](https://bollyholic.nl/) | [PogoLinks](http://PogoLinks.xyz)
+* [7starhdmovies](https://7starhdmovies.link/)
+* [9xmovies](https://9xmovies.video/)
+* [moviesghar91](https://www.moviesghar91.com/)
+* [movipk](https://www.movi.pk/)
 https://onlinemovieshindi.com/ 
 https://www.uwatchfree.cz/
 https://hindi123movies.com/
