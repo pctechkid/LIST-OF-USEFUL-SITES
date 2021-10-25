@@ -89,7 +89,7 @@
 * [turkish123](https://turkish123.com/)
 
 
-##### Streaming(HD)
+##### Streaming (HD)
 * [themoviebay](https://www.themoviebay.net/)
 * [soap2day](http://soap2day.to/)
 * [www2.smilestv](https://www2.smilestv.net/)
@@ -129,7 +129,7 @@
 * [hdmovie8](https://hdmovie8.com/)
 * [ymovies](https://ymovies.to/)
 
-#### Websites to Download English/Hollywood movies and series #DDL
+#### Websites to Download English/Hollywood movies and series (DDL)
 
 * [pahe](https://pahe.ph)
 * [megaddl](https://megaddl.co/)
