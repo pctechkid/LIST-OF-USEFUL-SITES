@@ -1,20 +1,20 @@
 
-Websites for Both Bollywood/Hollywood CONTENT (streaming+DDL)
+## Websites for Both Bollywood/Hollywood CONTENT (streaming+DDL)
 
 * [Todaypk](https://ww3.1todaypk.ws)
 * [hindilinks4u](https://www.hindilinks4u.to/)
 * [9xflix](https://9xflix.club)
 * [extramovies](https://extramovies.shop/)
-https://123europix.pro/
-https://4movierulz.gg/ 
-https://hdmovieplus.site/
-https://moviescounter.se/
-https://hhdmovies.live/
-https://bolly4u.kim/
-https://mkvmoviespoint.wiki/
-https://worldfree4u.pink/
-https://www.movieswatch24.com.pk/
-https://www.bolly2tolly.net/ [sharer]
+* [123europix](https://123europix.pro/)
+* [4movierulz](https://4movierulz.gg/)
+* [hdmovieplus](https://hdmovieplus.site/)
+* [moviescounter](https://moviescounter.se/)
+* [hhdmovies](https://hhdmovies.live/)
+* [bolly4u](https://bolly4u.kim/)
+* [mkvmoviespoint](https://mkvmoviespoint.wiki/)
+* [hworldfree4u](https://worldfree4u.pink/)
+* [movieswatch24](https://www.movieswatch24.com.pk/)
+* [bolly2tolly](https://www.bolly2tolly.net/)
 https://hdfriday.com/
 https://amznhd.me/
 https://9kmovies.cyou/
