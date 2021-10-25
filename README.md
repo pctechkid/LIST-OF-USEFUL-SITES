@@ -7,14 +7,14 @@ All the information on this website is purely for informational purposes and is 
 
 * **[Mails](https://github.com/Piratezparty/Piratezparty/blob/main/Mails.md)**
 * Vpn
-* Antiviruses
+* Antivirus
 
 ***
 ***
 
-## [Entertainment](https://github.com/Piratezparty/Piratezparty/blob/main/Entertainment.md)
+## Entertainment
 
-* Movies/Series
+* **[Movies/Series](https://github.com/Piratezparty/Piratezparty/blob/main/Movie-Series.md)**
 * Anime
 * Sports
 * Games
