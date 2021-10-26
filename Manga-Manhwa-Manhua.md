@@ -11,3 +11,23 @@
 * [simplyaweeb](https://simplyaweeb.com/manga)
 * [1stkissmanga](https://1stkissmanga.com/)
 * [comick](https://comick.fun/)
+* [Mangatx](https://mangatx.com/)
+* [Manhuabox](https://manhuabox.net/)
+* [topmanhua](https://www.topmanhua.com/)
+* [Manhuas-net](https://manhuas.net/)
+* [Mangaowl](https://mangaowl.net/)
+
+# Manhwa Websites
+* [Toonily](https://toonily.com/)
+* [manhwa18.net](https://manhwa18.net/)
+* [Azmanhwa](https://azmanhwa.net/)
+* [Manhuafast](https://manhuafast.com/)
+* [Manhwakool](https://manhwakool.com/)
+* [Mangahz](https://www.mangahz.com/)
+* [Manhwatop](https://manhwatop.com/)
+* [Instamanhwa](https://www.instamanhwa.com/)
+* [https://manhwa.biz/](https://manhwa.biz/)
+* [manhwa365](https://manhwa365.com/) - Raws also available
+* [manhwa68](https://manhwa68.com/)
+* [zinmanga](https://zinmanga.com/)
+
