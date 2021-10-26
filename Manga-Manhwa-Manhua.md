@@ -1,1 +1,13 @@
-
+# Manga Websites
+* [mangaseeonline](https://mangaseeonline.us)
+* [mangakakalot](https://mangakakalot.com)
+* [manganelo](https://manganelo.com)
+* [manga4life](https://manga4life.com)
+* [mangapark](https://mangapark.net)
+* [w11.mangafreak](https://w12.mangafreak.net/)
+* [bato](https://bato.to)
+* [mangadex](https://mangadex.org/)
+* [mangahere](http://www.mangahere.cc/)
+* [simplyaweeb](https://simplyaweeb.com/manga)
+* [1stkissmanga](https://1stkissmanga.com/)
+* [comick](https://comick.fun/)
