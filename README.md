@@ -31,16 +31,18 @@ All the information on this website is purely for informational purposes and is 
 ***
 ***
 
-## [Tools](https://github.com/Piratezparty/Piratezparty/blob/main/Tools.md)
+## Tools
 
-**Entertainment Tools, Audio Tools, Encoding Tools** 
+* **[Entertainment Tools](https://github.com/Piratezparty/Piratezparty/blob/main/Entertainment-Tools.md)**
+* **[Audio Tools](https://github.com/Piratezparty/Piratezparty/blob/main/Audio-Tools)**
+* **[Encoding Tools](https://github.com/Piratezparty/Piratezparty/blob/main/Encoding-Tools)**
 
 ***
 ***
 
-## [OS](https://github.com/Piratezparty/Piratezparty/blob/main/OS.md)
+## Mobile/PC
 
-**Android, iOS, Windows** 
+* **[Android](https://github.com/Piratezparty/Piratezparty/blob/main/Android.md)** 
 
 ***
 ***
