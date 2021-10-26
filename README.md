@@ -34,8 +34,8 @@ All the information on this website is purely for informational purposes and is 
 ## Tools
 
 * **[Entertainment Tools](https://github.com/Piratezparty/Piratezparty/blob/main/Entertainment-Tools.md)**
-* **[Audio Tools](https://github.com/Piratezparty/Piratezparty/blob/main/Audio-Tools)**
-* **[Encoding Tools](https://github.com/Piratezparty/Piratezparty/blob/main/Encoding-Tools)**
+* **[Audio Tools](https://github.com/Piratezparty/Piratezparty/blob/main/Audio-Tools.md)**
+* **[Encoding Tools](https://github.com/Piratezparty/Piratezparty/blob/main/Encoding-Tools.md)**
 
 ***
 ***
@@ -47,30 +47,31 @@ All the information on this website is purely for informational purposes and is 
 ***
 ***
 
-## [Guides](https://github.com/Piratezparty/Piratezparty/blob/main/Guides.md)
+## Guides
 
-**Encoding, MediaManagers, Torrenting** 
-
-***
-***
-
-## [Awesome-Collection](https://github.com/Piratezparty/Piratezparty/blob/main/Awesome-Collection.md)
-
-**Awesome Repositories** 
+* **[Encoding](https://github.com/Piratezparty/Piratezparty/blob/main/Encoding-Guides.md)**
+* **[MediaManagers](https://github.com/Piratezparty/Piratezparty/blob/main/MediaManager-Guides.md)**
 
 ***
 ***
 
-## [NSFW](https://github.com/Piratezparty/Piratezparty/blob/main/NSFW.md)
+## Awesome-Collection
 
-**List for cultured men** 
+* **[Reddit](https://github.com/Piratezparty/Piratezparty/blob/main/Awesome-Reddit.md)** 
 
 ***
 ***
 
-## [Miscellaneous](https://github.com/Piratezparty/Piratezparty/blob/main/Miscellaneous.md)
+## NSFW
 
-**Freebies, Tricks, Photo-Fonts, Subtitles** 
+* **[Prun](https://github.com/Piratezparty/Piratezparty/blob/main/Prun.md)** 
+
+***
+***
+
+## Miscellaneous
+
+* **[Photo-Fonts](https://github.com/Piratezparty/Piratezparty/blob/main/Photo-Fonts.md)**
 
 ***
 ***
