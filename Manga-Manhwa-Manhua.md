@@ -57,6 +57,14 @@
 * [Manhuadex](https://manhuadex.com/)
 * [Bestmanhua](https://bestmanhua.com/)
 * [Manhuaes](https://manhuaes.com/)
-
+* [Manhuadragon](https://manhuadragon.com/)
+* [Manhuafast](https://manhuafast.com/)
+* [Manhuahot](https://manhuahot.com/)
+* [Manhuapro](https://manhuapro.com/)
+* [Manhuatoon](https://manhuatoon.com/)
+* [Manhuaus](https://manhuaus.com/)
+* [Manhuazone](https://manhuazone.com/)
+* [Manhuaga.com/](https://manhuaga.com/)
+* [Teenmanhua](https://teenmanhua.com/)
 
 
