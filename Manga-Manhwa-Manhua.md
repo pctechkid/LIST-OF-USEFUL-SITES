@@ -66,5 +66,3 @@
 * [Manhuazone](https://manhuazone.com/)
 * [Manhuaga.com/](https://manhuaga.com/)
 * [Teenmanhua](https://teenmanhua.com/)
-
-
