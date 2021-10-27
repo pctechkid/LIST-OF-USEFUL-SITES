@@ -15,7 +15,7 @@ All the information on this website is purely for informational purposes and is 
 ## Entertainment
 
 * **[Movies/Series](https://github.com/Piratezparty/Piratezparty/blob/main/Movie-Series.md)**
-* Anime
+* **[Anime](https://github.com/Piratezparty/Piratezparty/blob/main/Anime.md)
 * Sports
 * Games
 * Songs
