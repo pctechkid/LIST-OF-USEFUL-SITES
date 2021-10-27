@@ -44,7 +44,7 @@
 * [Readmanhwa](https://readmanhwa.com/en/)
 * [Manhwaz](https://manhwaz.com/)
 
-# Manhua
+# Manhua Websites
 * [Readmanhua](https://readmanhua.net/)
 * [Manhuabox](https://manhuabox.net/)
 * [topmanhua](https://www.topmanhua.com/)
