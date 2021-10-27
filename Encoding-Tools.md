@@ -1,1 +1,7 @@
-
+* [Handbrake](https://handbrake.fr/) [HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs]
+* [Ffmpeg](https://ffmpeg.org/) [A complete, cross-platform solution to record, convert and stream audio and video]
+* [FastFlix](https://github.com/cdgriffith/FastFlix) [FastFlix is a free GUI for HEVC and AV1 encoding, GIF/WebP creation, and more!]
+* [Automatic-Ripping-Machine](https://b3n.org/automatic-ripping-machine/) [Headless Blu-Ray/DVD/CD-ROM Ripping]
+* [Sickbeard-mp4-Automator](https://github.com/mdhiggins/sickbeard_mp4_automator) [Automatically convert video files to a standardized mp4 format with proper metadata tagging to create a beautiful and uniform media library]
+* [MakeMkv](http://www.makemkv.com/) [MakeMKV is your one-click solution to convert video that you own into a free and patents-unencumbered format that can be played everywhere]
+* [Dvddecrypter](http://dvddecrypter.org.uk/) [The original unofficial DVD Decrypter mirror since June 7th, 2005]
