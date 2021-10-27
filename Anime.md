@@ -93,7 +93,7 @@
 
 # Websites to download anime(Torrents)
 
-* [animereleasegroup.blogspot.com](http://animereleasegroup.blogspot.com/p/main.html)
+* [animereleasegroup](http://animereleasegroup.blogspot.com/p/main.html)
 * [subsplease](https://subsplease.org/)
 * [nyaa](https://nyaa.si/)
 * [anidex](https://anidex.info/)
