@@ -1,6 +1,5 @@
 # Android Anime
 * [Katsu](https://katsu.pw/)
-* [animixplay](https://animixplay.to/ (it's a website but best designed for mobile. Just install as app using Chrome and enjoy))
 * [snoanime](http://snoanime.net/)
 * [AnimeDL](http://a.animedlweb.ga/)
 * [AnimeTwist](https://github.com/simrat39/AnimeTwistFlut)
@@ -26,3 +25,17 @@
 * [Hakuneko](https://github.com/manga-download/hakuneko )
 
 # Android Manga
+* [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
+* [Mangazone](https://mangazoneapp.com/)
+* [MangaDLR](https://cyberneticlifeform.wixsite.com/cylonu87/mangadlr)
+* [Mangatag](https://www.mangatag.com/)
+* [Manga-World](https://github.com/jakepurple13/MangaWorld)
+* [MangaToon](https://play.google.com/store/apps/details?id=mobi.mangatoon.comics.aphone )
+* [Tachiyomi-Fork](https://tachiyomi.org/forks/ )
+* [Yukino-app](https://github.com/zyrouge/yukino-app/)
+
+# Windows Manga
+* [Tachidesk-Server](https://github.com/Suwayomi/Tachidesk-Server)
+* [Hakuneko](https://github.com/manga-download/hakuneko)
+* [Yukino-app](https://github.com/zyrouge/yukino-app/)
+
