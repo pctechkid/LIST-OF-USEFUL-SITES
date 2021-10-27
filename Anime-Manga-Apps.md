@@ -1,3 +1,4 @@
+# Android Anime
 * [Katsu](https://katsu.pw/)
 * [animixplay](https://animixplay.to/ (it's a website but best designed for mobile. Just install as app using Chrome and enjoy))
 * [snoanime](http://snoanime.net/)
@@ -17,3 +18,11 @@
 * [Animity](https://github.com/kl3jvi/animity)
 * [Kayuri](https://github.com/Killerpac/Kayuri)
 * [Akiyama](https://github.com/Fmaldonado6/Akiyama)
+* [AnimeOut](https://www.animeout.xyz/progress-and-update-on-the-desktop-mobile-apps-and-new-platform/)
+
+# Windows Anime 
+* [Yukino-app](https://github.com/zyrouge/yukino-app/)
+* [Anime-out](https://www.animeout.xyz/progress-and-update-on-the-desktop-mobile-apps-and-new-platform/)
+* [Hakuneko](https://github.com/manga-download/hakuneko )
+
+# Android Manga
