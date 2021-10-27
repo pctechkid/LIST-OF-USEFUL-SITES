@@ -43,7 +43,6 @@ All the information on this website is purely for informational purposes and is 
 ## Mobile/PC
 
 * **[Android](https://github.com/Piratezparty/Piratezparty/blob/main/Android.md)**
-* **[iOS](https://github.com/Piratezparty/Piratezparty/blob/main/iOS.md)**
 * **[Windows](https://github.com/Piratezparty/Piratezparty/blob/main/Windows.md)**
 
 ***
