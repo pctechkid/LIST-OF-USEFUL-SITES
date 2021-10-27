@@ -42,8 +42,7 @@ All the information on this website is purely for informational purposes and is 
 
 ## Mobile/PC
 
-* **[Android](https://github.com/Piratezparty/Piratezparty/blob/main/Android.md)**
-* **[Windows](https://github.com/Piratezparty/Piratezparty/blob/main/Windows.md)**
+* **[Anime](https://github.com/Piratezparty/Piratezparty/blob/main/Anime-Manga-Apps.md)**
 
 ***
 ***
