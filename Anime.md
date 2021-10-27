@@ -82,7 +82,7 @@
 * [darklegends60mb](https://darklegends60mb.org/)
 * [anime60fps](https://www.anime60fps.com/)
 * [indianime](https://indianime.com/)
-* [anipakku.blogspot](https://anipakku.blogspot.com/)
+* [anipakku](https://anipakku.blogspot.com/)
 * [animetosho](https://animetosho.org/)
 * [tokyoinsider](https://www.tokyoinsider.com/)
 * [anime7](http://anime7.download/)
