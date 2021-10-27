@@ -18,7 +18,7 @@
 * [mangapill](https://mangapill.com)
 * [Mangaowl](https://mangaowls.com/)
 * [mangatoon](https://mangatoon.mobi)
-* [doki](https://doki.co/)
+* [doki](https://doki.co/) - Download
 * [catmanga](https://catmanga.org/)
 * [mangazuki](https://mangazuki.me/)
 * [mangasee](https://mangasee123.com/)
