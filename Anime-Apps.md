@@ -1,5 +1,4 @@
 * [Katsu](https://katsu.pw/)
-* [animeglare](https://animeglare.xyz/)
 * [animixplay](https://animixplay.to/ (it's a website but best designed for mobile. Just install as app using Chrome and enjoy))
 * [snoanime](http://snoanime.net/)
 * [AnimeDL](http://a.animedlweb.ga/)
