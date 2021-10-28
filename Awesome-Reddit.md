@@ -21,3 +21,27 @@
 * [r/linux](https://www.reddit.com/r/linux) - *All things Linux and GNU/Linux  this is neither a community exclusively about the kernel Linux, nor is exclusively about the GNU operating system*
 
 * [r/linux_gaming](https://www.reddit.com/r/linux_gaming/) - *A subreddit for gaming on the GNU/Linux operating system*
+
+# Subreddits for Media managers/ grabber
+
+* [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi) - *Addons4Kodi Community Subreddit*
+
+* [r/jellyfin](https://www.reddit.com/r/jellyfin) - *The Free Software Media System*
+
+* [r/PleX](https://www.reddit.com/r/PleX) - *For questions and comments about the Plex Media Server*
+
+* [r/plexshares](https://www.reddit.com/r/plexshares) - *The place to find free and paid Media Server shares*
+
+* [r/StremioAddons](https://www.reddit.com/r/StremioAddons) - *Unofficial Stremio Addon's news and info in one place*
+
+* [r/Softwarr](https://www.reddit.com/r/Softwarr) - *Listing and discussion of software in the Plex/Emby/Kodi/Jellyfin ecosystems*
+
+* [r/kodi](https://www.reddit.com/r/kodi) - *Discussion about Kodi*
+
+* [r/Stremio](https://www.reddit.com/r/Stremio) - *Discussion about Stremio*
+
+* [r/emby](https://www.reddit.com/r/emby) - *Anything and everything Emby*
+
+* [r/EmbyShares](https://www.reddit.com/r/EmbyShares) - *The place to find free and paid Emby server shares*
+
+* [JellyfinShares](https://www.reddit.com/r/JellyfinShares) - *A place for users to share their Jellyfin servers*
