@@ -44,7 +44,14 @@
 
 * [r/EmbyShares](https://www.reddit.com/r/EmbyShares) - *The place to find free and paid Emby server shares*
 
-* [JellyfinShares](https://www.reddit.com/r/JellyfinShares) - *A place for users to share their Jellyfin servers*
+* [r/JellyfinShares](https://www.reddit.com/r/JellyfinShares) - *A place for users to share their Jellyfin servers*
+
+* [r/radarr](https://www.reddit.com/r/radarr) - *Radarr is a movie collection manager for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new movies and will interface with clients and indexers to grab, sort, and rename them*
+
+* [r/sonarr](https://www.reddit.com/r/sonarr) - *Sonarr is a PVR for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will interface with clients and indexers to grab, sort, and rename them*
+
+* [r/Lidarr](https://www.reddit.com/r/Lidarr/) - *Lidarr is a music collection manager for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new albums from your favorite artists and will interface with clients and indexers to grab, sort, and rename them*
+
 
 # Weeb Subreddits
 
@@ -87,3 +94,29 @@
 * [r/Scholar](https://www.reddit.com/r/Scholar/) - *This subreddit is for requesting and sharing specific articles available in various databases*
 
 * [r/SoftwarePirates](https://www.reddit.com/r/SoftwarePirates) - *Discussion about software piracy*
+
+# Subreddits Related to Hoard/Archive
+
+* [r/DataHoarder](https://www.reddit.com/r/DataHoarder) - *This sub aims at bringing data hoarders together to share their passion with like minded people*
+
+* [r/Archiveteam](https://www.reddit.com/r/Archiveteam) - *Archive Team is a loose collective of rogue archivists, programmers, writers and loudmouths dedicated to saving our digital heritage*
+
+* [r/DHExchange](https://www.reddit.com/r/DHExchange) - *Exchange and Sharing sub for /r/DataHoarder*
+
+* [r/musichoarder](https://www.reddit.com/r/musichoarder) - *Home of the music hoarders and audiophiles who are looking to expand, archive or organize their music library*
+
+# Subreddits for Torrent/Trackers/Usenets
+
+* [r/torrents](https://www.reddit.com/r/torrents) - *Torrenting discussion and news*
+
+* [r/trackers/](https://www.reddit.com/r/trackers/) - *A subreddit for discussing public & private trackers*
+
+* [r/seedboxes](https://www.reddit.com/r/seedboxes) - *A place to discuss seedboxes and everything related to them*
+
+* [r/usenet](https://www.reddit.com/r/usenet) - *We are a thriving community dedicated to helping users old and new understand and use usenet*
+
+* [r/OpenSignups](https://www.reddit.com/r/OpenSignups) - *Open Signups - When Private Trackers Open Their Doors To he Public*
+
+* [r/Invites](https://www.reddit.com/r/Invites) - *This subreddit is to offer and request invites for private web services*
+
+* [r/UsenetInvites](https://www.reddit.com/r/UsenetInvites) - *Welcome to the usenet invites subreddit. Please feel free to request or offer invites to usenet indexers*
