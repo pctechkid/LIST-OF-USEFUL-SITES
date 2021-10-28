@@ -1,5 +1,3 @@
-Encoding Guides
-
 * [Encoding Guide Neocities](http://encoding-guide.neocities.org)
 
 * [Yukisub Guides](https://yukisubs.wordpress.com/guides/)
