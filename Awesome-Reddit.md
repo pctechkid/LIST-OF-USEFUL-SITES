@@ -63,3 +63,27 @@
 * [r/LightNovels](https://www.reddit.com/r/LightNovels/) - *A community for those interested in the Novels translated from Japan*
 
 * [r/visualnovels](https://www.reddit.com/r/visualnovels/) - *A community for discussing visual novels, their development, and the medium*
+
+# Piracy Related Subreddits
+
+* [r/Piracy](https://www.reddit.com/r/Piracy) - *A community dedicated to the discussion of digital piracy*
+
+* [r/animepiracy](https://www.reddit.com/r/animepiracy) - *A community dedicated to the discussion of unofficial anime streams, downloads, and torrent trackers*
+
+* [r/mangapiracy](https://www.reddit.com/r/mangapiracy/) - *Discussions related to all manga and light novel sites are welcomed here, be it legal or unofficial*
+
+* [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH) - *huge piracy repo*
+
+* [r/digitalpiracy](https://www.reddit.com/r/digitalpiracy) - *For the discussion of digital piracy*
+
+* [r/PiratedGames](https://www.reddit.com/r/PiratedGames/) - *about pirated games and new cracks*
+
+* [r/CrackWatch](https://www.reddit.com/r/CrackWatch) - *Subreddit for video game piracy news*
+
+* [r/opendirectories](https://www.reddit.com/r/opendirectories) - *Unprotected directories of pics, vids, music, software and otherwise interesting files*
+
+* [r/fullmoviesonyoutube](https://www.reddit.com/r/fullmoviesonyoutube) - *Full Movies on YouTube*
+
+* [r/Scholar](https://www.reddit.com/r/Scholar/) - *This subreddit is for requesting and sharing specific articles available in various databases*
+
+* [r/SoftwarePirates](https://www.reddit.com/r/SoftwarePirates) - *Discussion about software piracy*
