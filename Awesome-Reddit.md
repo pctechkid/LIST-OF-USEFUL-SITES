@@ -120,3 +120,15 @@
 * [r/Invites](https://www.reddit.com/r/Invites) - *This subreddit is to offer and request invites for private web services*
 
 * [r/UsenetInvites](https://www.reddit.com/r/UsenetInvites) - *Welcome to the usenet invites subreddit. Please feel free to request or offer invites to usenet indexers*
+
+# Subreddits Related to Apks/ Softwares/Os
+
+* [r/androidapps](https://www.reddit.com/r/androidapps) - *A subreddit dedicated to Android apps*
+
+* [r/ApksApps](https://www.reddit.com/r/ApksApps) - *Home Of Apps Mod Release Community Subreddit. The Place With Variety Of Streaming/Network/Misc/Utility Apps Collections*
+
+* [r/moddedandoidapps](https://www.reddit.com/r/moddedandoidapps) - *A Community Dedicated To Modded Android App Releases*
+
+* [r/androidadfreemods](https://www.reddit.com/r/androidadfreemods) - *adfree android mods*
+
+* [r/software](https://www.reddit.com/r/software - *Anything software-related*
