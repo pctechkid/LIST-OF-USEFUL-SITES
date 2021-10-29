@@ -131,4 +131,16 @@
 
 * [r/androidadfreemods](https://www.reddit.com/r/androidadfreemods) - *adfree android mods*
 
-* [r/software](https://www.reddit.com/r/software - *Anything software-related*
+* [r/software](https://www.reddit.com/r/software) - *Anything software-related*
+
+# VPN Related Subreddits
+ 
+* [r/VPN](https://www.reddit.com/r/VPN) - *A community for VPN users and those who want to know more about them. It covers VPN problems while using/building them, news, streaming topics, and more*
+
+* [r/VPNTorrents](https://www.reddit.com/r/VPNTorrents) - *This is for the discussion of torrenting (and similar P2P protocols) using VPN type technology*
+
+# Privacy Related Subreddits
+
+* [r/privacy](https://www.reddit.com/r/privacy) - *The intersection of technology, privacy, and freedom in a digital world*
+
+* [r/privacytoolsIO](https://www.reddit.com/r/privacytoolsIO) - *The PrivacyTools team is providing resources to protect your privacy against global, mass surveillance*
