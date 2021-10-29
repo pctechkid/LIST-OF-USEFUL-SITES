@@ -7,7 +7,7 @@
 * [MODZILLA](https://t.me/MODZILLA/)
 * [Dynamic_Mods](https://t.me/apkmod_s)
 * [SyrianCrackers](https://t.me/SyrianCrackers)
-* [a2zupload/](https://t.me/a2zupload/)
+* [a2zupload](https://t.me/a2zupload/)
 * [apkfolkspro](https://t.me/apkfolkspro/)
 * [crackedapks](https://t.me/crackedapks)
 * [drivehubapps](https://t.me/gdrivehubapps/)
