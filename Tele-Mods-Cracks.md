@@ -1,4 +1,4 @@
-# Telegram channels to download mod apks and games
+# Telegram channels for mod apks and games
 
 * [Moderse](https://t.me/Moderse/)
 * [ModdedCentral](https://t.me/ModdedCentral/)
@@ -45,3 +45,11 @@
 * [Botx_patcher](https://t.me/botx_patcher)
 * [ElectraMods](https://t.me/ElectraMods)
 * [allapkforfree](https://t.me/allapkforfree)
+
+# Telegram Channels for Cracked PC Software
+
+* [aiosetup](https://t.me/aiosetup)
+* [CrackedPcSoftware](https://t.me/crackedpcsoftwares)
+* [WinComputer](https://t.me/WINCOMPUTER)
+* [Windows_softwares](https://t.me/windows_softwares)
+* [Software_application](https://t.me/software_application)
