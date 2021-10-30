@@ -1,4 +1,4 @@
-# Websites to download Mod apks and games(DDL)
+# Websites for Mod apks and games(DDL)
 
 * [Mobilism](https://forum.mobilism.org/index.php)
 * [piratedhub](https://piratedhub.com/)
@@ -29,7 +29,7 @@
 * [ModdingUnited](http://www.moddingunited.xyz/)
 * [RockMods](https://www.rockmods.net/)
 
-# Websites/Forums to download cracked pc software
+# Websites/Forums for cracked pc software
 
 * [izofile](https://izofile.com/)
 * [cracksoftwareguru](https://cracksoftwareguru.com/)
@@ -55,3 +55,5 @@
 * [haxnode](https://haxnode.com/)
 * [filecr](http://filecr.com/)
 * [MyDigitalLife](https://forums.mydigitallife.net/)
+
+# [Telegram List For Mods and Cracks](https://github.com/Piratezparty/Piratezparty/blob/main/Tele-Mods-Cracks.md)
