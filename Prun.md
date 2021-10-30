@@ -17,6 +17,10 @@
 * [glodls](https://glodls.to/home.php)
 * [kat](http://kat.rip)
 * [pornleech](https://pornleech.ch)
+* [Eroti](https://www.eroti.ga/) - Vintage Retro Sleaze Erotic and Grindhouse Movies
+* [https://fuxnxx.com](https://fuxnxx.com)
+
+
 
 # List of full length porn sites:
 
