@@ -49,7 +49,5 @@
 # Telegram Channels for Cracked PC Software
 
 * [aiosetup](https://t.me/aiosetup)
-* [CrackedPcSoftware](https://t.me/crackedpcsoftwares)
-* [WinComputer](https://t.me/WINCOMPUTER)
 * [Windows_softwares](https://t.me/windows_softwares)
 * [Software_application](https://t.me/software_application)
