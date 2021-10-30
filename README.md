@@ -73,7 +73,7 @@ All the information on this website is purely for informational purposes and is 
 
 ## Telegram
 
-* **[Modded Apps](https://github.com/Piratezparty/Piratezparty/blob/main/Modded-Apps.md)**
+* **[Mods-Cracks](https://github.com/Piratezparty/Piratezparty/blob/main/Modded-Apps.md)**
 
 ***
 ***
