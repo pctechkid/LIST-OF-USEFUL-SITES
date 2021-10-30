@@ -43,6 +43,7 @@ All the information on this website is purely for informational purposes and is 
 ## Mobile/PC
 
 * **[Anime-Manga](https://github.com/Piratezparty/Piratezparty/blob/main/Anime-Manga-Apps.md)**
+* **[Mods-Cracks](https://github.com/Piratezparty/Piratezparty/blob/main/Mods-Cracks.md)**
 
 ***
 ***
@@ -73,7 +74,7 @@ All the information on this website is purely for informational purposes and is 
 
 ## Telegram
 
-* **[Mods-Cracks](https://github.com/Piratezparty/Piratezparty/blob/main/Modded-Apps.md)**
+* **[Mods-Cracks](https://github.com/Piratezparty/Piratezparty/blob/main/Tele-Mods-Cracks)**
 
 ***
 ***
