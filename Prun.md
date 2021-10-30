@@ -1,6 +1,5 @@
 # TOP Free Porn Torrent Websites 
 
-* [Rarbg](https://rarbg.to/)
 * [pornrips](https://pornrips.to/) (encoded)
 * [uniondht](http://d.uniondht.org/)
 * [torrent-pirat](http://www.torrent-pirat.com/)
@@ -18,13 +17,13 @@
 * [kat](http://kat.rip)
 * [pornleech](https://pornleech.ch)
 * [Eroti](https://www.eroti.ga/) - Vintage Retro Sleaze Erotic and Grindhouse Movies
-* [https://fuxnxx.com](https://fuxnxx.com)
+* [fuxnxx](https://fuxnxx.com)
 
 
 
 # List of full length porn sites:
 
-* [goodporn](https://goodporn.to/) (downloads: yes, ads: normal)
+* [goodporn](https://goodporn.to/) *(downloads: yes, ads: normal)*
 * [sxyprn](https://sxyprn.com/) (downloads: no, ads: normal)
 * [porntrex](https://porntrex.com/) (downloads: registration required, ads: high)
 * [daftsex](https://daftsex.com/) (downloads: yes, ads: pop-up ads)
@@ -34,3 +33,6 @@
 * [porngo](https://porngo.com/) (downloads: yes, ads: normal)
 * [youjizz](https://youjizz.com/) (downloads: yes, ads: normal) (Note: old tube website, new videos are of short length)
 * [tnaflix](https://tnaflix.com/) or [empflix](https://empflix.com/) (downloads: yes, ads: normal) (Note: old scenes in full length, new videos are of short length)
+
+# NSFW Subreddits
+
