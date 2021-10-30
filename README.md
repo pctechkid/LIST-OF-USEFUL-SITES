@@ -64,7 +64,9 @@ All the information on this website is purely for informational purposes and is 
 
 ## NSFW
 
-* **[Prun](https://github.com/Piratezparty/Piratezparty/blob/main/Prun.md)** 
+* **[Prun](https://github.com/Piratezparty/Piratezparty/blob/main/Prun.md)**
+* **[Hemtai](https://github.com/Piratezparty/Piratezparty/blob/main/hemtai.md)**
+* **[Pornhwa](https://github.com/Piratezparty/Piratezparty/blob/main/Pornhwa.md)**
 
 ***
 ***
