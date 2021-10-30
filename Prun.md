@@ -17,3 +17,16 @@
 * [glodls](https://glodls.to/home.php)
 * [kat](http://kat.rip)
 * [pornleech](https://pornleech.ch)
+
+# List of full length porn sites:
+
+* [goodporn](https://goodporn.to/) (downloads: yes, ads: normal)
+* [sxyprn](https://sxyprn.com/) (downloads: no, ads: normal)
+* [porntrex](https://porntrex.com/) (downloads: registration required, ads: high)
+* [daftsex](https://daftsex.com/) (downloads: yes, ads: pop-up ads)
+* [Pornxp](https://pornxp.com/) (downloads: yes, ads: normal)
+* [spankbang](https://spankbang.com/) (downloads: registration required, ads: few-normal)
+* [eporner](https://eporner.com/) (downloads: yes, ads: normal)
+* [porngo](https://porngo.com/) (downloads: yes, ads: normal)
+* [youjizz](https://youjizz.com/) (downloads: yes, ads: normal) (Note: old tube website, new videos are of short length)
+* [tnaflix](https://tnaflix.com/) or [empflix](https://empflix.com/) (downloads: yes, ads: normal) (Note: old scenes in full length, new videos are of short length)
