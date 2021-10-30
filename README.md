@@ -26,7 +26,7 @@ All the information on this website is purely for informational purposes and is 
 ## Reading-Education
 
 * **[Books](https://github.com/Piratezparty/Piratezparty/blob/main/Books.md)**
-* **[Manga/Manhwa/Manhua](https://github.com/Piratezparty/Piratezparty/blob/main/Manga-Manhwa-Manhua.md)**
+* **[Manga / Manhwa / Manhua](https://github.com/Piratezparty/Piratezparty/blob/main/Manga-Manhwa-Manhua.md)**
 
 ***
 ***
@@ -40,10 +40,10 @@ All the information on this website is purely for informational purposes and is 
 ***
 ***
 
-## Mobile/PC
+## Mobile / PC
 
-* **[Anime/Manga](https://github.com/Piratezparty/Piratezparty/blob/main/Anime-Manga-Apps.md)**
-* **[Mods/Cracks](https://github.com/Piratezparty/Piratezparty/blob/main/Mods-Cracks.md)**
+* **[Anime / Manga](https://github.com/Piratezparty/Piratezparty/blob/main/Anime-Manga-Apps.md)**
+* **[Mods / Cracks](https://github.com/Piratezparty/Piratezparty/blob/main/Mods-Cracks.md)**
 
 ***
 ***
@@ -74,14 +74,14 @@ All the information on this website is purely for informational purposes and is 
 
 ## Telegram
 
-* **[Mods/Cracks](https://github.com/Piratezparty/Piratezparty/blob/main/Tele-Mods-Cracks)**
+* **[Mods / Cracks](https://github.com/Piratezparty/Piratezparty/blob/main/Tele-Mods-Cracks.md)**
 
 ***
 ***
 
 ## Miscellaneous
 
-* **[Photos/Fonts](https://github.com/Piratezparty/Piratezparty/blob/main/Photo-Fonts.md)**
+* **[Photos / Fonts](https://github.com/Piratezparty/Piratezparty/blob/main/Photo-Fonts.md)**
 
 ***
 ***
