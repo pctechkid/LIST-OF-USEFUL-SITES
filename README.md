@@ -40,7 +40,7 @@ All the information on this website is purely for informational purposes and is 
 ***
 ***
 
-## Mobile / PC
+## Mobile-PC
 
 * **[Anime / Manga](https://github.com/Piratezparty/Piratezparty/blob/main/Anime-Manga-Apps.md)**
 * **[Mods / Cracks](https://github.com/Piratezparty/Piratezparty/blob/main/Mods-Cracks.md)**
