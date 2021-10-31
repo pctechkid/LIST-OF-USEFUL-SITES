@@ -1,4 +1,4 @@
-# Websites for Mod apks and games(DDL)
+# Websites for Mod apks(DDL)
 
 * [Mobilism](https://forum.mobilism.org/index.php)
 * [piratedhub](https://piratedhub.com/)
