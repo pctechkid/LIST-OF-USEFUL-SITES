@@ -61,9 +61,9 @@
 
 * [r/Manhua](https://www.reddit.com/r/Manhua/) - *The #1 place for manhua on reddit. Whether it be from mainland China, Taiwan, or Hong Kong, all Chinese comics are welcomed here*
 
-* [r/manhwa/](https://www.reddit.com/r/manhwa/) - *This is a subreddit to discuss all things manhwa, Korean comics*
+* [r/manhwa](https://www.reddit.com/r/manhwa/) - *This is a subreddit to discuss all things manhwa, Korean comics*
 
-* [r/webtoons/](https://www.reddit.com/r/webtoons/) - *The subreddit dedicated to webtoons*
+* [r/webtoon/](https://www.reddit.com/r/webtoons/) - *The subreddit dedicated to webtoons*
 
 * [r/Animesuggest](https://www.reddit.com/r/Animesuggest/) - *Suggest an anime, manga, light novel, or visual novel that you've seen and loved, or ask about what to watch, read, or play next*
 
@@ -109,7 +109,7 @@
 
 * [r/torrents](https://www.reddit.com/r/torrents) - *Torrenting discussion and news*
 
-* [r/trackers/](https://www.reddit.com/r/trackers/) - *A subreddit for discussing public & private trackers*
+* [r/trackers](https://www.reddit.com/r/trackers/) - *A subreddit for discussing public & private trackers*
 
 * [r/seedboxes](https://www.reddit.com/r/seedboxes) - *A place to discuss seedboxes and everything related to them*
 
