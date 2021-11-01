@@ -18,6 +18,7 @@
 
 # Hentai Manga
 
+* [r/wholesomehentai](https://www.reddit.com/r/wholesomehentai) - *hentai that makes your heart orgasmi*
 * [Nhentai](https://nhentai.net)
 * [PorndudeList](https://theporndude.com/hentai-manga-sites)
 * [tsumino](https://tsumino.com)
