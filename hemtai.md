@@ -47,7 +47,7 @@
 * [r/wholesomehentai](https://www.reddit.com/r/wholesomehentai) - *hentai that makes your heart orgasm*
 * [r/hentai](https://www.reddit.com/r/hentai) - *Hentai Related sub*
 * [r/HENTAI_GIF](https://www.reddit.com/r/HENTAI_GIF) - *For Hentai Animations*
-* [Hentai4Everyone](https://www.reddit.com/r/Hentai4Everyone) - *Name suggests all*
+* [Hentai4Everyone](https://www.reddit.com/r/Hentai4Everyone) - *Yet Another Hentai Subreddit*
 * [HentaiAnime](https://www.reddit.com/r/HentaiAnime) - *About HentaiAnime*
 * [HentaiManga](https://www.reddit.com/r/HentaiManga) - *NSFW subreddit dedicated to Hentai Manga adult genre*
 * [hentaicomics](https://www.reddit.com/r/hentaicomics) - *Home to your favorite hentai comics and shenanigans*
