@@ -24,4 +24,4 @@
 # Subreddits
 
 * [r/pornhwa](https://www.reddit.com/r/pornhwa) - *18+ NSFW Manhwa, Pornhwa, Manhua and Adult Webtoons*
-* [Pornwha](https://www.reddit.com/r/Pornwha) - *A place for discussion, news, finding sauce and recommendations about Adult Korean Manhwa, Pornhwa, Chinese Manhua and Japanese Webtoons*
+* [Pornwha](https://www.reddit.com/r/Pornwha) - *A place for discussion, news, finding sauce and recommendations about Adult Korean Manhwa/Pornhwa*
