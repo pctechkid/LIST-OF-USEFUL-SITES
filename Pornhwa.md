@@ -1,6 +1,3 @@
-# Note
-
-
 # Websites For Pornhwa
 
 * [Toonily](https://toonily.com/)
