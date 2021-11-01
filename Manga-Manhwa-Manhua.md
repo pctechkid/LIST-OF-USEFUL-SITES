@@ -67,3 +67,7 @@
 * [Manhuazone](https://manhuazone.com/)
 * [Manhuaga.com/](https://manhuaga.com/)
 * [Teenmanhua](https://teenmanhua.com/)
+
+*Note: Majority Manga Sites already have Manhwa and Manhua. The lists other than manga aims at listing few sites which focuses mainly on Manhwa/Manhua*
+
+
