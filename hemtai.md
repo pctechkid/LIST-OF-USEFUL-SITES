@@ -51,3 +51,4 @@
 * [HentaiAnime](https://www.reddit.com/r/HentaiAnime) - *About HentaiAnime*
 * [HentaiManga](https://www.reddit.com/r/HentaiManga) - *NSFW subreddit dedicated to Hentai Manga adult genre*
 * [hentaicomics](https://www.reddit.com/r/hentaicomics) - *Home to your favorite hentai comics and shenanigans*
+* [HentaiSource](https://www.reddit.com/r/HentaiSource) - *This subreddit is dedicated to finding and archiving sources for your fapping needs in the hentai category*
