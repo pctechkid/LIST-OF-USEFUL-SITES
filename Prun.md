@@ -40,6 +40,6 @@
 * [Redbled-nsfwlist](https://www.redbled.com/best-nsfw-sub-reddits/)
 * [ListOfNsfwSubreddits](https://reddit.com/r/ListOfSubreddits/w/nsfw)
 * [Redditlist-nsfw](http://redditlist.com/nsfw) | [Redditlist-nsfw-categories](http://redditlist.com/nsfw#)
-* [Mrporngreek](https://www.mrporngeek.com/best-porn-subreddits/) - *Addblocker must and don't click on other banners and shit*
+* [Mrporngreek](https://www.mrporngeek.com/best-porn-subreddits/) - *Adblocker must and don't click on other banners and shit*
 * [PornGeek](https://porngeek.com/) | [PornGeek-nsfwlist](https://porngeek.com/reddits-nsfw-list/)
 
