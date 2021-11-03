@@ -1,39 +1,22 @@
 # Wallpapers Websites
 
 * [wallpaperset](https://wallpaperset.com/)
-
 * [wallhaven](https://wallhaven.cc/)
-
 * [pixabay](https://pixabay.com/)
-
 * [wallpapershome](https://wallpapershome.com/)
-
 * [wallpaperflare](https://www.wallpaperflare.com/)
-
 * [gettywallpapers](http://gettywallpapers.com/)
-
 * [7-themes](http://7-themes.com/)
-
 * [wallpaperaccess](https://wallpaperaccess.com/)
-
 * [alphacoders](https://wall.alphacoders.com/)
-
 * [wallpapercave](https://wallpapercave.com/)
-
 * [wallpaperscraft](https://wallpaperscraft.com/)
-
 * [pixelstalk](https://www.pixelstalk.net/)
-
 * [wallpaper-house](https://wallpaper-house.com/)
-
 * [hdwallpapers](https://www.hdwallpapers.in/)
-
 * [wallpaperdog](https://wallpaper.dog/)
-
 * [wallpapersden](https://wallpapersden.com/)
-
 * [Unsplash](https://unsplash.com/)
-
 * [Barnimages](https://barnimages.com/)
 
 # Websites for free vector images and related stuff
@@ -82,16 +65,15 @@
 * [freevectors](http://www.freevectors.me/)
 * [vectorbackground](http://www.vectorbackground.net/)
 * [vectorstock](http://www.vectorstock.com/)
+* [deathtothestockphoto](http://deathtothestockphoto.com/)
 
 # Resources for free backgrounds, stock photos and some wallpapers
  
-* [barnimages](http://barnimages.com/)
+
 * [compfight](http://compfight.com/)
-* [deathtothestockphoto](http://deathtothestockphoto.com/)
 * [getrefe.tumblr](http://getrefe.tumblr.com/)
 * [imcreator](http://imcreator.com/free)
 * [isorepublic](http://isorepublic.com/)
-* [jaymantri](http://jaymantri.com/)
 * [jeshoots](http://jeshoots.com/)
 * [kaboompics](http://kaboompics.com/)
 * [librestock](http://librestock.com/)
@@ -113,8 +95,6 @@
 * [stickpng](http://www.stickpng.com)
 * [superfamous](http://www.superfamous.com/)
 * [zoommyapp](http://zoommyapp.com/)
-* [everypixel](https://everypixel.com/)
-* [foodiesfeed](https://foodiesfeed.com/)
 * [glyphs](https://glyphs.co/photos)
 * [picjumbo](https://picjumbo.com/)
 * [picography](https://picography.co/)
@@ -129,3 +109,24 @@
 * [pexels](https://www.pexels.com/)
 * [splitshire](https://www.splitshire.com/)
 * [vecteezy](https://www.vecteezy.com/free-photos)
+* [stokpic](http://stokpic.com/)
+* [visualhunt](https://visualhunt.com/)
+* [freeimages](http://www.freeimages.com/)
+* [images.superfamous](http://images.superfamous.com/)
+* [picjumbo](https://picjumbo.com/)
+* [imcreator](http://imcreator.com/free)
+* [gratisography](http://gratisography.com/)
+* [morguefile](https://morguefile.com/)
+* [littlevisuals](http://littlevisuals.co/)
+* [nos.twnsnd](http://nos.twnsnd.co/)
+* [getrefe](http://getrefe.com/)
+* [publicdomainarchive](http://publicdomainarchive.com/)
+* [magdeleine](http://magdeleine.co/)
+* [libreshot](http://libreshot.com/)
+* [kaboompics](http://kaboompics.com/)
+* [photos.bucketlistly](http://photos.bucketlistly.com/)
+* [foodiesfeed](https://foodiesfeed.com/)
+* [cupcake.nilssonlee](http://cupcake.nilssonlee.se/)
+* [moveast](http://moveast.me/)
+* [splitshire](https://www.splitshire.com/)
+* [snapwiresnaps.tumblr](http://snapwiresnaps.tumblr.com/)
