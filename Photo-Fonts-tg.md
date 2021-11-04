@@ -20,3 +20,12 @@
 * [WallpapersGram](https://t.me/WallpapersGram/)
 * [mmwalls](https://t.me/mmwalls)
 * [AnimeWallpapers](https://t.me/AnimeWallpapers)
+
+# Stock Photo's and wallpaper Channels
+
+* [freestockphotos](https://t.me/freestockphotos)
+* [Shuttersto](https://t.me/Shuttersto)
+* [shutterstockpremium](https://t.me/shutterstockpremium)
+* [shutter](https://t.me/shutter)
+* [shutterstock_c](https://t.me/shutterstock_c)
+* [picsart_hd_background](https://t.me/picsart_hd_background)
