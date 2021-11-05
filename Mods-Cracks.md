@@ -55,5 +55,3 @@
 * [haxnode](https://haxnode.com/)
 * [filecr](http://filecr.com/)
 * [MyDigitalLife](https://forums.mydigitallife.net/)
-
-# [Telegram List For Mods and Cracks](https://github.com/Piratezparty/Piratezparty/blob/main/Tele-Mods-Cracks.md)
