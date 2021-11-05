@@ -44,7 +44,7 @@ All the information on this website is purely for informational purposes and is 
 
 * **[Anime / Manga](https://github.com/Piratezparty/Piratezparty/blob/main/Anime-Manga-Apps.md)**
 * **[Mods / Cracks](https://github.com/Piratezparty/Piratezparty/blob/main/Mods-Cracks.md)**
-* **[Muisc](https://github.com/Piratezparty/Piratezparty/blob/main/Music%20Apps.md)**
+* **[Music](https://github.com/Piratezparty/Piratezparty/blob/main/Music%20Apps.md)**
 
 ***
 ***
