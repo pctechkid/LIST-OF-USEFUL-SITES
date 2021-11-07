@@ -48,7 +48,6 @@
 * [repack](https://repack.me/)
 * [rsload](http://rsload.net/)
 * [mazterize](https://www.mazterize.com/)
-* [dl.malwat](https://dl.malwat.ch/)
 * [piratedhub](https://piratedhub.com/)
 * [lrepacks](https://lrepacks.ru/)
 * [crackingpatching](http://crackingpatching.com/)
