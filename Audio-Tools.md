@@ -60,4 +60,4 @@
 
 * [music-downloader](https://github.com/Dayhawk0z07/music-downloader) - *A python script which downloads any song on your device just by the name of it*
 
-* [Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader/) - *Download 'TIDAL' Music On Windows/Linux/MacOs (PYTHON/C#)*
+* [Qobuz-DL](https://github.com/vitiko98/qobuz-dl) - *A complete Lossless and Hi-Res music downloader for Qobuz*
