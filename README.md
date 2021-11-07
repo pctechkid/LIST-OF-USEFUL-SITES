@@ -77,6 +77,7 @@ All the information on this website is purely for informational purposes and is 
 
 * **[Mods / Cracks](https://github.com/Piratezparty/Piratezparty/blob/main/Mods-Cracks-TG.md)**
 * **[Photos / Fonts](https://github.com/Piratezparty/Piratezparty/blob/main/Photo-Fonts-tg.md)**
+* **[Music](https://github.com/Piratezparty/Piratezparty/blob/main/Music-TG.md)**
 
 ***
 ***
