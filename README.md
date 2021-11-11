@@ -19,8 +19,8 @@ All the information on this website is purely for informational purposes and is 
 * **[Sports](https://github.com/Piratezparty/Piratezparty/blob/main/Sports.md)**
 * **[Games](https://github.com/Piratezparty/Piratezparty/blob/main/Games.md)**
 * **[Songs](https://github.com/Piratezparty/Piratezparty/blob/main/Songs.md)**
-* **[Cartoons](https://github.com/Piratezparty/Piratezparty/blob/main/Cartoons.md)
-* Drama
+* **[Cartoons](https://github.com/Piratezparty/Piratezparty/blob/main/Cartoons.md)**
+* **[Drama](https://github.com/Piratezparty/Piratezparty/blob/main/Drama.md)**
 
 ***
 ***
@@ -88,6 +88,7 @@ All the information on this website is purely for informational purposes and is 
 * **[Photos / Fonts](https://github.com/Piratezparty/Piratezparty/blob/main/Photo-Fonts-tg.md)**
 * **[Music](https://github.com/Piratezparty/Piratezparty/blob/main/Music-TG.md)**
 * **[Cartoons](https://github.com/Piratezparty/Piratezparty/blob/main/Cartoons-TG.md)**
+* **[Drama](https://github.com/Piratezparty/Piratezparty/blob/main/Drama-TG.md)
 
 ***
 ***
