@@ -88,7 +88,8 @@ All the information on this website is purely for informational purposes and is 
 * **[Photos / Fonts](https://github.com/Piratezparty/Piratezparty/blob/main/Photo-Fonts-tg.md)**
 * **[Music](https://github.com/Piratezparty/Piratezparty/blob/main/Music-TG.md)**
 * **[Cartoons](https://github.com/Piratezparty/Piratezparty/blob/main/Cartoons-TG.md)**
-* **[Drama](https://github.com/Piratezparty/Piratezparty/blob/main/Drama-TG.md)
+* **[Drama](https://github.com/Piratezparty/Piratezparty/blob/main/Drama-TG.md)**
+* **[Books](https://github.com/Piratezparty/Piratezparty/blob/main/Books-TG.md)**
 
 ***
 ***
