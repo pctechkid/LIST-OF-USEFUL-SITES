@@ -1,15 +1,15 @@
 # Websites to download cartoons (DDL)
 
-https://www.toonworld4all.me/
-https://anime-world.in/
-http://toonworldtamil.com/
-https://coolsanime.org/
-http://deadtoonsindia.net/
-http://raretoonsindia.com/
-http://cartoontechkid.co.in/
-https://kimcartoon.to/
-https://www.toonplex.in/
-https://hindimetoonsinhd.blogspot.com/
-https://animetoonhindi2.blogspot.com/
-https://tvtoonsindia.com/
-https://www.wco.tv/
+* [toonworld4all](https://www.toonworld4all.me/)
+* [anime-world](https://anime-world.in/)
+* [toonworldtamil](http://toonworldtamil.com/)
+* [coolsanime](https://coolsanime.org/)
+* [deadtoonsindia](http://deadtoonsindia.net/)
+* [raretoonsindia](http://raretoonsindia.com/)
+* [cartoontechkid.co](http://cartoontechkid.co.in/)
+* [kimcartoon](https://kimcartoon.to/)
+* [toonplex](https://www.toonplex.in/)
+* [hindimetoonsinhd.blogspot](https://hindimetoonsinhd.blogspot.com/)
+* [animetoonhindi2.blogspot](https://animetoonhindi2.blogspot.com/)
+* [tvtoonsindia](https://tvtoonsindia.com/)
+* [wco](https://www.wco.tv/)
