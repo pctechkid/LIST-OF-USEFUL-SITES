@@ -39,3 +39,14 @@
 * [Hakuneko](https://github.com/manga-download/hakuneko)
 * [Yukino-app](https://github.com/zyrouge/yukino-app/)
 
+# iOS Anime
+* [NineAnimator](https://github.com/SuperMarcus/NineAnimator)
+* [Ketsu](https://ketsu.app/)
+
+#iOS Manga
+* [MangaToon](https://apps.apple.com/us/app/mangatoon-manga-reader/id1385287093)
+* [Paperback](https://paperback.moe/ )
+* [Zetsu](https://apps.apple.com/us/app/zetsu-by-orion/id1510161371)
+
+
+
