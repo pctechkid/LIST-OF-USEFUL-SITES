@@ -47,6 +47,7 @@
 * [MangaToon](https://apps.apple.com/us/app/mangatoon-manga-reader/id1385287093)
 * [Paperback](https://paperback.moe/ )
 * [Zetsu](https://apps.apple.com/us/app/zetsu-by-orion/id1510161371)
+* [MangaMax](https://apps.apple.com/us/app/apple-store/id1558957618 )
 
 
 
