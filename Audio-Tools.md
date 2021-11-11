@@ -61,3 +61,23 @@
 * [music-downloader](https://github.com/Dayhawk0z07/music-downloader) - *A python script which downloads any song on your device just by the name of it*
 
 * [Qobuz-DL](https://github.com/vitiko98/qobuz-dl) - *A complete Lossless and Hi-Res music downloader for Qobuz*
+
+# Selfhosted Music Server/Player
+
+* [Koel](https://github.com/koel/koel) - *A personal music streaming server that works*
+
+* [Polaris](https://github.com/agersant/polaris) - *Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device*
+
+* [Echo](https://github.com/anhthii/Echo) - *A music streaming app built with React and Nodejs*
+
+* [MStream](https://github.com/IrosTheBeggar/mStream) - *The easiest music streaming server available*
+
+* [Shazify](https://github.com/orifmilod/Shazify) - *Shazam + Spotify = A full stack music player app, using Spotify API endpoints, which can search audio/text and find and play music online, play your playlist from Spotify and popular playlists in your area*
+
+* [Black_Candy](https://github.com/aidewoode/black_candy) - *A self hosted music streaming server*
+
+* [AirSonic-Refix](https://github.com/tamland/airsonic-refix) - *Modern UI for Airsonic / Subsonic*
+
+* [MusicPlayer](https://github.com/rajaprerak/MusicPlayer) - *Music Player with Django. Simple and easy to use music streaming website*
+
+* [Mopidy](https://github.com/mopidy) - *Mopidy is an extensible music server written in Python*
