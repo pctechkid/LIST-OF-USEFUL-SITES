@@ -1,4 +1,4 @@
-Telegram channels to download cartoons
+# Telegram channels for mostly Indian Cartoons
 
 * [AnimatedShowsHindi](https://t.me/AnimatedShowsHindi)
 * [CartoonKingdom](https://t.me/CartoonKingdom)
