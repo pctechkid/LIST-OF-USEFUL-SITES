@@ -19,6 +19,8 @@ All the information on this website is purely for informational purposes and is 
 * **[Sports](https://github.com/Piratezparty/Piratezparty/blob/main/Sports.md)**
 * **[Games](https://github.com/Piratezparty/Piratezparty/blob/main/Games.md)**
 * **[Songs](https://github.com/Piratezparty/Piratezparty/blob/main/Songs.md)**
+* Cartoons
+* Drama
 
 ***
 ***
@@ -27,6 +29,8 @@ All the information on this website is purely for informational purposes and is 
 
 * **[Books](https://github.com/Piratezparty/Piratezparty/blob/main/Books.md)**
 * **[Manga / Manhwa / Manhua](https://github.com/Piratezparty/Piratezparty/blob/main/Manga-Manhwa-Manhua.md)**
+* Courses
+* Light Novels
 
 ***
 ***
@@ -36,6 +40,10 @@ All the information on this website is purely for informational purposes and is 
 * **[Entertainment Tools](https://github.com/Piratezparty/Piratezparty/blob/main/Entertainment-Tools.md)**
 * **[Audio Tools](https://github.com/Piratezparty/Piratezparty/blob/main/Audio-Tools.md)**
 * **[Encoding Tools](https://github.com/Piratezparty/Piratezparty/blob/main/Encoding-Tools.md)**
+* Reading
+* Colab
+* Torrents-Aria
+* Media Managers
 
 ***
 ***
@@ -53,6 +61,7 @@ All the information on this website is purely for informational purposes and is 
 
 * **[Encoding](https://github.com/Piratezparty/Piratezparty/blob/main/Encoding-Guides.md)**
 * **[MediaManagers](https://github.com/Piratezparty/Piratezparty/blob/main/MediaManager-Guides.md)**
+* Torrents
 
 ***
 ***
