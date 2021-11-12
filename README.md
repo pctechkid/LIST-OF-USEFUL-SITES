@@ -29,7 +29,7 @@ All the information on this website is purely for informational purposes and is 
 
 * **[Books](https://github.com/Piratezparty/Piratezparty/blob/main/Books.md)**
 * **[Manga / Manhwa / Manhua](https://github.com/Piratezparty/Piratezparty/blob/main/Manga-Manhwa-Manhua.md)**
-* Courses
+* **[Courses](https://github.com/Piratezparty/Piratezparty/blob/main/Courses.md)**
 * Light Novels
 
 ***
@@ -90,6 +90,7 @@ All the information on this website is purely for informational purposes and is 
 * **[Cartoons](https://github.com/Piratezparty/Piratezparty/blob/main/Cartoons-TG.md)**
 * **[Drama](https://github.com/Piratezparty/Piratezparty/blob/main/Drama-TG.md)**
 * **[Books](https://github.com/Piratezparty/Piratezparty/blob/main/Books-TG.md)**
+* **[Courses](https://github.com/Piratezparty/Piratezparty/blob/main/Courses-TG.md)**
 
 ***
 ***
