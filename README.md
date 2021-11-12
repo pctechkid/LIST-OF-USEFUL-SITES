@@ -104,7 +104,8 @@ All the information on this website is purely for informational purposes and is 
 # Inspiration/Purpose
 I know Awesome Piracy and FMHY already exists but I like to collect. I had my tg channel and discord server where I use to share my collections. But over the years due to lack of time I am unable to share much so decided to batch up all my collections and make yet another index as farewell gift. I am not sure whether I will be able to maintain it(I will try to maintain) so feel free to fork and continue it.
 
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-
-
-
+To the extent possible under law, Piratezparty has waived all copyright and
+related or neighboring rights to this work.
