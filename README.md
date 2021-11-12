@@ -41,7 +41,7 @@ All the information on this website is purely for informational purposes and is 
 * **[Audio Tools](https://github.com/Piratezparty/Piratezparty/blob/main/Audio-Tools.md)**
 * **[Encoding Tools](https://github.com/Piratezparty/Piratezparty/blob/main/Encoding-Tools.md)**
 * **[Reading](https://github.com/Piratezparty/Piratezparty/blob/main/Reading-Tools.md)**
-* Colab
+* **[Colab](https://github.com/Piratezparty/Piratezparty/blob/main/Colab.md)**
 * Torrents-Aria
 * Media Managers
 
