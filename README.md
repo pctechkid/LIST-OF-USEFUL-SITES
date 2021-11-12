@@ -53,7 +53,7 @@ All the information on this website is purely for informational purposes and is 
 * **[Anime / Manga](https://github.com/Piratezparty/Piratezparty/blob/main/Anime-Manga-Apps.md)**
 * **[Mods / Cracks](https://github.com/Piratezparty/Piratezparty/blob/main/Mods-Cracks.md)**
 * **[Music](https://github.com/Piratezparty/Piratezparty/blob/main/Music-Apps.md)**
-* **[LightNovels](https://github.com/Piratezparty/Piratezparty/blob/main/LightNovel-Apps.md)**
+* **[Light Novels](https://github.com/Piratezparty/Piratezparty/blob/main/LightNovel-Apps.md)**
 
 ***
 ***
