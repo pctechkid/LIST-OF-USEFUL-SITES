@@ -42,7 +42,7 @@ All the information on this website is purely for informational purposes and is 
 * **[Encoding Tools](https://github.com/Piratezparty/Piratezparty/blob/main/Encoding-Tools.md)**
 * **[Reading](https://github.com/Piratezparty/Piratezparty/blob/main/Reading-Tools.md)**
 * **[Colab](https://github.com/Piratezparty/Piratezparty/blob/main/Colab.md)**
-* Torrents-Aria
+* **[Torrents](https://github.com/Piratezparty/Piratezparty/blob/main/Torrent-Tools.md)**
 * Media Managers
 
 ***
