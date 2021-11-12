@@ -27,3 +27,33 @@
 * [MangaReaderScraper](https://github.com/superDross/MangaReaderScraper) - Search and download mangas from the command line*
 
 * [FMD2](https://github.com/dazedcat19/FMD2) - *This is an active fork of the Free Manga Downloader which is a free open source application written in Object Pascal for managing and downloading manga from various websites*
+
+
+# Tools For downloading Comics:
+
+* [AutoBook](https://github.com/umjammer/K-AutoBook) - *Comics download script*
+
+* [Comics-Downloader](https://github.com/Girbons/comics-downloader) - *tool to download comics and manga in pdf/epub/cbr/cbz from a website*
+
+* [ComicMaker](https://github.com/Gunjan933/comicMaker) - *comicMaker is a command line tool to download Comics and Manga from various Manga and Comic sites easily*
+
+* [Comic-dl](https://github.com/Xonshiz/comic-dl) - *Comic-dl is a command line tool to download manga and comics from various comic and manga sites. Supported sites : readcomiconline.to, mangafox.me, comic naver and many more*
+
+* [Webcomix](https://github.com/J-CPelletier/webcomix) - *Webcomic downloader*
+
+* [Comics-dl](https://github.com/The-Eye-Team/Comics-DL) - *Comics Archiver*
+
+* [Tapas-Comic-Downloader](https://github.com/TilCreator/Tapas-Comic-Downloader) - *This is a downloader to download whole comics from https://tapas.io/*
+
+* [Comic2pdf](https://github.com/thomasherzog/comic2pdf) - *comic2pdf converts comic book format to pdf*
+
+
+# Tools for downloading Novel:
+
+* [Novel-Grabber](https://github.com/Flameish/Novel-Grabber) - *Novel-Grabber can download novels from pretty much any webnovel and lightnovel site*
+
+* [LightNovel-Crawler](https://github.com/dipu-bd/lightnovel-crawler) - *Download and generate e-books from online sources*
+
+* [Novel-2-EBook](https://github.com/EternalTrail/Novel-2-EBook) - *Python program to download novels available on Wuxia World and other sites as E-Books*
+
+* [Mknovel](https://github.com/subchen/mknovel) - *Download web novel and pack*
