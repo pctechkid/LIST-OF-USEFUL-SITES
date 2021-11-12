@@ -1,4 +1,4 @@
-# Tools to Download videos from anime streaming sites 
+# Anime Tools
 
 * [anime-downloader](https://github.com/anime-dl/anime-downloader) - *A simple but powerful anime downloader and streamer*
 
@@ -29,3 +29,19 @@
 * [AnimeX-pack](https://github.com/Mastersam07/animeX-pack) - *A lightweight Python library (and command-line utility) for downloading anime*
 
 * [Re-Anime](https://github.com/varunpanchal283/Re-Anime) - *Anime Bulk Downloader*
+
+* [Mayame](https://github.com/asakura42/manyame) - *anime cli xdcc download script for linux/win/mac/android*
+
+* [Koneko](https://github.com/irevenko/koneko) - *nyaa.si terminal BitTorrent tracker*
+
+* [AnimeClub](https://github.com/Moisz22/AnimeClub) - *Personal web page to keep records of an anime that you have finished watching, are currently watching, or have yet to be seen*
+
+* [Nyaascraper](https://github.com/zaini/nyaascraper) - *An application to scrape and open magnet links for fansub groups from nyaa.si where batches don't already exist*
+
+* [Aniloader](https://github.com/Xanahol/Aniloader) - *Automated Anime-download from SubsPlease by using Web crawling, magnet links and qBittorrent*
+
+* [batch-downloader-nyaa](https://github.com/marcpinet/batch-downloader-nyaa.si/) - *focused on making easier to batch download torrents or transfer magnets from Nyaa.si*
+
+* [AnIRC](https://github.com/burgersc12/AnIRC) - *Automated Anime Download Via XDCC*
+
+* [Rss-anime-notifier](https://gitlab.com/blankX/rss-anime-notifier-rs) - *RSS Anime Notifier but in Rust*
