@@ -69,6 +69,8 @@ All the information on this website is purely for informational purposes and is 
 
 ## Awesome-Collection
 
+* General
+* Warez
 * **[Reddit](https://github.com/Piratezparty/Piratezparty/blob/main/Awesome-Reddit.md)** 
 
 ***
