@@ -44,5 +44,8 @@
 * [Free-For-Dev](https://github.com/jixserver/free-for-dev)
 * [FreeSoft](https://freesoft.dev/)
 
+**r/Android Wiki**
+* [Apps](https://reddit.com/r/Android/w/apps)
+* [Index](https://reddit.com/r/Android/w/index)
 
 
