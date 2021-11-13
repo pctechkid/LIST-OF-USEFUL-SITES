@@ -62,7 +62,7 @@ All the information on this website is purely for informational purposes and is 
 
 * **[Encoding](https://github.com/Piratezparty/Piratezparty/blob/main/Encoding-Guides.md)**
 * **[MediaManagers](https://github.com/Piratezparty/Piratezparty/blob/main/MediaManager-Guides.md)**
-* Torrents
+* **[Torrents](https://github.com/Piratezparty/Piratezparty/blob/main/Torrent-Guides.md)**
 
 ***
 ***
