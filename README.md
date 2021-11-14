@@ -102,7 +102,7 @@ All the information on this website is purely for informational purposes and is 
 
 * **[Photos / Fonts](https://github.com/Piratezparty/Piratezparty/blob/main/Photo-Fonts.md)**
 * **[Opendirectories](https://github.com/Piratezparty/Piratezparty/blob/main/Opendirectories.md)
-* Torrent-aggregators
+* **[Torrent-aggregators](https://github.com/Piratezparty/Piratezparty/blob/main/Torrent-aggregators.md)
 
 ***
 ***
