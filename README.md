@@ -44,6 +44,7 @@ All the information on this website is purely for informational purposes and is 
 * **[Colab](https://github.com/Piratezparty/Piratezparty/blob/main/Colab.md)**
 * **[Torrents](https://github.com/Piratezparty/Piratezparty/blob/main/Torrent-Tools.md)**
 * **[Media Managers](https://github.com/Piratezparty/Piratezparty/blob/main/MediaManagers-Tools.md)**
+* **[Cloning Tools](https://github.com/Piratezparty/Piratezparty/blob/main/Cloning-Tools.md)**
 
 ***
 ***
