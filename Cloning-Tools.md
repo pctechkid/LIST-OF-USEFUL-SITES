@@ -47,7 +47,7 @@
 * [anime-republic/CLONE-HUNTER](https://github.com/anime-republic/CLONE-HUNTER) - *Service Account Support*
 * [roshanconnor123/Gdutils_Tgbot](https://github.com/roshanconnor123/Gdutils_Tgbot) - *Service Account Support*
 
-TELEGRAM CHANNEL CLONING
+# TELEGRAM CHANNEL CLONING
 
 * [m4mallu/clonebot](https://github.com/m4mallu/clonebot)
 * [aahnik/tgcf](https://github.com/aahnik/tgcf)
