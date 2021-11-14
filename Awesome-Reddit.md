@@ -143,4 +143,4 @@
 
 * [r/privacy](https://www.reddit.com/r/privacy) - *The intersection of technology, privacy, and freedom in a digital world*
 
-* [r/PrivacyGuides](https://www.reddit.com/r/PrivacyGuides/) - *The PrivacyTools team is providing resources to protect your privacy against global, mass surveillance*
+* [r/PrivacyGuides](https://www.reddit.com/r/PrivacyGuides/) - *The PrivacyGuides team is providing resources to protect your privacy against global, mass surveillance*
