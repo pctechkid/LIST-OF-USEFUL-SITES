@@ -52,5 +52,8 @@
 **The Pirate List**
 * [Thepiratelist](https://thepiratelist.com/)
 
+**LightNovel Site Dump**
+* [LN-Site-Dump](https://docs.google.com/spreadsheets/d/1KGPLcSikfMgjtL7u8e2eiMQwDIgoAefOZsVrEzN9MQw/htmlview)
+
 
 
