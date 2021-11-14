@@ -8,9 +8,11 @@
 * [Mmnt](https://www.mmnt.ru/int/)
 * [Filepursuit](https://filepursuit.com/)
 * [Filechef](https://www.filechef.com/)
+* [List of Opendirectories](https://cirrus.freevar.com/)
 * [Filelisting](https://filelisting.com/)
 * [Odcrawler](https://odcrawler.xyz/)
 * [Jummyr](http://www.jimmyr.com/)
+* [OpenDirectoryDownloader](https://open-directory-downloader.herokuapp.com/)
 * [Needmorehdd](https://doyou.needmorehdd.space/)
 * [Opendir](https://opendirsearch.abifog.com/)
 * [Eyeofjustice](https://www.eyeofjustice.com/od/)
@@ -19,4 +21,4 @@
 * [Lendx](http://lendx.org/)
 * [OD-Downloader](https://github.com/KoalaBear84/OpenDirectoryDownloader)
 
-For more check [OD-TG](https://t.me/r_OpenDirectories) | [OD-Reddit](https://www.reddit.com/r/opendirectories)
+**For more check [OD-TG](https://t.me/r_OpenDirectories) | [OD-Reddit](https://www.reddit.com/r/opendirectories)**
