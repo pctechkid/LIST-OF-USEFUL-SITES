@@ -47,3 +47,25 @@
 * [YukinoAi - Fabsubbing and Encoding Guide](https://gist.github.com/YukinoAi/acea024631a2585aa592b16b4bde959f)
 
 * [Bodoicuho Guides](https://bodoicuho.ucoz.ru/)
+
+# Ffmpeg Guides
+
+* [ffmpeg.org/ffmpeg-all](https://ffmpeg.org/ffmpeg-all.html#) - *ffmpeg documentation*
+
+* [trac.ffmpeg](https://trac.ffmpeg.org/) - *ffmpeg wiki*
+
+* [ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial)
+
+* [ffmpeg-for-beginners-processing-converting-and-streaming-video](https://api.video/blog/video-trends/ffmpeg-for-beginners-processing-converting-and-streaming-video)
+
+* [itsfoss/ffmpeg](https://itsfoss.com/ffmpeg/)
+
+* [gist.github-ffmpeg](https://gist.github.com/protrolium/e0dbd4bb0f1a396fcb55)
+
+* [ffmpeg-web-video-guide](https://gist.github.com/jaydenseric/220c785d6289bcfd7366)
+
+* [ffmpeg-commands](https://github.com/a-nagrani/ffmpeg-commands)
+
+* [ffmpeg encoding](https://gist.github.com/Vestride/278e13915894821e1d6f)
+
+* [FFmpeg cheat sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730)
