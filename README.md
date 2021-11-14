@@ -101,6 +101,9 @@ All the information on this website is purely for informational purposes and is 
 ## Miscellaneous
 
 * **[Photos / Fonts](https://github.com/Piratezparty/Piratezparty/blob/main/Photo-Fonts.md)**
+* Bins
+* Opendirectories
+* Torrent-aggregators
 
 ***
 ***
