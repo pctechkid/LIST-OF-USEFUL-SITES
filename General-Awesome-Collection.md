@@ -23,7 +23,7 @@
 **Awesome Privacy**
 * [Pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)
 * [KevinColemanInc/awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy)
-* [Privacytools.io](https://www.privacytools.io/)
+* [PrivacyGuides.org](https://www.privacyguides.org/)
 * [Privacy Tool List By Chef-Kock](https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/)
 
 **Free Premium Leeches**
