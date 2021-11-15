@@ -19,3 +19,9 @@
 * [Vidcoder](https://vidcoder.net/) - *VidCoder is an open-source DVD/Blu-ray ripping and video transcoding application for Windows. It uses HandBrake as its encoding engine*
 
 * [RipBot264](https://www.videohelp.com/software/RipBot264) - *RipBot264 is a an easy to use All-In-One Converter. Convert from DVD, Blu-ray or any video to iPod, iPad, PSP, PS3, XBOX360, PC, MAC, MP4, MKV, Blu-ray or AVCHD without exotic filters and unnecessary settings*
+
+* [x265](http://x265.github.io/) - *Internet Friendly Media Encoder*
+
+* [vapoursynth](https://www.vapoursynth.com/) - *A video processing framework with simplicity in mind* | [vsdb.top](https://vsdb.top/) - *All your VapourSynth Plugins in one place*
+
+* [Avisynth](http://avisynth.nl/index.php/Main_Page) - *AviSynth is a powerful tool for video post-production. It provides ways of editing and processing videos*
