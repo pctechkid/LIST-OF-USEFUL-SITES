@@ -43,7 +43,6 @@
 
 # Reddit Collection
 
-
 * [r/wholesomehentai](https://www.reddit.com/r/wholesomehentai) - *hentai that makes your heart orgasm*
 * [r/hentai](https://www.reddit.com/r/hentai) - *Hentai Related sub*
 * [r/HENTAI_GIF](https://www.reddit.com/r/HENTAI_GIF) - *For Hentai Animations*
@@ -52,3 +51,33 @@
 * [HentaiManga](https://www.reddit.com/r/HentaiManga) - *NSFW subreddit dedicated to Hentai Manga adult genre*
 * [hentaicomics](https://www.reddit.com/r/hentaicomics) - *Home to your favorite hentai comics and shenanigans*
 * [HentaiSource](https://www.reddit.com/r/HentaiSource) - *This subreddit is dedicated to finding and archiving sources for your fapping needs in the hentai category*
+
+# Tools
+
+* [peter-parker](https://github.com/ChingChang9/peter-parker) - *With great power comes great hentai*
+
+* [Comics-DL](https://github.com/The-Eye-Team/Comics-DL) - *a comic archiver but supports hentai sites*
+
+* [E-Hentai-Downloader](https://github.com/ccloli/E-Hentai-Downloader) - *Download E-Hentai archive as zip file*
+
+* [yamete](https://github.com/jaymoulin/yamete) - *Hentai downloader in PHP CLI*
+
+* [gnhentai](https://github.com/tdakkota/gnhentai) - *nhentai.net API Client*
+
+* [Give-Me-The-Sauce](https://github.com/on33s4m4/Give-Me-The-Sauce) - *The easiest way to download that sauce*
+
+* [h-manga-downloader](https://github.com/AmbitionlessFr1end/h-manga-downloader) - *A script for downloading hentai manga/doujin files and storing them in a folder*
+
+* [NHentaiDownloader](https://github.com/Xwilarg/NHentaiDownloader) - *A chrome extension to download doujinshi from NHentai*
+
+* [asuka](https://github.com/aikoofujimotoo/asuka) - *A cross-platform nhentai downloader written in C#*
+
+* [n-hentai-scraper](https://github.com/SoloSynth1/n-hentai-scraper) - *Simple synchronous nhentai gallery downloader*
+
+* [hentai_Downloader_eel](https://github.com/BrownsugarZeer/hentai_Downloader_eel) - *This is a downloader for Nhentai with GUI*
+
+* [hanime](https://github.com/lilacre/hanime) - *hanime hentai video downloader*
+
+* [htv](https://github.com/rxqv/htv) - *CLI tool for downloading hentai from hanime.tv*
+
+* [go-hentai-scraper](https://github.com/gan-of-culture/go-hentai-scraper) - *A hentai scraper made in go*
