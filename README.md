@@ -6,7 +6,7 @@ All the information on this website is purely for informational purposes and is 
 ## Privacy
 
 * **[Mails](https://github.com/Piratezparty/Piratezparty/blob/main/Mails.md)**
-* Vpn
+* **[Vpn](https://github.com/SpamVerse/Piratezparty/blob/main/VPN.md)**
 * Antivirus
 
 ***
