@@ -7,7 +7,7 @@ All the information on this website is purely for informational purposes and is 
 
 * **[Mails](https://github.com/Piratezparty/Piratezparty/blob/main/Mails.md)**
 * **[Vpn](https://github.com/SpamVerse/Piratezparty/blob/main/VPN.md)**
-* Antivirus
+* **[Antivirus](https://github.com/SpamVerse/Piratezparty/blob/main/Antivirus.md)**
 
 ***
 ***
