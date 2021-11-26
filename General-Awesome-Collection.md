@@ -4,6 +4,7 @@
 * [Archiveis](https://archive.is/)
 * [Cachedview](http://cachedview.com/)
 * [Time travel](http://timetravel.mementoweb.org/)
+* [r/megalinks Archive](https://megadb.tweakly.net/) - *Specific Site Archive*
 
 **API index/List**
 * [Apilist](https://apilist.fun/)
