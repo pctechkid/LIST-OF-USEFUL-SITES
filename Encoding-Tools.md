@@ -25,3 +25,7 @@
 * [vapoursynth](https://www.vapoursynth.com/) - *A video processing framework with simplicity in mind* | [vsdb.top](https://vsdb.top/) - *All your VapourSynth Plugins in one place*
 
 * [Avisynth](http://avisynth.nl/index.php/Main_Page) - *AviSynth is a powerful tool for video post-production. It provides ways of editing and processing videos*
+
+* [Mkvtoolnix](https://mkvtoolnix.download/) - *MKVToolNix is a set of tools to create, alter and inspect Matroska files under Linux, other Unices and Windows*
+
+* [Makemkv](https://www.makemkv.com/) - *MakeMKV is a format converter, otherwise called "transcoder". It converts the video clips from proprietary (and usually encrypted) disc into a set of MKV files, preserving most information but not changing it in any way. The MKV format can store multiple video/audio tracks with all meta-information and preserve chapters*
