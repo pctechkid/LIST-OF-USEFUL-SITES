@@ -1,5 +1,5 @@
 # Android Anime
-* [snoanime](http://snoanime.net/)
+* [snoanime](http://snoanime.com/)
 * [AnimeDL](http://a.animedlweb.ga/)
 * [AnimeTwist](https://github.com/simrat39/AnimeTwistFlut)
 * [Shiroapp-fork](https://github.com/deceptions/no)
