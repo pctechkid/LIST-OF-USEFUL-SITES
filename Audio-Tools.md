@@ -81,3 +81,5 @@
 * [MusicPlayer](https://github.com/rajaprerak/MusicPlayer) - *Music Player with Django. Simple and easy to use music streaming website*
 
 * [Mopidy](https://github.com/mopidy) - *Mopidy is an extensible music server written in Python*
+
+* [Deemixrr](https://github.com/TheUltimateC0der/Deemixrr) - *deemixrr manages your artists and playlists completely automated. You add your favorite artists and playlists, and deemixrr does the rest for you*
