@@ -139,7 +139,6 @@
 * [rarelust](https://rarelust.com/)
 * [releasehive](https://releasehive.com/)
 * [2ddl](https://2ddl.ms/)
-* [snahp](https://snahp.it/)
 * [4kremux](https://4kremux.com/)
 * [ddlvalley](https://www.ddlvalley.me/)
 * [scnsrc](https://www.scnsrc.me/)
