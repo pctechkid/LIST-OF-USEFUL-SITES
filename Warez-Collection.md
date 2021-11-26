@@ -70,4 +70,7 @@
 **Pirates Neverland**
 * [Pirates Neverland](http://www.neverland.ws/index.html)
 
+**Piratesites.com**
+* [Piratesites](https://web.archive.org/web/20200317192929/https://piratesites.com/)
+
 
