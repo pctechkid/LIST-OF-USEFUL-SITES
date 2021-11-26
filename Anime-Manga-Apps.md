@@ -1,5 +1,4 @@
 # Android Anime
-* [Katsu](https://katsu.pw/)
 * [snoanime](http://snoanime.net/)
 * [AnimeDL](http://a.animedlweb.ga/)
 * [AnimeTwist](https://github.com/simrat39/AnimeTwistFlut)
