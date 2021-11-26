@@ -1,6 +1,7 @@
 # Android
 
 * [Ranobe](https://bitbucket.org/cylonu87/ranobe/downloads/)
+* [OtakuWorld](https://github.com/jakepurple13/OtakuWorld)
 * [LnReader](https://github.com/rajarsheechatterjee/lnreader)
 * [Shosetsu](https://shosetsu.app)
 * [NovelLibrary](https://play.google.com/store/apps/details?id=io.github.gmathi.novellibrary)
