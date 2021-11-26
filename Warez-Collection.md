@@ -73,4 +73,7 @@
 **Piratesites.com**
 * [Piratesites](https://web.archive.org/web/20200317192929/https://piratesites.com/)
 
+**Sajayprakash/megathread**
+* [Megathread](https://github.com/sajayprakash/megathread)
+
 
