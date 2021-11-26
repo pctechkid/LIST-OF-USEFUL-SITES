@@ -1,7 +1,7 @@
 # Android Anime
-* [snoanime](http://snoanime.com/)
 * [AnimeDL](http://a.animedlweb.ga/)
 * [AnimeTwist](https://github.com/simrat39/AnimeTwistFlut)
+* [AnimeWorld](https://github.com/jakepurple13/AnimeWorld)
 * [Shiroapp-fork](https://github.com/deceptions/no)
 * [Taiyaki](https://github.com/TaiyakiContainer/TaiYaKiAnime)
 * [AnimeXstream](https://github.com/mukul500/AnimeXStream/)
@@ -16,6 +16,7 @@
 * [Animity](https://github.com/kl3jvi/animity)
 * [Kayuri](https://github.com/Killerpac/Kayuri)
 * [Akiyama](https://github.com/Fmaldonado6/Akiyama)
+* [OtakuWorld](https://github.com/jakepurple13/OtakuWorld)
 * [AnimeOut](https://www.animeout.xyz/progress-and-update-on-the-desktop-mobile-apps-and-new-platform/)
 
 # Windows Anime 
@@ -30,8 +31,10 @@
 * [Mangatag](https://www.mangatag.com/)
 * [Manga-World](https://github.com/jakepurple13/MangaWorld)
 * [MangaToon](https://play.google.com/store/apps/details?id=mobi.mangatoon.comics.aphone )
+* [MangaWorld](https://github.com/jakepurple13/MangaWorld)
 * [Tachiyomi-Fork](https://tachiyomi.org/forks/ )
 * [Yukino-app](https://github.com/zyrouge/yukino-app/)
+* [OtakuWorld](https://github.com/jakepurple13/OtakuWorld)
 
 # Windows Manga
 * [Tachidesk-Server](https://github.com/Suwayomi/Tachidesk-Server)
