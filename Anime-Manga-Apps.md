@@ -1,9 +1,3 @@
-# CLI Anime
-| Repo Name | Status | Commit Frequency |
-| ------------- | ------------- | ------------- |
-| [animdl](https://github.com/justfoolingaround/animdl) | ![Last Commit](https://img.shields.io/github/last-commit/justfoolingaround/animdl) | ![Freq](https://img.shields.io/github/commit-activity/m/justfoolingaround/animdl) |
-| [anime-downloader](https://github.com/anime-dl/anime-downloader) | ![Last Commit](https://img.shields.io/github/last-commit/anime-dl/anime-downloader) | ![Freq](https://img.shields.io/github/commit-activity/m/anime-dl/anime-downloader) |
-
 # Android Anime
 | App Name | Status | Commit Frequency |
 | ------------- | ------------- | ------------- |
