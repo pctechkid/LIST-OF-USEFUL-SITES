@@ -49,6 +49,7 @@
 | [MangaWorld](https://github.com/jakepurple13/MangaWorld) | ![Last Commit](https://img.shields.io/github/last-commit/jakepurple13/MangaWorld) | ![Freq](https://img.shields.io/github/commit-activity/m/jakepurple13/MangaWorld) |
 | [MangaToon](https://play.google.com/store/apps/details?id=mobi.mangatoon.comics.aphone )
 | [Tachiyomi Forks](https://tachiyomi.org/forks)
+| [AnimeClassroom](https://github.com/justdvnsh/AnimeClassroom) | ![Last Commit](https://img.shields.io/github/last-commit/justdvnsh/AnimeClassroom) | ![Freq](https://img.shields.io/github/commit-activity/m/justdvnsh/AnimeClassroom) |
 | [Yukino](https://github.com/yukino-app/yukino)| ![Last Commit](https://img.shields.io/github/last-commit/yukino-app/yukino) | ![Freq](https://img.shields.io/github/commit-activity/m/yukino-app/yukino) |
 | [OtakuWorld](https://github.com/jakepurple13/OtakuWorld) | ![Last Commit](https://img.shields.io/github/last-commit/jakepurple13/OtakuWorld) | ![Freq](https://img.shields.io/github/commit-activity/m/jakepurple13/OtakuWorld) |
 
