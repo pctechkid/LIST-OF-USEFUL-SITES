@@ -16,6 +16,7 @@
 | [Kayuri (AnimeXStream Fork)](https://github.com/Killerpac/Kayuri) | ![Last Commit](https://img.shields.io/github/last-commit/Killerpac/Kayuri) | ![Freq](https://img.shields.io/github/commit-activity/m/Killerpac/Kayuri) |
 | [AnimeBoya](https://github.com/Tu2l/AnimeBoya) | ![Last Commit](https://img.shields.io/github/last-commit/Tu2l/AnimeBoya) | ![Freq](https://img.shields.io/github/commit-activity/m/Tu2l/AnimeBoya) |
 | [Yukino](https://github.com/yukino-app/yukino)| ![Last Commit](https://img.shields.io/github/last-commit/yukino-app/yukino) | ![Freq](https://img.shields.io/github/commit-activity/m/yukino-app/yukino) |
+| [AnimeOut](https://www.animeout.xyz/progress-and-update-on-the-desktop-mobile-apps-and-new-platform/)
 
 ## Android TV
 | App Name | Status | Commit Frequency |
@@ -35,7 +36,7 @@
 | ------------- | ------------- | ------------- |
 | [Anime-Downloader](https://github.com/henry-richard7/Anime-Downloader) | ![Last Commit](https://img.shields.io/github/last-commit/henry-richard7/Anime-Downloader) | ![Freq](https://img.shields.io/github/commit-activity/m/henry-richard7/Anime-Downloader) |
 | [Yukino](https://github.com/yukino-app/yukino)| ![Last Commit](https://img.shields.io/github/last-commit/yukino-app/yukino) | ![Freq](https://img.shields.io/github/commit-activity/m/yukino-app/yukino) |
-| [AnimeWatch](https://www.animeout.xyz/progress-and-update-on-the-desktop-mobile-apps-and-new-platform/)
+| [AnimeOut](https://www.animeout.xyz/progress-and-update-on-the-desktop-mobile-apps-and-new-platform/)
 | [Hakuneko](https://github.com/manga-download/hakuneko) | ![Last Commit](https://img.shields.io/github/last-commit/manga-download/hakuneko) | ![Freq](https://img.shields.io/github/commit-activity/m/manga-download/hakuneko) |
 
 # Android Manga
