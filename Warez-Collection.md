@@ -1,79 +1,82 @@
-**Course Piracy Index**
+**1. Course Piracy Index**
 * [Course-Piracy-Index](https://github.com/ItIsMeCall911/Course-Piracy-Index)
 
-**r/Pirated Games Megathread**
+**2. r/Pirated Games Megathread**
 * [Pgames-mega-thread](https://rentry.org/pgames-mega-thread)
 
-**Indian Piracy Index**
+**3. Indian Piracy Index**
 * [Indian-Piracy-Index](https://github.com/anymeofu/Indian-Piracy-Index)
 
-**One website for all your needs**
+**4. One website for all your needs**
 * [Weboas](https://weboas.is/)
 
-**AnimePiracy**
+**5. AnimePiracy**
 
 * [Piracy.moe](https://piracy.moe/)
 * [Wiki-AnimePiracy](https://wiki.piracy.moe/)
 * [Awesome-anime-sources](https://github.com/anshumanv/awesome-anime-sources)
 
-**Awesome Piracy**
+**6. Awesome Piracy**
 * [awesome-piracy](https://github.com/Igglybuff/awesome-piracy/)
 
-**Warezz.now.sh**
+**7. Warezz.now.sh**
 * [Warezzsh](https://piracy.vercel.app/)
 
-**Freemediahack**
+**8. Freemediahack**
 * [FMHY](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)
 
-**CHEF-KOCH/Warez**
+**9. CHEF-KOCH/Warez**
 * [Chef-koch/Warez](https://libraries.io/github/CHEF-KOCH/Warez)
 
-**eye.eu/piracy**
+**10. eye.eu/piracy**
 * [eye.eu/public-piracy](https://the-eye.eu/public/Piracy/)
 
-**MegaTKC/IPTV-Channels**
+**11. MegaTKC/IPTV-Channels**
 * [IPTV-Channels](https://github.com/MegaTKC/IPTV-Channels)
 
-**Awesome IPTV**
+**12. Awesome IPTV**
 * [IPTV](https://github.com/iptv-org/iptv)
 
-**r/SoftwarePirates Megathread**
+**13. r/SoftwarePirates Megathread**
 * [SoftwarePirates-Megathread](https://rentry.org/SoftwarePirates-Megathread)
 
-**r/APKsAPPs Megathread**
+**14. r/APKsAPPs Megathread**
 * [Apks](https://apks.me)
 
-**r/Piracy Megathread**
+**15. r/Piracy Megathread**
 * [Piracy/Wiki/index](https://www.reddit.com/r/Piracy/wiki/index)
 
-**A Small Collection**
+**16. A Small Collection**
 * [My little collections](https://my-little-collections.super.site/)
 
-**The Pirate List**
+**17. The Pirate List**
 * [Thepiratelist](https://thepiratelist.com/)
 
-**LightNovel Site Dump**
+**18. LightNovel Site Dump**
 * [LN-Site-Dump](https://docs.google.com/spreadsheets/d/1KGPLcSikfMgjtL7u8e2eiMQwDIgoAefOZsVrEzN9MQw/htmlview)
 
-**Dirty Warez**
+**19. Dirty Warez**
 * [Dirtywarez](https://dirtywarez.org/)
 
-**Nocensor**
+**20. Nocensor**
 * [Nocensor](https://nocensor.biz/)
 
-**Bestoflinks**
+**21. Bestoflinks**
 * [Bestoflinks](http://bestoflinks.synology.me/)
 
-**Unblockit**
+**22. Unblockit**
 * [Unblockit](https://unblockit.bz/)
 
-**Pirates Neverland**
+**23. Pirates Neverland**
 * [Pirates Neverland](http://www.neverland.ws/index.html)
 
-**Piratesites.com**
+**24. Piratesites.com**
 * [Piratesites](https://web.archive.org/web/20200317192929/https://piratesites.com/)
 
-**Sajayprakash/megathread**
+**25. Sajayprakash/megathread**
 * [Megathread](https://github.com/sajayprakash/megathread)
+
+**26. 3DB7 Website List**
+* [3db7](https://3db7.xyz/stream/website)
 
 
