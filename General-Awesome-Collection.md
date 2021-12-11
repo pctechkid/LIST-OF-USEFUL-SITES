@@ -49,4 +49,8 @@
 * [Apps](https://reddit.com/r/Android/w/apps)
 * [Index](https://reddit.com/r/Android/w/index)
 
+**Foss-apps Collection**
+* [android-foss](https://github.com/offa/android-foss)
+* [foss-apps](https://github.com/albertomosconi/foss-apps)
+
 
