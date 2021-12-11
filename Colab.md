@@ -5,3 +5,4 @@
 | [Torrent Drive Telegram Bot Using Colab](https://github.com/nastyzera/Torrent-Drive-Telegram-Bot-Using-Colab) | ![](https://img.shields.io/github/last-commit/nastyzera/Torrent-Drive-Telegram-Bot-Using-Colab) | ![](https://img.shields.io/github/commit-activity/m/nastyzera/Torrent-Drive-Telegram-Bot-Using-Colab)
 | [RcloneLab](https://github.com/VIJAY63/RcloneLab) | ![](https://img.shields.io/github/last-commit/VIJAY63/RcloneLab) | ![](https://img.shields.io/github/commit-activity/m/VIJAY63/RcloneLab)
 | [MiXLab](https://github.com/shirooo39/MiXLab) | ![](https://img.shields.io/github/last-commit/shirooo39/MiXLab) | ![](https://img.shields.io/github/commit-activity/m/shirooo39/MiXLab)
+| [OneClickRun](https://github.com/biplobsd/OneClickRun) | ![](https://img.shields.io/github/last-commit/biplobsd/OneClickRun) | ![](https://img.shields.io/github/commit-activity/m/biplobsd/OneClickRun)
