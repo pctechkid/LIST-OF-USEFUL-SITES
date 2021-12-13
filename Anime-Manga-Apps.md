@@ -48,10 +48,18 @@
 | [Mangatag](https://www.mangatag.com/)
 | [MangaWorld](https://github.com/jakepurple13/MangaWorld) | ![Last Commit](https://img.shields.io/github/last-commit/jakepurple13/MangaWorld) | ![Freq](https://img.shields.io/github/commit-activity/m/jakepurple13/MangaWorld) |
 | [MangaToon](https://play.google.com/store/apps/details?id=mobi.mangatoon.comics.aphone )
-| [Tachiyomi Forks](https://tachiyomi.org/forks)
 | [AnimeClassroom](https://github.com/justdvnsh/AnimeClassroom) | ![Last Commit](https://img.shields.io/github/last-commit/justdvnsh/AnimeClassroom) | ![Freq](https://img.shields.io/github/commit-activity/m/justdvnsh/AnimeClassroom) |
 | [Yukino](https://github.com/yukino-app/yukino)| ![Last Commit](https://img.shields.io/github/last-commit/yukino-app/yukino) | ![Freq](https://img.shields.io/github/commit-activity/m/yukino-app/yukino) |
 | [OtakuWorld](https://github.com/jakepurple13/OtakuWorld) | ![Last Commit](https://img.shields.io/github/last-commit/jakepurple13/OtakuWorld) | ![Freq](https://img.shields.io/github/commit-activity/m/jakepurple13/OtakuWorld) |
+
+## Tachiyomi Forks
+| App Name | Status | Commit Frequency
+|-|-|-|
+| [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) | ![](https://img.shields.io/github/last-commit/Jays2Kings/tachiyomiJ2K) | ![](https://img.shields.io/github/commit-activity/m/Jays2Kings/tachiyomiJ2K)
+| [Aniyomi](https://github.com/jmir1/aniyomi) | ![](https://img.shields.io/github/last-commit/jmir1/aniyomi) | ![](https://img.shields.io/github/commit-activity/m/jmir1/aniyomi)
+| [Tachiyomi OCR](https://github.com/Rattlehead15/tachiyomiOCR) | ![](https://img.shields.io/github/last-commit/Rattlehead15/tachiyomiOCR) | ![](https://img.shields.io/github/commit-activity/m/Rattlehead15/tachiyomiOCR)
+| [TachiyomiAZ](https://github.com/az4521/TachiyomiAZ) | ![](https://img.shields.io/github/last-commit/az4521/TachiyomiAZ) | ![](https://img.shields.io/github/commit-activity/m/az4521/TachiyomiAZ)
+| [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) | ![](https://img.shields.io/github/last-commit/jobobby04/TachiyomiSY) | ![](https://img.shields.io/github/commit-activity/m/jobobby04/TachiyomiSY)
 
 # Windows Manga
 | App Name | Status | Commit Frequency |
