@@ -26,6 +26,7 @@
 * [KevinColemanInc/awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy)
 * [PrivacyGuides.org](https://www.privacyguides.org/)
 * [Privacy Tool List By Chef-Kock](https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/)
+* [Privacy.sexy](https://privacy.sexy/)
 
 **6. Free Premium Leeches**
 * [Free_Premium_Leeches](https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches)
