@@ -55,6 +55,7 @@ All the information on this website is purely for informational purposes and is 
 * **[Mods / Cracks](https://github.com/Piratezparty/Piratezparty/blob/main/Mods-Cracks.md)**
 * **[Music](https://github.com/Piratezparty/Piratezparty/blob/main/Music-Apps.md)**
 * **[Light Novels](https://github.com/Piratezparty/Piratezparty/blob/main/LightNovel-Apps.md)**
+* **[Social Media](https://github.com/SpamVerse/Piratezparty/blob/main/Social%20Media%20Apps.md)**
 
 ***
 ***
