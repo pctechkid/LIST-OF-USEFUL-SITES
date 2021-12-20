@@ -43,6 +43,7 @@
 | App Name | Status | Commit Frequency |
 | ------------- | ------------- | ------------- |
 | [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) | ![Last Commit](https://img.shields.io/github/last-commit/tachiyomiorg/tachiyomi) | ![Freq](https://img.shields.io/github/commit-activity/m/tachiyomiorg/tachiyomi) |
+| [Kotatsu](https://github.com/nv95/Kotatsu) | ![Last Commit](https://img.shields.io/github/last-commit/nv95/Kotatsu) | ![Freq](https://img.shields.io/github/commit-activity/m/nv95/Kotatsu)
 | [Mangazone](https://mangazoneapp.com/)
 | [MangaDLR](https://cyberneticlifeform.wixsite.com/cylonu87/mangadlr)
 | [Mangatag](https://www.mangatag.com/)
