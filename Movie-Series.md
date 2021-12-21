@@ -142,7 +142,7 @@
 * [4kremux](https://4kremux.com/)
 * [ddlvalley](https://www.ddlvalley.me/)
 * [scnsrc](https://www.scnsrc.me/)
-* [PSArips](https://psarips.top/)
+* [PSArips](https://psa.pm/)
 * [movieparadise](https://movieparadise.org/)
 * [release.movieparadise](https://release.movieparadise.org/)
 * [seriesvault](https://seriesvault.win/)
