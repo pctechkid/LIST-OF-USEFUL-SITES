@@ -6,7 +6,7 @@
 | [Vanced](https://vancedapp.com/) | ![Last Commit](https://img.shields.io/github/last-commit/YTVanced/Vanced) | ![Freq](https://img.shields.io/github/commit-activity/m/YTVanced/Vanced) |
 | [SkyTube](https://github.com/SkyTubeTeam/SkyTube) | ![Last Commit](https://img.shields.io/github/last-commit/SkyTubeTeam/SkyTube) | ![Freq](https://img.shields.io/github/commit-activity/m/SkyTubeTeam/SkyTube) |
 | [Youtubedl Android](https://github.com/yausername/youtubedl-android) | ![Last Commit](https://img.shields.io/github/last-commit/yausername/youtubedl-android) | ![Freq](https://img.shields.io/github/commit-activity/m/yausername/youtubedl-android) |
-| [NewPipe x SponsorBlock](https://github.com/polymorphicshade/newpipe) ![Last Commit](https://img.shields.io/github/last-commit/polymorphicshade/newpipe) | ![Freq](https://img.shields.io/github/commit-activity/m/polymorphicshade/newpipe) |
+| [NewPipe x SponsorBlock](https://github.com/polymorphicshade/newpipe) | ![Last Commit](https://img.shields.io/github/last-commit/polymorphicshade/newpipe) | ![Freq](https://img.shields.io/github/commit-activity/m/polymorphicshade/newpipe) |
 
 ## Android TV
 | App Name | Status | Commit Frequency |
