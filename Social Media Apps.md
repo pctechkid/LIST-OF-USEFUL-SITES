@@ -18,4 +18,10 @@
 | [FreeTube](https://github.com/FreeTubeApp/FreeTube) | ![Last Commit](https://img.shields.io/github/last-commit/FreeTubeApp/FreeTube) | ![Freq](https://img.shields.io/github/commit-activity/m/FreeTubeApp/FreeTube) |
 | [Candy](https://github.com/Simonwep/candy) | ![Last Commit](https://img.shields.io/github/last-commit/Simonwep/candy) | ![Freq](https://img.shields.io/github/commit-activity/m/Simonwep/candy) |
 
+# Discord
+## Android
+| App Name | Status | Commit Frequency |
+| ------------- | ------------- | ------------- |
+| [Aliucord](https://github.com/Aliucord/Aliucord) | ![Last Commit](https://img.shields.io/github/last-commit/Aliucord/Aliucord) | ![Freq](https://img.shields.io/github/commit-activity/m/Aliucord/Aliucord) |
+
 
