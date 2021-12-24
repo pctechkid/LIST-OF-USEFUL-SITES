@@ -23,5 +23,11 @@
 | App Name | Status | Commit Frequency |
 | ------------- | ------------- | ------------- |
 | [Aliucord](https://github.com/Aliucord/Aliucord) | ![Last Commit](https://img.shields.io/github/last-commit/Aliucord/Aliucord) | ![Freq](https://img.shields.io/github/commit-activity/m/Aliucord/Aliucord) |
+| [Bluecord](Bluesmods.com)
 
+## Desktop
+| App Name | Status | Commit Frequency |
+| ------------- | ------------- | ------------- |
+| [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) | ![Last Commit](https://img.shields.io/github/last-commit/BetterDiscord/BetterDiscord) | ![Freq](https://img.shields.io/github/commit-activity/m/BetterDiscord/BetterDiscord) |
+| [PowerCord](https://powercord.dev/) | ![Last Commit](https://img.shields.io/github/last-commit/powercord-org/powercord) | ![Freq](https://img.shields.io/github/commit-activity/m/powercord-org/powercord)
 
