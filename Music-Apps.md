@@ -40,6 +40,7 @@
 | [Auxio](https://github.com/OxygenCobalt/Auxio) | ![Last Commit](https://img.shields.io/github/last-commit/OxygenCobalt/Auxio) | ![Freq](https://img.shields.io/github/commit-activity/m/OxygenCobalt/Auxio)
 | [Veezee-android](https://github.com/veezee-music/veezee-android) | ![Last Commit](https://img.shields.io/github/last-commit/veezee-music/veezee-android) | ![Freq](https://img.shields.io/github/commit-activity/m/veezee-music/veezee-android) |
 | [S2 Music Player](https://play.google.com/store/apps/details?id=com.simplecityapps.shuttle)
+| [Pulse Music](https://play.google.com/store/apps/details?id=com.hardcodecoder.pulse)
 
 ## Desktop
 
