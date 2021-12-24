@@ -3,7 +3,7 @@
 | App Name | Status | Commit Frequency |
 | ------------- | ------------- | ------------- |
 | [NewPipe](https://github.com/TeamNewPipe/NewPipe) | ![Last Commit](https://img.shields.io/github/last-commit/TeamNewPipe/NewPipe) | ![Freq](https://img.shields.io/github/commit-activity/m/TeamNewPipe/NewPipe) |
-| [Vanced](https://github.com/YTVanced/Vanced) | ![Last Commit](https://img.shields.io/github/last-commit/YTVanced/Vanced) | ![Freq](https://img.shields.io/github/commit-activity/m/YTVanced/Vanced) |
+| [Vanced](https://vancedapp.com/) | ![Last Commit](https://img.shields.io/github/last-commit/YTVanced/Vanced) | ![Freq](https://img.shields.io/github/commit-activity/m/YTVanced/Vanced) |
 | [SkyTube](https://github.com/SkyTubeTeam/SkyTube) | ![Last Commit](https://img.shields.io/github/last-commit/SkyTubeTeam/SkyTube) | ![Freq](https://img.shields.io/github/commit-activity/m/SkyTubeTeam/SkyTube) |
 | [Youtubedl Android](https://github.com/yausername/youtubedl-android) | ![Last Commit](https://img.shields.io/github/last-commit/yausername/youtubedl-android) | ![Freq](https://img.shields.io/github/commit-activity/m/yausername/youtubedl-android) |
 
