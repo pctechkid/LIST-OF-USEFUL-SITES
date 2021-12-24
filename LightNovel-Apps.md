@@ -5,9 +5,9 @@
 | [OtakuWorld](https://github.com/jakepurple13/OtakuWorld)| ![](https://img.shields.io/github/last-commit/jakepurple13/OtakuWorld) | ![](https://img.shields.io/github/commit-activity/m/jakepurple13/OtakuWorld)
 | [LNReader](https://github.com/rajarsheechatterjee/lnreader)| ![](https://img.shields.io/github/last-commit/rajarsheechatterjee/lnreader) | ![](https://img.shields.io/github/commit-activity/m/rajarsheechatterjee/lnreader)
 | [Shosetsu](https://github.com/shosetsuorg/android-app)| ![](https://img.shields.io/github/last-commit/shosetsuorg/android-app) | ![](https://img.shields.io/github/commit-activity/m/shosetsuorg/android-app)
-| [NovelLibrary](https://play.google.com/store/apps/details?id=io.github.gmathi.novellibrary)
 | [Baruch](https://github.com/adreeeyan/baruch)| ![](https://img.shields.io/github/last-commit/adreeeyan/baruch) | ![](https://img.shields.io/github/commit-activity/m/adreeeyan/baruch)
 | [QuickNovel](https://github.com/LagradOst/QuickNovel)| ![](https://img.shields.io/github/last-commit/LagradOst/QuickNovel) | ![](https://img.shields.io/github/commit-activity/m/LagradOst/QuickNovel)
+| [NovelLibrary](https://play.google.com/store/apps/details?id=io.github.gmathi.novellibrary)
 
 # iOS
 | App Name | Status | Commit Frequency
