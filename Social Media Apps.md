@@ -23,7 +23,7 @@
 | App Name | Status | Commit Frequency |
 | ------------- | ------------- | ------------- |
 | [Aliucord](https://github.com/Aliucord/Aliucord) | ![Last Commit](https://img.shields.io/github/last-commit/Aliucord/Aliucord) | ![Freq](https://img.shields.io/github/commit-activity/m/Aliucord/Aliucord) |
-| [Bluecord](Bluesmods.com)
+| [Bluecord](https://bluesmods.com/)
 
 ## Desktop
 | App Name | Status | Commit Frequency |
