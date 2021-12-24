@@ -19,6 +19,7 @@
 | [d-fi](https://github.com/d-fi/releases) | ![Last Commit](https://img.shields.io/github/last-commit/d-fi/releases) | ![Freq](https://img.shields.io/github/commit-activity/m/d-fi/releases) |
 | [Youtube-Music](https://github.com/th-ch/youtube-music) | ![Last Commit](https://img.shields.io/github/last-commit/th-ch/youtube-music) | ![Freq](https://img.shields.io/github/commit-activity/m/th-ch/youtube-music) |
 | [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) | ![Last Commit](https://img.shields.io/github/last-commit/Shabinder/SpotiFlyer) | ![Freq](https://img.shields.io/github/commit-activity/m/Shabinder/SpotiFlyer) |
+| [BlackHole](https://github.com/Sangwan5688/BlackHole) | ![Last Commit](https://img.shields.io/github/last-commit/Sangwan5688/BlackHole) | ![Freq](https://img.shields.io/github/commit-activity/m/Sangwan5688/BlackHole) |
 | [Deemix](https://deemix.app/)
 | [Freezer PC](https://t.me/freezerpc)
 | [Deezloader](https://www.deezloader.app/)
