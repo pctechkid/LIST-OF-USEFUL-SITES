@@ -1,8 +1,8 @@
 # Anime Tools
 
-* [anime-downloader](https://github.com/anime-dl/anime-downloader) - *A simple but powerful anime downloader and streamer*
+* [Anime-downloader](https://github.com/anime-dl/anime-downloader) - *A simple but powerful anime downloader and streamer*
 
-* [monkey-dl](https://github.com/Oshan96/monkey-dl) - *Bulk download your favourite anime episodes from your favourite anime websites*
+* [Monkey-dl](https://github.com/Oshan96/monkey-dl) - *Bulk download your favourite anime episodes from your favourite anime websites*
 
 * [anigrab](https://github.com/ngomile/anigrab) - *Anime downloader that is fast and efficient*
 
