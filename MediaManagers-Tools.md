@@ -16,4 +16,4 @@
 
 * [Radarr](https://radarr.video/) - A fork of Sonarr to work with movies
 
-* [Locatarr](https://github.com/rustyshackleford36/locatarr) - *Locate all the "arr" apps that are out there in the world, like Sonarr, Radarr, etc* | [Reddit Post](https://amp.reddit.com/r/radarr/comments/hbwnb2/a_list_of_all_companion_tools_and_software/)
+* [Locatarr](https://github.com/rustyshackleford36/locatarr) - Locate all the "arr" apps that are out there in the world, like Sonarr, Radarr, etc | [Reddit Post](https://amp.reddit.com/r/radarr/comments/hbwnb2/a_list_of_all_companion_tools_and_software/)
