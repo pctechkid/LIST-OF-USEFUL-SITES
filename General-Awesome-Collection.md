@@ -57,4 +57,11 @@
 **13. Android ROM List**
 * [android rom list](https://github.com/musabcel/android_rom_list)
 
+**14. Awesome Userscripts**
+* [awesome-userscripts](https://github.com/bvolpato/awesome-userscripts)
 
+**15. Opensource Game List**
+* [opensourcegames](https://trilarion.github.io/opensourcegames)
+
+**16. Alternative Frontends**
+* [alternative-front-ends](https://github.com/mendel5/alternative-front-ends)
