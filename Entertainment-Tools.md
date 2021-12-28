@@ -4,7 +4,7 @@
 
 * [Monkey-dl](https://github.com/Oshan96/monkey-dl) - *Bulk download your favourite anime episodes from your favourite anime websites*
 
-* [anigrab](https://github.com/ngomile/anigrab) - *Anime downloader that is fast and efficient*
+* [Anigrab](https://github.com/ngomile/anigrab) - *Anime downloader that is fast and efficient*
 
 * [Mass-Anime-Downloader](https://github.com/Zebraslive/Mass-Anime-Downloader) - *Windows Electron App, Instantly download thousands of dubbed & subbed anime series. Download entire series in minutes*
 
