@@ -1,6 +1,6 @@
 # Android Anime
 | App Name | Status | Commit Frequency |
-| ------------- | ------------- | ------------- |
+| - | - | - |
 | [AnimeClassroom](https://github.com/justdvnsh/AnimeClassroom) | ![Last Commit](https://img.shields.io/github/last-commit/justdvnsh/AnimeClassroom) | ![Freq](https://img.shields.io/github/commit-activity/m/justdvnsh/AnimeClassroom) |
 | [Saikou](https://saikou-app.github.io/) | ![Last Commit](https://img.shields.io/github/last-commit/saikou-app/saikou) | ![Freq](https://img.shields.io/github/commit-activity/m/saikou-app/saikou) |
 | [Animity](https://github.com/kl3jvi/animity) | ![Last Commit](https://img.shields.io/github/last-commit/kl3jvi/animity) | ![Freq](https://img.shields.io/github/commit-activity/m/kl3jvi/animity) |
@@ -20,20 +20,22 @@
 
 ## Android TV
 | App Name | Status | Commit Frequency |
-| ------------- | ------------- | ------------- |
+| - | - | - |
 | [FireAnime](https://github.com/XenTeckzX/FireAnime) | ![Last Commit](https://img.shields.io/github/last-commit/XenTeckzX/FireAnime) | ![Freq](https://img.shields.io/github/commit-activity/m/XenTeckzX/FireAnime) |
+| [OtakuWorld](https://github.com/jakepurple13/OtakuWorld) | ![Last Commit](https://img.shields.io/github/last-commit/jakepurple13/OtakuWorld) | ![Freq](https://img.shields.io/github/commit-activity/m/jakepurple13/OtakuWorld) |
 
 ## Region-Specific Apps
 | App Name | Language | Status | Commit Frequency |
-| ------------- | ------------- | ------------- | ------------- |
+|-| :-: | - | - |
 | [Bangumi](https://github.com/czy0729/Bangumi) | Chinese | ![Last Commit](https://img.shields.io/github/last-commit/czy0729/Bangumi) | ![Freq](https://img.shields.io/github/commit-activity/m/czy0729/Bangumi) |
-| [SAnime](snoanime.com) | Arabic
+| [SAnime](snoanime.com) | Arabic |
 | [AniLabX](https://github.com/CrazyXacker/anilabx) | Russian | ![Last Commit](https://img.shields.io/github/last-commit/CrazyXacker/anilabx) | ![Freq](https://img.shields.io/github/commit-activity/m/CrazyXacker/anilabx) |
+| [TioAnime](https://app.tioanime.com) | Spanish |
 
 
 # Windows Anime 
 | App Name | Status | Commit Frequency |
-| ------------- | ------------- | ------------- |
+| - | - | - |
 | [Anime-Downloader](https://github.com/henry-richard7/Anime-Downloader) | ![Last Commit](https://img.shields.io/github/last-commit/henry-richard7/Anime-Downloader) | ![Freq](https://img.shields.io/github/commit-activity/m/henry-richard7/Anime-Downloader) |
 | [Yukino](https://github.com/yukino-app/yukino)| ![Last Commit](https://img.shields.io/github/last-commit/yukino-app/yukino) | ![Freq](https://img.shields.io/github/commit-activity/m/yukino-app/yukino) |
 | [AnimeOut](https://www.animeout.xyz/progress-and-update-on-the-desktop-mobile-apps-and-new-platform/)
@@ -41,7 +43,7 @@
 
 # Android Manga
 | App Name | Status | Commit Frequency |
-| ------------- | ------------- | ------------- |
+| - | - | - |
 | [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) | ![Last Commit](https://img.shields.io/github/last-commit/tachiyomiorg/tachiyomi) | ![Freq](https://img.shields.io/github/commit-activity/m/tachiyomiorg/tachiyomi) |
 | [Kotatsu](https://github.com/nv95/Kotatsu) | ![Last Commit](https://img.shields.io/github/last-commit/nv95/Kotatsu) | ![Freq](https://img.shields.io/github/commit-activity/m/nv95/Kotatsu)
 | [Mangazone](https://mangazoneapp.com/)
@@ -64,14 +66,14 @@
 
 # Windows Manga
 | App Name | Status | Commit Frequency |
-| ------------- | ------------- | ------------- |
+| - | - | - |
 | [Tachidesk-Server](https://github.com/Suwayomi/Tachidesk-Server) | ![Last Commit](https://img.shields.io/github/last-commit/Suwayomi/Tachidesk-Server) | ![Freq](https://img.shields.io/github/commit-activity/m/Suwayomi/Tachidesk-Server) |
 | [Hakuneko](https://github.com/manga-download/hakuneko) | ![Last Commit](https://img.shields.io/github/last-commit/manga-download/hakuneko) | ![Freq](https://img.shields.io/github/commit-activity/m/manga-download/hakuneko) |
 | [Yukino](https://github.com/yukino-app/yukino)| ![Last Commit](https://img.shields.io/github/last-commit/yukino-app/yukino) | ![Freq](https://img.shields.io/github/commit-activity/m/yukino-app/yukino) |
 
 # iOS Anime
 | App Name | Status | Commit Frequency |
-| ------------- | ------------- | ------------- |
+| - | - | - |
 | [Ketsu](https://ketsu.app/) |
 | [NineAnimator](https://github.com/SuperMarcus/NineAnimator)|  ![Last Commit](https://img.shields.io/github/last-commit/SuperMarcus/NineAnimator) | ![Freq](https://img.shields.io/github/commit-activity/m/SuperMarcus/NineAnimator) |
 

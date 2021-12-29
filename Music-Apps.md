@@ -2,7 +2,7 @@
 ## Android
 
 | App Name | Status | Commit Frequency |
-| ------------- | ------------- | ------------- |
+| - | - | - |
 | [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) | ![Last Commit](https://img.shields.io/github/last-commit/Shabinder/SpotiFlyer) | ![Freq](https://img.shields.io/github/commit-activity/m/Shabinder/SpotiFlyer) |
 | [Songtube](https://github.com/SongTube/SongTube-App) | ![Last Commit](https://img.shields.io/github/last-commit/SongTube/SongTube-App) | ![Freq](https://img.shields.io/github/commit-activity/m/SongTube/SongTube-App) |
 | [Musify](https://github.com/Harsh-23/Musify) | ![Last Commit](https://img.shields.io/github/last-commit/Harsh-23/Musify) | ![Freq](https://img.shields.io/github/commit-activity/m/Harsh-23/Musify) |
@@ -15,7 +15,7 @@
 ## Desktop
 
 | App Name | Status | Commit Frequency |
-| ------------- | ------------- | ------------- |
+| - | - | - |
 | [d-fi](https://github.com/d-fi/releases) | ![Last Commit](https://img.shields.io/github/last-commit/d-fi/releases) | ![Freq](https://img.shields.io/github/commit-activity/m/d-fi/releases) |
 | [Youtube-Music](https://github.com/th-ch/youtube-music) | ![Last Commit](https://img.shields.io/github/last-commit/th-ch/youtube-music) | ![Freq](https://img.shields.io/github/commit-activity/m/th-ch/youtube-music) |
 | [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) | ![Last Commit](https://img.shields.io/github/last-commit/Shabinder/SpotiFlyer) | ![Freq](https://img.shields.io/github/commit-activity/m/Shabinder/SpotiFlyer) |
@@ -28,7 +28,7 @@
 ## Android
 
 | App Name | Status | Commit Frequency |
-| ------------- | ------------- | ------------- |
+| - | - | - |
 | [TimberX](https://github.com/naman14/TimberX) | ![Last Commit](https://img.shields.io/github/last-commit/naman14/TimberX) | ![Freq](https://img.shields.io/github/commit-activity/m/naman14/TimberX) |
 | [VinylMusicPlayer](https://github.com/AdrienPoupa/VinylMusicPlayer) | ![Last Commit](https://img.shields.io/github/last-commit/AdrienPoupa/VinylMusicPlayer) | ![Freq](https://img.shields.io/github/commit-activity/m/AdrienPoupa/VinylMusicPlayer) |
 | [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) | ![Last Commit](https://img.shields.io/github/last-commit/RetroMusicPlayer/RetroMusicPlayer) | ![Freq](https://img.shields.io/github/commit-activity/m/RetroMusicPlayer/RetroMusicPlayer) |
@@ -45,7 +45,7 @@
 ## Desktop
 
 | App Name | Status | Commit Frequency |
-| ------------- | ------------- | ------------- |
+| - | - | - |
 | [Nukeop](https://github.com/nukeop/nuclear) | ![Last Commit](https://img.shields.io/github/last-commit/nukeop/nuclear) | ![Freq](https://img.shields.io/github/commit-activity/m/nukeop/nuclear) |
 | [Dopamine](https://github.com/digimezzo/dopamine-windows) | ![Last Commit](https://img.shields.io/github/last-commit/digimezzo/dopamine-windows) | ![Freq](https://img.shields.io/github/commit-activity/m/digimezzo/dopamine-windows) |
 | [Apple Music for Windows](https://github.com/imxeno/apple-music-windows) | ![Last Commit](https://img.shields.io/github/last-commit/imxeno/apple-music-windows) | ![Freq](https://img.shields.io/github/commit-activity/m/imxeno/apple-music-windows) |
