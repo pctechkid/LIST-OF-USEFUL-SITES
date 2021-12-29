@@ -11,3 +11,4 @@
 * [SoftEther](https://www.softether.org/) - *SoftEther VPN is free open-source, cross-platform, multi-protocol VPN client and VPN server software*
 * [OpenConnect](https://www.infradead.org/openconnect/) - *OpenConnect is a cross-platform multi-protocol SSL VPN client which supports a number of VPN protocols*
 * [Peervpn](https://peervpn.net/) - *PeerVPN is a software that builds virtual ethernet networks between multiple computers*
+* [VpnHood](https://github.com/vpnhood/VpnHood) - *VpnHood is a hybrid VPN, captures all packets throw a packet filter driver, same as many other VPNs but establishes connections like a socks proxy without any fingerprint*

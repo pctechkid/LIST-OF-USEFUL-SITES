@@ -11,6 +11,8 @@
 * [myporn](https://myporn.club/)
 * [onejav](https://onejav.com/) (javhd/Japanese)
 * [javjunkies](http://www.javjunkies.com/main/) (Japanese)
+* [sukebei](https:sukebei.nyaa.si/) (Japanese)
+* [javdb](http://javdb.com/) (Japanese)
 * [torrentx265](https://torrentx265.org/) (encoded)
 * [seaporn](https://www.seaporn.org/) (encoded)
 * [glodls](https://glodls.to/home.php)
