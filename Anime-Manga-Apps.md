@@ -22,6 +22,7 @@
 | App Name | Status | Commit Frequency |
 | - | - | - |
 | [FireAnime](https://github.com/XenTeckzX/FireAnime) | ![Last Commit](https://img.shields.io/github/last-commit/XenTeckzX/FireAnime) | ![Freq](https://img.shields.io/github/commit-activity/m/XenTeckzX/FireAnime) |
+| [OtakuWorld](https://github.com/jakepurple13/OtakuWorld) | ![Last Commit](https://img.shields.io/github/last-commit/jakepurple13/OtakuWorld) | ![Freq](https://img.shields.io/github/commit-activity/m/jakepurple13/OtakuWorld) |
 
 ## Region-Specific Apps
 | App Name | Language | Status | Commit Frequency |
