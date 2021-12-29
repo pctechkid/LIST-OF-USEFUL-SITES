@@ -39,7 +39,7 @@
 | [fclone](https://github.com/mawaya/rclone) | ✔ | ![](https://img.shields.io/github/last-commit/mawaya/rclone) | ![](https://img.shields.io/github/commit-activity/m/mawaya/rclone)
 | [gclone](https://github.com/donwa/gclone) | ✔ | ![](https://img.shields.io/github/last-commit/donwa/gclone) | ![](https://img.shields.io/github/commit-activity/m/donwa/gclone)
 | [easyclone](https://github.com/xd003/easyclone) | ✔ | ![](https://img.shields.io/github/last-commit/xd003/easyclone) | ![](https://img.shields.io/github/commit-activity/m/xd003/easyclone)
-| [lclone](https://github.com/l3uddz/rclone/tree/feat/sa-cycle) | ✔ | ![](https://img.shields.io/github/last-commit/l3uddz/rclone) | ![](https://img.shields.io/github/commit-activity/m/l3uddz/rclone)
+| [lclone](https://github.com/l3uddz/rclone/tree/feat/sa-cycle) | ✔ | ![](https://img.shields.io/github/last-commit/l3uddz/rclone/feat/sa-cycle) | ![](https://img.shields.io/github/commit-activity/m/l3uddz/rclone/feat/sa-cycle)
 | [sasync](https://github.com/88lex/sasync) | ✔ | ![](https://img.shields.io/github/last-commit/88lex/sasync) | ![](https://img.shields.io/github/commit-activity/m/88lex/sasync)
 | [GSAclone](https://github.com/shirooo39/GSAclone) | ✔ | ![](https://img.shields.io/github/last-commit/shirooo39/GSAclone) | ![](https://img.shields.io/github/commit-activity/m/shirooo39/GSAclone)
 | [rclone_jobber](https://github.com/wolfv6/rclone_jobber) | ❌ | ![](https://img.shields.io/github/last-commit/wolfv6/rclone_jobber) | ![](https://img.shields.io/github/commit-activity/m/wolfv6/rclone_jobber)
