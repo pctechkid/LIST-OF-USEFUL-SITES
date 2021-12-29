@@ -25,10 +25,11 @@
 
 ## Region-Specific Apps
 | App Name | Language | Status | Commit Frequency |
-| ------------- | ------------- | ------------- | ------------- |
+|:-:| :-: | :-: | :-: |
 | [Bangumi](https://github.com/czy0729/Bangumi) | Chinese | ![Last Commit](https://img.shields.io/github/last-commit/czy0729/Bangumi) | ![Freq](https://img.shields.io/github/commit-activity/m/czy0729/Bangumi) |
 | [SAnime](snoanime.com) | Arabic
 | [AniLabX](https://github.com/CrazyXacker/anilabx) | Russian | ![Last Commit](https://img.shields.io/github/last-commit/CrazyXacker/anilabx) | ![Freq](https://img.shields.io/github/commit-activity/m/CrazyXacker/anilabx) |
+| [TioAnime](https://app.tioanime.com) | Spanish
 
 
 # Windows Anime 
