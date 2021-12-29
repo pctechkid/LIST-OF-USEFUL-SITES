@@ -8,7 +8,6 @@
 | [Aniyomi](https://github.com/jmir1/aniyomi) | ![Last Commit](https://img.shields.io/github/last-commit/jmir1/aniyomi) | ![Freq](https://img.shields.io/github/commit-activity/m/jmir1/aniyomi) |
 | [AnimeDL](https://github.com/sharn25/Anime-DL-Android-Verison) | ![Last Commit](https://img.shields.io/github/last-commit/sharn25/Anime-DL-Android-Verison) | ![Freq](https://img.shields.io/github/commit-activity/m/sharn25/Anime-DL-Android-Verison) |
 | [AnimeTwist](https://github.com/simrat39/AnimeTwistFlut) | ![Last Commit](https://img.shields.io/github/last-commit/simrat39/AnimeTwistFlut) | ![Freq](https://img.shields.io/github/commit-activity/m/simrat39/AnimeTwistFlut) |
-| [AnimeWorld](https://github.com/jakepurple13/AnimeWorld) | ![Last Commit](https://img.shields.io/github/last-commit/jakepurple13/AnimeWorld) | ![Freq](https://img.shields.io/github/commit-activity/m/jakepurple13/AnimeWorld) |
 | [OtakuWorld](https://github.com/jakepurple13/OtakuWorld) | ![Last Commit](https://img.shields.io/github/last-commit/jakepurple13/OtakuWorld) | ![Freq](https://img.shields.io/github/commit-activity/m/jakepurple13/OtakuWorld) |
 | [Kuro (Shiroapp Fork)](https://github.com/deceptions/no) | ![Last Commit](https://img.shields.io/github/last-commit/deceptions/no) | ![Freq](https://img.shields.io/github/commit-activity/m/deceptions/no) |
 | [Taiyaki (Archived Project)](https://github.com/TaiyakiContainer/TaiYaKiAnime) | ![Last Commit](https://img.shields.io/github/last-commit/TaiyakiContainer/TaiYaKiAnime) | ![Freq](https://img.shields.io/github/commit-activity/m/TaiyakiContainer/TaiYaKiAnime) |
@@ -49,7 +48,6 @@
 | [Mangazone](https://mangazoneapp.com/)
 | [MangaDLR](https://cyberneticlifeform.wixsite.com/cylonu87/mangadlr)
 | [Mangatag](https://www.mangatag.com/)
-| [MangaWorld](https://github.com/jakepurple13/MangaWorld) | ![Last Commit](https://img.shields.io/github/last-commit/jakepurple13/MangaWorld) | ![Freq](https://img.shields.io/github/commit-activity/m/jakepurple13/MangaWorld) |
 | [MangaToon](https://play.google.com/store/apps/details?id=mobi.mangatoon.comics.aphone )
 | [AnimeClassroom](https://github.com/justdvnsh/AnimeClassroom) | ![Last Commit](https://img.shields.io/github/last-commit/justdvnsh/AnimeClassroom) | ![Freq](https://img.shields.io/github/commit-activity/m/justdvnsh/AnimeClassroom) |
 | [Yukino](https://github.com/yukino-app/yukino)| ![Last Commit](https://img.shields.io/github/last-commit/yukino-app/yukino) | ![Freq](https://img.shields.io/github/commit-activity/m/yukino-app/yukino) |
