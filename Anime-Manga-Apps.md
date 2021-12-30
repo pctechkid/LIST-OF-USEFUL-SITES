@@ -68,6 +68,12 @@
 | [Tachidesk-Server](https://github.com/Suwayomi/Tachidesk-Server) | ![Last Commit](https://img.shields.io/github/last-commit/Suwayomi/Tachidesk-Server) | ![Freq](https://img.shields.io/github/commit-activity/m/Suwayomi/Tachidesk-Server) |
 | [Hakuneko](https://github.com/manga-download/hakuneko) | ![Last Commit](https://img.shields.io/github/last-commit/manga-download/hakuneko) | ![Freq](https://img.shields.io/github/commit-activity/m/manga-download/hakuneko) |
 | [Yukino](https://github.com/yukino-app/yukino)| ![Last Commit](https://img.shields.io/github/last-commit/yukino-app/yukino) | ![Freq](https://img.shields.io/github/commit-activity/m/yukino-app/yukino) |
+| [Adolla](https://github.com/AdollaApp/Adolla) | ![Last Commit](https://img.shields.io/github/last-commit/AdollaApp/Adolla) | ![Freq](https://img.shields.io/github/commit-activity/m/AdollaApp/Adolla)
+| [OpenComic](https://github.com/ollm/OpenComic) | ![Last Commit](https://img.shields.io/github/last-commit/ollm/OpenComic) | ![Freq](https://img.shields.io/github/commit-activity/m/ollm/OpenComic)
+
+**Note 1:** Once Adolla or Tachidesk Server is started, you can use it on other devices as well by replacing **localhost:PORT** or **127.0.0.1:PORT** with IP of the Server. Eg - **169.196.69.96:PORT**
+
+**Note 2:** OpenComic is only a Comic/Manga Reader, you'd have to import CBR/CBZ/JPEG from somewhere to actually read it.
 
 # iOS Anime
 | App Name | Status | Commit Frequency |
