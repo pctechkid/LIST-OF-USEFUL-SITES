@@ -65,3 +65,4 @@
 
 **16. Alternative Frontends**
 * [alternative-front-ends](https://github.com/mendel5/alternative-front-ends)
+* [alternative-frontends](https://github.com/digitalblossom/alternative-frontends)
