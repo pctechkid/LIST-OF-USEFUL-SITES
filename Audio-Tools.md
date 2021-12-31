@@ -8,7 +8,7 @@
 
 * [LMMS](https://github.com/LMMS/lmms) - Cross-platform music production software.
 
-* [cookiengineer/audacity](https://github.com/cookiengineer/audacity) - Audacity Fork without any Sentry Telemetry or Crash Reporting.
+* [Cookiengineer/audacity](https://github.com/cookiengineer/audacity) - Audacity Fork without any Sentry Telemetry or Crash Reporting.
 
 * [Audiomass](https://github.com/pkalogiros/audiomass) - Free full featured web-based audio & waveform editing tool.
 
