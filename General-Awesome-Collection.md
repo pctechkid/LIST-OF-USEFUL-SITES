@@ -53,6 +53,7 @@
 **12. Foss-apps Collection**
 * [android-foss](https://github.com/offa/android-foss)
 * [foss-apps](https://github.com/albertomosconi/foss-apps)
+* [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
 
 **13. Android ROM List**
 * [android rom list](https://github.com/musabcel/android_rom_list)
