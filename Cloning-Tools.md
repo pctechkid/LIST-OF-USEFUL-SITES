@@ -54,6 +54,7 @@
 | [shell](https://github.com/anymeofu/shell) | ❌ | ![](https://img.shields.io/github/last-commit/anymeofu/shell) | ![](https://img.shields.io/github/commit-activity/m/anymeofu/shell)
 | [CLONE-HUNTER](https://github.com/anime-republic/CLONE-HUNTER) | ✔ | ![](https://img.shields.io/github/last-commit/anime-republic/CLONE-HUNTER) | ![](https://img.shields.io/github/commit-activity/m/anime-republic/CLONE-HUNTER)
 | [Gdutils_Tgbot](https://github.com/roshanconnor123/Gdutils_Tgbot) | ✔ | ![](https://img.shields.io/github/last-commit/roshanconnor123/Gdutils_Tgbot) | ![](https://img.shields.io/github/commit-activity/m/roshanconnor123/Gdutils_Tgbot)
+| [SearchX](https://github.com/l3v11/SearchX) | ✔ | ![](https://img.shields.io/github/last-commit/l3v11/SearchX) | ![](https://img.shields.io/github/commit-activity/m/l3v11/SearchX)
 
 # Telegram Bots for Cloning Channels
 
