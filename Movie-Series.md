@@ -169,3 +169,5 @@
 * [Movieslegacy](http://Movieslegacy.com)
 * [x265lk](https://x265lk.com/)
 * [mnfencode](https://mnfencode.me/)
+* [Bs](https://bs.to)
+* [Scnlog](https://scnlog.me/)
