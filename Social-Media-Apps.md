@@ -32,3 +32,20 @@
 | [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) | ![Last Commit](https://img.shields.io/github/last-commit/BetterDiscord/BetterDiscord) | ![Freq](https://img.shields.io/github/commit-activity/m/BetterDiscord/BetterDiscord) |
 | [PowerCord](https://powercord.dev/) | ![Last Commit](https://img.shields.io/github/last-commit/powercord-org/powercord) | ![Freq](https://img.shields.io/github/commit-activity/m/powercord-org/powercord)
 
+# Telegram
+## Android
+| App Name | Status | Commit Frequency |
+| - | - | - |
+| [NekoX](https://github.com/NekoX-Dev/NekoX) | ![Last Commit](https://img.shields.io/github/last-commit/NekoX-Dev/NekoX) | ![Freq](https://img.shields.io/github/commit-activity/m/NekoX-Dev/NekoX) |
+| [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) | ![Last Commit](https://img.shields.io/github/last-commit/Telegram-FOSS-Team/Telegram-FOSS) | ![Freq](https://img.shields.io/github/commit-activity/m/Telegram-FOSS-Team/Telegram-FOSS) |
+| [Forkgram](https://github.com/Forkgram/TelegramAndroid) | ![Last Commit](https://img.shields.io/github/last-commit/Forkgram/TelegramAndroid) | ![Freq](https://img.shields.io/github/commit-activity/m/Forkgram/TelegramAndroid) |
+| [PlusMessenger](https://plusmessenger.org/) |
+
+## Desktop
+| App Name | Status | Commit Frequency |
+| - | - | - |
+| [Kotatogram](http://github.com/kotatogram/kotatogram-desktop) | ![Last Commit](https://img.shields.io/github/last-commit/kotatogram/kotatogram-desktop) | ![Freq](https://img.shields.io/github/commit-activity/m/kotatogram/kotatogram-desktop) |
+| [Unigram](https://github.com/UnigramDev/Unigram) | ![Last Commit](https://img.shields.io/github/last-commit/UnigramDev/Unigram) | ![Freq](https://img.shields.io/github/commit-activity/m/UnigramDev/Unigram) |
+
+
+
