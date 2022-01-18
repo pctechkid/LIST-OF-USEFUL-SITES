@@ -36,6 +36,7 @@
 ## Android
 | App Name | Status | Commit Frequency |
 | - | - | - |
+| [Telegram](https://github.com/DrKLO/Telegram) | ![Last Commit](https://img.shields.io/github/last-commit/DrKLO/Telegram) | ![Freq](https://img.shields.io/github/commit-activity/m/DrKLO/Telegram) |
 | [NekoX](https://github.com/NekoX-Dev/NekoX) | ![Last Commit](https://img.shields.io/github/last-commit/NekoX-Dev/NekoX) | ![Freq](https://img.shields.io/github/commit-activity/m/NekoX-Dev/NekoX) |
 | [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) | ![Last Commit](https://img.shields.io/github/last-commit/Telegram-FOSS-Team/Telegram-FOSS) | ![Freq](https://img.shields.io/github/commit-activity/m/Telegram-FOSS-Team/Telegram-FOSS) |
 | [Forkgram](https://github.com/Forkgram/TelegramAndroid) | ![Last Commit](https://img.shields.io/github/last-commit/Forkgram/TelegramAndroid) | ![Freq](https://img.shields.io/github/commit-activity/m/Forkgram/TelegramAndroid) |
@@ -44,6 +45,7 @@
 ## Desktop
 | App Name | Status | Commit Frequency |
 | - | - | - |
+| [Telegram](http://github.com/telegramdesktop/tdesktop) | ![Last Commit](https://img.shields.io/github/last-commit/telegramdesktop/tdesktop) | ![Freq](https://img.shields.io/github/commit-activity/m/telegramdesktop/tdesktop) |
 | [Kotatogram](http://github.com/kotatogram/kotatogram-desktop) | ![Last Commit](https://img.shields.io/github/last-commit/kotatogram/kotatogram-desktop) | ![Freq](https://img.shields.io/github/commit-activity/m/kotatogram/kotatogram-desktop) |
 | [Unigram](https://github.com/UnigramDev/Unigram) | ![Last Commit](https://img.shields.io/github/last-commit/UnigramDev/Unigram) | ![Freq](https://img.shields.io/github/commit-activity/m/UnigramDev/Unigram) |
 | [64Gram](https://github.com/TDesktop-x64) | ![Last Commit](https://img.shields.io/github/last-commit/TDesktop-x64/tdesktop) | ![Freq](https://img.shields.io/github/commit-activity/m/TDesktop-x64/tdesktop) |
