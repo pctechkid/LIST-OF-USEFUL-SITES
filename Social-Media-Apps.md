@@ -46,6 +46,7 @@
 | - | - | - |
 | [Kotatogram](http://github.com/kotatogram/kotatogram-desktop) | ![Last Commit](https://img.shields.io/github/last-commit/kotatogram/kotatogram-desktop) | ![Freq](https://img.shields.io/github/commit-activity/m/kotatogram/kotatogram-desktop) |
 | [Unigram](https://github.com/UnigramDev/Unigram) | ![Last Commit](https://img.shields.io/github/last-commit/UnigramDev/Unigram) | ![Freq](https://img.shields.io/github/commit-activity/m/UnigramDev/Unigram) |
+| [64Gram](https://github.com/TDesktop-x64) | ![Last Commit](https://img.shields.io/github/last-commit/TDesktop-x64/tdesktop) | ![Freq](https://img.shields.io/github/commit-activity/m/TDesktop-x64/tdesktop) |
 
 
 
