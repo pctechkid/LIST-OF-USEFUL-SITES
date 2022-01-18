@@ -63,6 +63,7 @@
 
 **15. Opensource Game List**
 * [opensourcegames](https://trilarion.github.io/opensourcegames)
+* [awesome-games](https://github.com/michelpereira/awesome-games)
 
 **16. Alternative Frontends**
 * [alternative-front-ends](https://github.com/mendel5/alternative-front-ends)
