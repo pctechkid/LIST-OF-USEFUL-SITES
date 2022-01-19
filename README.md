@@ -18,6 +18,7 @@ All the information on this website is purely for informational purposes and is 
 * **[Anime](https://github.com/Piratezparty/Piratezparty/blob/main/Anime.md)**
 * **[Sports](https://github.com/Piratezparty/Piratezparty/blob/main/Sports.md)**
 * **[Games](https://github.com/Piratezparty/Piratezparty/blob/main/Games.md)**
+* **[Android Emulators](https://github.com/Piratezparty/Piratezparty/blob/main/Android-Emulators.md)**
 * **[Songs](https://github.com/Piratezparty/Piratezparty/blob/main/Songs.md)**
 * **[Cartoons](https://github.com/Piratezparty/Piratezparty/blob/main/Cartoons.md)**
 * **[Drama](https://github.com/Piratezparty/Piratezparty/blob/main/Drama.md)**
