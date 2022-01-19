@@ -92,7 +92,7 @@
 * [animevy](https://animevy.com/)
 * [animebuzz](https://animebuzz.xyz/)
 * [animeflix](https://animeflix.org.in/)
-* [animesenpai4u.com/](https://www.animesenpai4u.com/)
+* [animesenpai4u](https://www.animesenpai4u.com/)
 
 # Websites to download anime(Torrents)
 
