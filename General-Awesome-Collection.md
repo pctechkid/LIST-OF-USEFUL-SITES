@@ -69,3 +69,6 @@
 **16. Alternative Frontends**
 * [alternative-front-ends](https://github.com/mendel5/alternative-front-ends)
 * [alternative-frontends](https://github.com/digitalblossom/alternative-frontends)
+
+**17. Awesome Private Browsing**
+* [Awesome-Private-Browsing](https://github.com/onsitejs/Awesome-Private-Browsing)
