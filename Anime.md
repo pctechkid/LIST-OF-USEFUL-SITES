@@ -64,7 +64,7 @@
 * [anime-archive](https://anime-archive.com/)
 * [animekaizoku](https://animekaizoku.com/)
 * [animeout](https://www.animeout.xyz/)
-* [noobsubs](https://noobsubs.net/)
+* [noobsubs](https://noobsubs.com)
 * [miniencodes.netlify](https://miniencodes.netlify.app/)
 * [anime2enjoy](https://www.anime2enjoy.com/)
 * [anime-raws.tumblr](https://anime-raws.tumblr.com/)
@@ -90,6 +90,9 @@
 * [anime-list20](https://anime-list20.site/)
 * [animetv4u](https://animetv4u.com/)
 * [animevy](https://animevy.com/)
+* [animebuzz](https://animebuzz.xyz/)
+* [animeflix](https://animeflix.org.in/)
+* [animesenpai4u.com/](https://www.animesenpai4u.com/)
 
 # Websites to download anime(Torrents)
 
