@@ -15,6 +15,9 @@
 * [CrackHub - Scene](https://scene.crackhub.site/)
 * [SteamRip](https://steamrip.com/)
 * [ElAmigos Repacks](https://elamigos.site/)
+* [ScOOter Repacks](https://scooter-repacks.site/)
+* [GAMESDRIVE](https://gamesdrive.net/)
+* [SteamRIP](https://steamrip.com/)
 
 *NOTE: Take Note Of The Game Uploaders Name & Download From Trusted Releasers Or Releasers You Are Familiar With. If You Have No Idea, Then Go For FitGirl Repacks. ThePirateBay & KickAss Are Unreliable Sources!*
 
@@ -22,4 +25,5 @@
 *NOTE: Scan with [VirusTotal](https://VirusTotal.com) & Use Your Discretion.*
 * [AN1](https://an1.com/)
 * [Androreed](https://www.androeed.ru/)
-* [Moddroid](https://moddroid.co/)
+* [Platin Mods](https://platinmods.com/)
+* [Mobilism](forum.mobilism.org/)
