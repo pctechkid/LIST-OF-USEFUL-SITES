@@ -58,6 +58,7 @@ All the information on this website is purely for informational purposes and is 
 * **[Music](https://github.com/Piratezparty/Piratezparty/blob/main/Music-Apps.md)**
 * **[Light Novels](https://github.com/Piratezparty/Piratezparty/blob/main/LightNovel-Apps.md)**
 * **[Social Media](https://github.com/SpamVerse/Piratezparty/blob/main/Social-Media-Apps.md)**
+* **[Android Emulators](https://github.com/Piratezparty/Piratezparty/blob/main/Android-Emulators.md)**
 
 ***
 ***
