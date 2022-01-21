@@ -27,6 +27,8 @@
 * [PrivacyGuides.org](https://www.privacyguides.org/)
 * [Privacy Tool List By Chef-Kock](https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/)
 * [Privacy.sexy](https://privacy.sexy/)
+* [PrivacyTests](http://PrivacyTests.org)
+* [PrivacyTools](https://www.privacytools.io/)
 
 **6. Free Premium Leeches**
 * [Free_Premium_Leeches](https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches)
