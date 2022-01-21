@@ -24,7 +24,7 @@
 **5. Awesome Privacy**
 * [Pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)
 * [KevinColemanInc/awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy)
-* [PrivacyGuides.org](https://www.privacyguides.org/)
+* [PrivacyGuides](https://www.privacyguides.org/)
 * [Privacy Tool List By Chef-Kock](https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/)
 * [Privacy.sexy](https://privacy.sexy/)
 * [PrivacyTests](http://PrivacyTests.org)
