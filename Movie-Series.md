@@ -130,7 +130,7 @@
 
 # ► Websites to Download English/Hollywood movies and series (DDL)
 
-* [pahe](https://pahe.ph)
+* [pahe](https://pahe.li/)
 * [megaddl](https://megaddl.co/)
 * [hdencode](https://hdencode.org/)
 * [crazy4tv](https://crazy4tv.com/)
