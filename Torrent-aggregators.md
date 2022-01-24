@@ -19,7 +19,7 @@
 * [torrentdownloads](https://www.torrentdownloads.me/)
 * [rarbg](https://rarbg.to/)
 * [torrent](https://torrent.tm/ )
-* [Ytszone](Yts.zone)
+* [Ytszone](https://Yts.zone)
 * [rutracker](http://rutracker.net/ )
 * [torrent-paradise](https://torrent-paradise.ml/)
 * [torrents-csv](https://torrents-csv.ml/)
