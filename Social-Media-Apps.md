@@ -41,6 +41,7 @@
 | [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) | ![Last Commit](https://img.shields.io/github/last-commit/Telegram-FOSS-Team/Telegram-FOSS) | ![Freq](https://img.shields.io/github/commit-activity/m/Telegram-FOSS-Team/Telegram-FOSS) |
 | [Forkgram](https://github.com/Forkgram/TelegramAndroid) | ![Last Commit](https://img.shields.io/github/last-commit/Forkgram/TelegramAndroid) | ![Freq](https://img.shields.io/github/commit-activity/m/Forkgram/TelegramAndroid) |
 | [CatogramX](https://github.com/CatogramX/CatogramX) | ![Last Commit](https://img.shields.io/github/last-commit/CatogramX/CatogramX) | ![Freq](https://img.shields.io/github/commit-activity/m/CatogramX/CatogramX) |
+| [TelegramX](https://t.me/tgx_log) | ![Last Commit](https://img.shields.io/github/last-commit/TGX-Android/tdlib) | ![Freq](https://img.shields.io/github/commit-activity/m/TGX-Android/tdlib) |
 | [Nekogram](https://nekogram.app/) | ![Last Commit](https://img.shields.io/github/last-commit/Nekogram/Nekogram) | ![Freq](https://img.shields.io/github/commit-activity/m/Nekogram/Nekogram) |
 | [Graphmessenger](https://www.graphmessenger.com/) |
 | [PlusMessenger](https://plusmessenger.org/) |
