@@ -1,14 +1,4 @@
 # Download Managers
-## CLI Tools
-| Tool | Status |
-|-|-|
-| [aria2](https://aria2.github.io/) | ![](https://img.shields.io/github/last-commit/aria2/aria2)
-| [wget](https://www.gnu.org/software/wget)
-| [axel](https://github.com/axel-download-accelerator/axel) | ![](https://img.shields.io/github/last-commit/axel-download-accelerator/axel)
-| [curl](https://curl.se/) | ![](https://img.shields.io/github/last-commit/curl/curl)
-| [pyLoad](https://pyload.net/) | ![](https://img.shields.io/github/last-commit/pyload/pyload)
-
-## Applications
 | App Name | Status | Windows | MacOS | Linux | Android
 |-|-|:-:|:-:|:-:|:-:|
 | [Turbo DM](https://github.com/inbasic/turbo-download-manager-v2/) (extension)| ![](https://img.shields.io/github/last-commit/inbasic/turbo-download-manager-v2) | ✔ | ✔ | ✔ | ✔ |
