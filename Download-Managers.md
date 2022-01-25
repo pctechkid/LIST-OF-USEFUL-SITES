@@ -1,4 +1,4 @@
-# Download Managers
+## Download Managers
 | App Name | Status | Windows | MacOS | Linux | Android
 |-|-|:-:|:-:|:-:|:-:|
 | [Turbo DM](https://github.com/inbasic/turbo-download-manager-v2/) (extension)| ![](https://img.shields.io/github/last-commit/inbasic/turbo-download-manager-v2) | ✔ | ✔ | ✔ | ✔ |
