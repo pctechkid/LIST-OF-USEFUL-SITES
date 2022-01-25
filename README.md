@@ -42,6 +42,7 @@ All the information on this website is purely for informational purposes and is 
 * **[Encoding Tools](https://github.com/Piratezparty/Piratezparty/blob/main/Encoding-Tools.md)**
 * **[Reading](https://github.com/Piratezparty/Piratezparty/blob/main/Reading-Tools.md)**
 * **[Colab](https://github.com/Piratezparty/Piratezparty/blob/main/Colab.md)**
+* **[Download Managers](https://github.com/Piratezparty/Piratezparty/blob/main/Download-Managers.md)**
 * **[Torrents](https://github.com/Piratezparty/Piratezparty/blob/main/Torrent-Tools.md)**
 * **[Media Managers](https://github.com/Piratezparty/Piratezparty/blob/main/MediaManagers-Tools.md)**
 * **[Social Media](https://github.com/SpamVerse/Piratezparty/blob/main/Social-Media-Tools.md)**
