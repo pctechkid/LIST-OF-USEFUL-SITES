@@ -15,6 +15,7 @@
 | [uGet](http://ugetdm.com) <sup> [Source](https://sourceforge.net/p/urlget/uget2/ci/master/tree)  || ✔ | ❌ | ✔ | ✔ |
 | [Internet DM](https://www.internetdownloadmanager.com) | | ✔ | ❌ | ❌ | ❌ |
 | [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) | ![](https://img.shields.io/github/last-commit/KurtBestor/Hitomi-Downloader) | ✔ | ❌ | ❌ | ❌ |
+| [AM Downloader](https://github.com/antikmozib/AM-Downloader) | ![](https://img.shields.io/github/last-commit/antikmozib/AM-Downloader) | ✔ | ❌ | ❌ | ❌ |
 | [Ant DM](https://antdownloadmanager.com)  | | ✔ | ❌ | ❌ | ❌ |
 | [Download Navi](https://play.google.com/store/apps/details?id=com.tachibana.downloader) <sup> [Github](https://github.com/TachibanaGeneralLaboratories/download-navi) </sup>| ![](https://img.shields.io/github/last-commit/TachibanaGeneralLaboratories/download-navi) | ❌ | ❌ | ❌ | ✔ |
 | [Aria2App](https://github.com/devgianlu/Aria2App) | ![](https://img.shields.io/github/last-commit/devgianlu/Aria2App) | ❌ | ❌ | ❌ | ✔ 
