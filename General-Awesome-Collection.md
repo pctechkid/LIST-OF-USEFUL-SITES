@@ -19,7 +19,7 @@
 * [Telegram Themes](https://github.com/DanySpin97/TelegramThemes)
 
 **4. Toolz**
-*[toolz](https://github.com/d3ward/toolz)
+* [toolz](https://github.com/d3ward/toolz)
 
 **5. Awesome Privacy**
 * [Pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)
@@ -57,7 +57,7 @@
 * [foss-apps](https://github.com/albertomosconi/foss-apps)
 * [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
 * [foss_apps_list](https://gitlab.com/divested-mobile/foss_apps_list)
-* [list_of_opensource_apps](https://reddit.com/r/androidapps/comments/jhtvn4/a_list_of_open_source_applications/]
+* [list_of_opensource_apps](https://reddit.com/r/androidapps/comments/jhtvn4/a_list_of_open_source_applications/)
 
 **13. Android ROM List**
 * [android rom list](https://github.com/musabcel/android_rom_list)
@@ -85,4 +85,4 @@
 * [discord-open-source](https://github.com/discord/discord-open-source)
 
 **20. Vpn Reviews**
-*[VPN-reviews](https://github.com/techlore/VPN-reviews) | [Website](https://techlore.tech/index]
+* [VPN-reviews](https://github.com/techlore/VPN-reviews) | [Website](https://techlore.tech/index)
