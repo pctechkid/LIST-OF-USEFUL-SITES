@@ -57,3 +57,12 @@
 | [64Gram](https://github.com/TDesktop-x64) | ![Last Commit](https://img.shields.io/github/last-commit/TDesktop-x64/tdesktop) | ![Freq](https://img.shields.io/github/commit-activity/m/TDesktop-x64/tdesktop) |
 | [Forkgram](https://github.com/Forkgram/tdesktop) | ![Last Commit](https://img.shields.io/github/last-commit/Forkgram/tdesktop) | ![Freq](https://img.shields.io/github/commit-activity/m/Forkgram/tdesktop) |
 
+
+
+# 𝐑𝐞𝐝𝐝𝐢𝐭
+## Android
+| App Name | Status | Commit Frequency |
+| - | - | - |
+| [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit) | ![Last Commit](https://img.shields.io/github/last-commit/Docile-Alligator/Infinity-For-Reddit) | ![Freq](https://img.shields.io/github/commit-activity/m/Docile-Alligator/Infinity-For-Reddit) |
+| [Dawn](https://github.com/Tunous/Dawn) | ![Last Commit](https://img.shields.io/github/last-commit/Tunous/Dawn) | ![Freq](https://img.shields.io/github/commit-activity/m/Tunous/Dawn) |
+| [Slide](https://github.com/Haptic-Apps/Slide) | ![Last Commit](https://img.shields.io/github/last-commit/Haptic-Apps/Slide) | ![Freq](https://img.shields.io/github/commit-activity/m/Haptic-Apps/Slide) |
