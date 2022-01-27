@@ -46,8 +46,6 @@
 | [Graphmessenger](https://www.graphmessenger.com/) |
 | [PlusMessenger](https://plusmessenger.org/) |
 
-
-
 ## Desktop
 | App Name | Status | Commit Frequency |
 | - | - | - |
@@ -57,9 +55,7 @@
 | [64Gram](https://github.com/TDesktop-x64) | ![Last Commit](https://img.shields.io/github/last-commit/TDesktop-x64/tdesktop) | ![Freq](https://img.shields.io/github/commit-activity/m/TDesktop-x64/tdesktop) |
 | [Forkgram](https://github.com/Forkgram/tdesktop) | ![Last Commit](https://img.shields.io/github/last-commit/Forkgram/tdesktop) | ![Freq](https://img.shields.io/github/commit-activity/m/Forkgram/tdesktop) |
 
-
-
-# 𝐑𝐞𝐝𝐝𝐢𝐭
+# Reddit
 ## Android
 | App Name | Status | Commit Frequency |
 | - | - | - |
