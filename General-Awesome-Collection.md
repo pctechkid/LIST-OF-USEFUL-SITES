@@ -64,6 +64,7 @@
 
 **14. Awesome Userscripts**
 * [awesome-userscripts](https://github.com/bvolpato/awesome-userscripts)
+* [scriptz](https://github.com/d3ward/scriptz)
 
 **15. Opensource Game List**
 * [opensourcegames](https://trilarion.github.io/opensourcegames)
