@@ -1,8 +1,10 @@
-| Repo Name | Status | Commit Frequency | Description
-|-|-|-|-|
-| [Torrent To Google Drive Downloader](https://github.com/AvinashReddy3108/Torrent-To-Google-Drive-Downloader) | ![](https://img.shields.io/github/last-commit/AvinashReddy3108/Torrent-To-Google-Drive-Downloader) | ![](https://img.shields.io/github/commit-activity/m/AvinashReddy3108/Torrent-To-Google-Drive-Downloader) |  *Simple notebook to stream torrent files to Google Drive using Google Colab*
-| [Torrent To Google Drive Downloader V2](https://github.com/r12habh/Torrent-To-Google-Drive-Downloader-v2) | ![](https://img.shields.io/github/last-commit/r12habh/Torrent-To-Google-Drive-Downloader-v2) | ![](https://img.shields.io/github/commit-activity/m/r12habh/Torrent-To-Google-Drive-Downloader-v2) |  *Simple notebook to stream torrent files to Google Drive using Google Colab and python3*
-| [Torrent Drive Telegram Bot Using Colab](https://github.com/nastyzera/Torrent-Drive-Telegram-Bot-Using-Colab) | ![](https://img.shields.io/github/last-commit/nastyzera/Torrent-Drive-Telegram-Bot-Using-Colab) | ![](https://img.shields.io/github/commit-activity/m/nastyzera/Torrent-Drive-Telegram-Bot-Using-Colab) |  *Simple Torrent to GDrive Telegram bot using colab*
-| [RcloneLab](https://github.com/VIJAY63/RcloneLab) | ![](https://img.shields.io/github/last-commit/VIJAY63/RcloneLab) | ![](https://img.shields.io/github/commit-activity/m/VIJAY63/RcloneLab) |  *rclone, qBittorrent, JDownloader, YouTube-DL, netdata, Cloud Commander on Google Colab*
-| [MiXLab](https://github.com/shirooo39/MiXLab) | ![](https://img.shields.io/github/last-commit/shirooo39/MiXLab) | ![](https://img.shields.io/github/commit-activity/m/shirooo39/MiXLab) |  *MiXLab is a mix of multiple amazing Colab Notebooks found on the internet such as rcloneLab, RLabClone, Torrent to Google Drive Downloader and some more*
-| [OneClickRun](https://github.com/biplobsd/OneClickRun) | ![](https://img.shields.io/github/last-commit/biplobsd/OneClickRun) | ![](https://img.shields.io/github/commit-activity/m/biplobsd/OneClickRun) |  *Another colab notebook!*
+* [Torrent To Google Drive Downloader](https://github.com/AvinashReddy3108/Torrent-To-Google-Drive-Downloader) - Helps to easily upload torrent/magnet links to Google Drive!
+* [Torrent Drive Telegram Bot Using Colab](https://github.com/ogkunald/Torrent-Drive-Telegram-Bot-Using-Colab) - Simple Torrent to GDrive Telegram bot using colab.
+* [RcloneLab](https://github.com/acamposxp/RcloneLab/network/members) - rclone GUI, qBittorrent and rTorrent on Google Colaboratory.
+* [MiXLab](https://github.com/shirooo39/MiXLab) - MiXLab is a mix of multiple amazing Colab Notebooks found on the internet.
+* [OneClickRun](https://github.com/biplobsd/OneClickRun) - All in one Colab Notebook.
+* [VT Scan Colab](https://colab.research.google.com/drive/10AZ7NkATPeUNO_ONcE8BUx8LeeipCvwX) - Scanning Files on drive using VirusTotal via Colab.
+* [Rclone file transfer](https://colab.research.google.com/drive/1GUb7TE712Xv_5yJf9cBPGK9qPT5A8CjU?usp=sharing) - Rclone file transfer in colab with resume.
+* [T0rr3nts-t0-G00gl3-Dr1v3](https://github.com/jericjan/Torrents-to-Google-Drive) - This is a Google Colab notebook with QBittorrent and Rclone, which can download torrents to Google Drive.
+* [Ytplaylist YoutubeDL](https://colab.research.google.com/github/aftabkh505/Ytplaylist/blob/master/styleYoutubedl.ipynb) - Download YouTube Videos and Playlist.
+* [Youtube-dl Toolbox](https://colab.research.google.com/github/online6731/youtube-dl-toolbox/blob/main/youtube_dl_toolbox.ipynb) - Video + Playlist Downloder Simple Mode.
