@@ -28,6 +28,7 @@
 * [tsumino](https://tsumino.com)
 * [Hbrowse](https://hbrowse.com/)
 * [Doujins](https://doujins.com/)
+* [Prncomix](https://prncomix.com/)
 * [999hentai](https://999hentai.com/hentai-manga)
 * [9hentai](https://9hentai.com/)
 * [Fakku](https://fakku.net/)
