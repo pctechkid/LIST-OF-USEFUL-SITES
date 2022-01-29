@@ -13,7 +13,7 @@
 * [DeezloaderTCBot](https://t.me/DeezloaderTCBot)
 * [JioDLBot](https://t.me/JioDLBot)
 * [Spotdlrobot](https://t.me/Spotdlrobot)
-* [spotiscdlbot](https://t.me/spotiscdlbot]
+* [spotiscdlbot](https://t.me/spotiscdlbot)
 * [songdl_bot](https://t.me/songdl_bot)
 * [vkmusic_bot](https://t.me/vkmusic_bot)
 * [vkm4bot](https://t.me/vkm4bot)
