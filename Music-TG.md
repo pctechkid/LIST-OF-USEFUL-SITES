@@ -9,6 +9,7 @@
 * [universaldownloaderbot](https://t.me/universaldownloaderbot)
 * [leosongdownloaderbot](https://t.me/leosongdownloaderbot)
 * [Spotybot](https://t.me/Spotybot)
+* [phchdlbot](https://t.me/phchdlbot)
 * [spotifysavesbot](https://t.me/spotifysavesbot)
 * [DeezloaderTCBot](https://t.me/DeezloaderTCBot)
 * [JioDLBot](https://t.me/JioDLBot)
@@ -108,3 +109,4 @@
 * [DolbyAtmosaudios](https://t.me/DolbyAtmosaudios)
 * [YouTubeMusicDB](https://t.me/joinchat/l4i3KWKnONQxNWNi)
 * [MusicDB](https://t.me/just_another_day_with_music)
+* [AppleMusicAlbum](https://t.me/AppleMusicAlbum)
