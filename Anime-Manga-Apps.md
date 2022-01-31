@@ -2,7 +2,7 @@
 | App Name | Status | Commit Frequency |
 | - | - | - |
 | [AnimeClassroom](https://github.com/justdvnsh/AnimeClassroom) | ![Last Commit](https://img.shields.io/github/last-commit/justdvnsh/AnimeClassroom) | ![Freq](https://img.shields.io/github/commit-activity/m/justdvnsh/AnimeClassroom) |
-| [Saikou](https://saikou-app.github.io/) | ![Last Commit](https://img.shields.io/github/last-commit/saikou-app/saikou) | ![Freq](https://img.shields.io/github/commit-activity/m/saikou-app/saikou) |
+| [Saikou](https://github.com/saikou-app/saikou) | ![Last Commit](https://img.shields.io/github/last-commit/saikou-app/saikou) | ![Freq](https://img.shields.io/github/commit-activity/m/saikou-app/saikou) |
 | [Animity](https://github.com/kl3jvi/animity) | ![Last Commit](https://img.shields.io/github/last-commit/kl3jvi/animity) | ![Freq](https://img.shields.io/github/commit-activity/m/kl3jvi/animity) |
 | [CloudStream-3](https://github.com/LagradOst/CloudStream-3) | ![Last Commit](https://img.shields.io/github/last-commit/LagradOst/CloudStream-3) | ![Freq](https://img.shields.io/github/commit-activity/m/LagradOst/CloudStream-3) |
 | [Aniyomi](https://github.com/jmir1/aniyomi) | ![Last Commit](https://img.shields.io/github/last-commit/jmir1/aniyomi) | ![Freq](https://img.shields.io/github/commit-activity/m/jmir1/aniyomi) |
