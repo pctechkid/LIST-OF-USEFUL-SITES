@@ -87,3 +87,7 @@
 
 **20. Vpn Reviews**
 * [VPN-reviews](https://github.com/techlore/VPN-reviews) | [Website](https://techlore.tech/index)
+
+**21. Awesome CLI**
+* [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
+* [awesome-cli](https://github.com/Kikobeats/awesome-cli)
