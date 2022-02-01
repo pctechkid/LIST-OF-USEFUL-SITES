@@ -32,7 +32,7 @@
 | [TioAnime](https://app.tioanime.com) | Spanish |
 
 
-# Windows Anime 
+# Desktop Anime 
 | App Name | Status | Commit Frequency |
 | - | - | - |
 | [Anime-Downloader](https://github.com/henry-richard7/Anime-Downloader) | ![Last Commit](https://img.shields.io/github/last-commit/henry-richard7/Anime-Downloader) | ![Freq](https://img.shields.io/github/commit-activity/m/henry-richard7/Anime-Downloader) |
@@ -63,14 +63,15 @@
 | [TachiyomiAZ](https://github.com/az4521/TachiyomiAZ) | ![](https://img.shields.io/github/last-commit/az4521/TachiyomiAZ) | ![](https://img.shields.io/github/commit-activity/m/az4521/TachiyomiAZ)
 | [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) | ![](https://img.shields.io/github/last-commit/jobobby04/TachiyomiSY) | ![](https://img.shields.io/github/commit-activity/m/jobobby04/TachiyomiSY)
 
-# Windows Manga
+# Desktop Manga
 | App Name | Status | Commit Frequency |
 | - | - | - |
 | [Tachidesk-Server](https://github.com/Suwayomi/Tachidesk-Server) | ![Last Commit](https://img.shields.io/github/last-commit/Suwayomi/Tachidesk-Server) | ![Freq](https://img.shields.io/github/commit-activity/m/Suwayomi/Tachidesk-Server) |
 | [Hakuneko](https://github.com/manga-download/hakuneko) | ![Last Commit](https://img.shields.io/github/last-commit/manga-download/hakuneko) | ![Freq](https://img.shields.io/github/commit-activity/m/manga-download/hakuneko) |
-| [Yukino](https://github.com/yukino-app/yukino)| ![Last Commit](https://img.shields.io/github/last-commit/yukino-app/yukino) | ![Freq](https://img.shields.io/github/commit-activity/m/yukino-app/yukino) |
-| [Adolla](https://github.com/AdollaApp/Adolla) | ![Last Commit](https://img.shields.io/github/last-commit/AdollaApp/Adolla) | ![Freq](https://img.shields.io/github/commit-activity/m/AdollaApp/Adolla)
-| [OpenComic](https://github.com/ollm/OpenComic) | ![Last Commit](https://img.shields.io/github/last-commit/ollm/OpenComic) | ![Freq](https://img.shields.io/github/commit-activity/m/ollm/OpenComic)
+| [Yukino](https://github.com/yukino-app/yukino) | ![Last Commit](https://img.shields.io/github/last-commit/yukino-app/yukino) | ![Freq](https://img.shields.io/github/commit-activity/m/yukino-app/yukino) |
+| [Adolla](https://github.com/AdollaApp/Adolla) | ![Last Commit](https://img.shields.io/github/last-commit/AdollaApp/Adolla) | ![Freq](https://img.shields.io/github/commit-activity/m/AdollaApp/Adolla) |
+| [OpenComic](https://github.com/ollm/OpenComic) | ![Last Commit](https://img.shields.io/github/last-commit/ollm/OpenComic) | ![Freq](https://img.shields.io/github/commit-activity/m/ollm/OpenComic) |
+| [Houdoku](https://github.com/xgi/houdoku) | ![Last Commit](https://img.shields.io/github/last-commit/xgi/houdoku) | ![Freq](https://img.shields.io/github/commit-activity/m/xgi/houdoku) |
 
 **Note 1:** Once Adolla or Tachidesk Server is started, you can use it on other devices as well by replacing **localhost:PORT** or **127.0.0.1:PORT** with IP of the Server. Eg - **169.196.69.96:PORT**
 
