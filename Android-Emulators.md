@@ -20,6 +20,7 @@
 ### PheonixOS Active Mods/Forks
 | App Name | Windows | MacOS | Linux
 |-|:-:|:-:|:-:|
+| [AbstregoOS](https://discord.com/invite/ZqvYu6mEjb) | ✔ | ✔ | ✔ |
 | [POSROG](https://posrog.my.id) <sup> [TG](https://t.me/posrogchannel)| ✔ | ✔ | ✔ |
 | [POS DarkMatter](https://supreme-gamers.com/r/phoenixos-darkmatter-supercharged-for-everyone.2/) | ✔ | ✔ | ✔ |
 | [Thanos POS](https://t.me/thanosphd3) <sup> [YT](https://www.youtube.com/channel/UCR_1iKHYPKQk8ratPkCPP5w)| ✔ | ✔ | ✔ |
