@@ -45,6 +45,7 @@
 | [Nekogram](https://nekogram.app/) | ![Last Commit](https://badgen.net/gitlab/last-commit/Nekogram/Nekogram) |
 | [Graphmessenger](https://www.graphmessenger.com/) |
 | [PlusMessenger](https://plusmessenger.org/) |
+| [TurboTel Pro](https://play.google.com/store/apps/details?id=ellipi.messenger) 
 
 ## Desktop
 | App Name | Status | Commit Frequency |
