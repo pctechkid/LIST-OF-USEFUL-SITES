@@ -58,6 +58,9 @@
 | - | - | - |
 | [Telegram](https://github.com/TelegramMessenger/Telegram-iOS) | ![Last Commit](https://img.shields.io/github/last-commit/TelegramMessenger/Telegram-iOS) | ![Freq](https://img.shields.io/github/commit-activity/m/TelegramMessenger/Telegram-iOS) |
 | [iMe Messenger](https://github.com/imemessenger/iMe-iOS) | ![Last Commit](https://img.shields.io/github/last-commit/imemessenger/iMe-iOS) | ![Freq](https://img.shields.io/github/commit-activity/m/imemessenger/iMe-iOS) |
+| [Postufgram](https://github.com/Postuf/Telegram-iOS-Double-Bottom-Postufgram) | ![Last Commit](https://img.shields.io/github/last-commit/Postuf/Telegram-iOS-Double-Bottom-Postufgram) | ![Freq](https://img.shields.io/github/commit-activity/m/Postuf/Telegram-iOS-Double-Bottom-Postufgram) |
+| [nicegram](https://github.com/nicegram/Telegram-iOS) | ![Last Commit](https://img.shields.io/github/last-commit/nicegram/Telegram-iOS) | ![Freq](https://img.shields.io/github/commit-activity/m/nicegram/Telegram-iOS) |
+
 
 ## Desktop
 | App Name | Status | Commit Frequency |
