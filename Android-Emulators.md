@@ -30,3 +30,6 @@
 |-|:-:|:-:|:-:|:-:|
 | [BlueStacks X](https://x.bluestacks.com) | Free | ✔ | ❌ | ❌ |
 | [Genymotion](https://www.genymotion.com) | $0.5/hour | ✔ | ✔ | ✔ |
+
+## Extras
+[MagiskOnEmu](https://github.com/HuskyDG/MagiskOnEmu) - Allows to integrate Magisk root into Android Emulators
