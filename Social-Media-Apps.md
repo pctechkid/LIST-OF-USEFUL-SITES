@@ -34,6 +34,7 @@
 
 # Telegram
 ## Android
+### Open Source Apps
 | App Name | Status | Commit Frequency |
 | - | - | - |
 | [Telegram](https://github.com/DrKLO/Telegram) | ![Last Commit](https://img.shields.io/github/last-commit/DrKLO/Telegram) | ![Freq](https://img.shields.io/github/commit-activity/m/DrKLO/Telegram) |
@@ -43,9 +44,11 @@
 | [CatogramX](https://github.com/CatogramX/CatogramX) | ![Last Commit](https://img.shields.io/github/last-commit/CatogramX/CatogramX) | ![Freq](https://img.shields.io/github/commit-activity/m/CatogramX/CatogramX) |
 | [TelegramX](https://t.me/tgx_log) | ![Last Commit](https://img.shields.io/github/last-commit/TGX-Android/tdlib) | ![Freq](https://img.shields.io/github/commit-activity/m/TGX-Android/tdlib) |
 | [Nekogram](https://nekogram.app/) | ![Last Commit](https://badgen.net/gitlab/last-commit/Nekogram/Nekogram) |
-| [Graphmessenger](https://www.graphmessenger.com/) |
-| [PlusMessenger](https://plusmessenger.org/) |
-| [TurboTel Pro](https://play.google.com/store/apps/details?id=ellipi.messenger) 
+
+### Closed Source Apps
+- [Graphmessenger](https://www.graphmessenger.com/)
+- [PlusMessenger](https://plusmessenger.org)
+- [TurboTel Pro](https://play.google.com/store/apps/details?id=ellipi.messenger)
 
 ## Desktop
 | App Name | Status | Commit Frequency |
