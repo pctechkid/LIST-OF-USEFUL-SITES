@@ -1,9 +1,8 @@
-
 ## Android Emulators
 | App Name | Windows | MacOS | Linux
 |-|:-:|:-:|:-:|
-| [BlueStacks](https://www.bluestacks.com) <sup>[BSTweaker](https://bstweaker.tk/)| ✔ | ✔ | ❌ |
-| [NoxPlayer](https://www.bignox.com) <sup>[Debloater](https://gist.github.com/Log1x/12d330ef7685d6fbc611d1d57efb5c29)</sup> | ✔ | ✔ | ❌ |
+| [BlueStacks](https://www.bluestacks.com) | ✔ | ✔ | ❌ |
+| [NoxPlayer](https://www.bignox.com) | ✔ | ✔ | ❌ |
 | [MEmu](https://www.memuplay.com) | ✔ | ❌ | ❌ |
 | [LDPlayer](https://www.ldplayer.net) | ✔ | ❌ | ❌ |
 | [Genymotion](https://www.genymotion.com) | ✔ | ✔ | ✔ |
@@ -32,4 +31,6 @@
 | [Genymotion](https://www.genymotion.com) | $0.5/hour | ✔ | ✔ | ✔ |
 
 ## Extras
-[MagiskOnEmu](https://github.com/HuskyDG/MagiskOnEmu) - Allows to integrate Magisk root into Android Emulators
+- [MagiskOnEmu](https://github.com/HuskyDG/MagiskOnEmu) - Allows to integrate Magisk root into Android Emulators.
+- [BSTweaker](https://bstweaker.tk) - Root, FileManager, Device Spoofing, Debugging etc for Bluestacks, MEmu, Nox & LDPlayer.
+- [NoxDebloater](https://gist.github.com/Log1x/12d330ef7685d6fbc611d1d57efb5c29) - Remove Ads, Debloat and Optimize NoxPlayer
