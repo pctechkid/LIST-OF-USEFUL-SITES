@@ -60,6 +60,7 @@ All the information present here is purely for informational purposes and is not
 * **[Social Media](https://github.com/SpamVerse/Piratezparty/blob/main/Social-Media-Apps.md)**
 * **[Android Emulators](https://github.com/Piratezparty/Piratezparty/blob/main/Android-Emulators.md)**
 * **[Download Managers](https://github.com/Piratezparty/Piratezparty/blob/main/Download-Managers.md)**
+* **[Tracking Apps](https://github.com/SpamVerse/Piratezparty/blob/main/Tracking-Apps.md)**
 
 ***
 ***
