@@ -39,3 +39,4 @@
 | [Katarogu](https://play.google.com/store/apps/details?id=com.apoorvaditya.katarogu) | ✔ | ❌ |
 | [Livechart](https://play.google.com/store/apps/details?id=me.livechart.android) | ✔ | ❌ |
 | [Kitsu](https://play.google.com/store/apps/details?id=com.everfox.animetrackerandroid) | ✔ | ❌ |
+| [Komori](https://play.google.com/store/apps/details?id=app.komori) | ✔ | ❌ |
