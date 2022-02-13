@@ -12,3 +12,6 @@
 * [Simple YouTube Age Restriction Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) - A simple userscript to bypass YouTube's age verification and watch age restricted videos without having to sign in.
 
 * [ImprovedTube](https://github.com/code4charity/YouTube-Extension) | [Website](https://improvedtube.com/) - Lightweight extension to improve your view & content discovery.
+
+# Telegram
+[Killergram](https://github.com/Xposed-Modules-Repo/com.shatyuka.killergram) - An Android Xposed module to remove sponsored messages of Telegram

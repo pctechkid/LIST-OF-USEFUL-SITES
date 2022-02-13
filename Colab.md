@@ -17,3 +17,7 @@
 * [Ytplaylist YoutubeDL](https://colab.research.google.com/github/aftabkh505/Ytplaylist/blob/master/styleYoutubedl.ipynb) - Download YouTube Videos and Playlist.
 
 * [Youtube-dl Toolbox](https://colab.research.google.com/github/online6731/youtube-dl-toolbox/blob/main/youtube_dl_toolbox.ipynb) - Video + Playlist Downloder Simple Mode.
+
+* [FFMPEG For Colab](https://github.com/cheems/FFmpeg-for-GDrive) - Run FFMPEG on Colab with Files Mounted from Gdrive.
+
+* [HandBrakeCLI-ColabNotebook](https://github.com/SKGHD/Handy) - HandbrakeCLI with Files Mounted from Gdrive.

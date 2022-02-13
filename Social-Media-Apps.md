@@ -34,6 +34,7 @@
 
 # Telegram
 ## Android
+### Open Source Apps
 | App Name | Status | Commit Frequency |
 | - | - | - |
 | [Telegram](https://github.com/DrKLO/Telegram) | ![Last Commit](https://img.shields.io/github/last-commit/DrKLO/Telegram) | ![Freq](https://img.shields.io/github/commit-activity/m/DrKLO/Telegram) |
@@ -43,8 +44,23 @@
 | [CatogramX](https://github.com/CatogramX/CatogramX) | ![Last Commit](https://img.shields.io/github/last-commit/CatogramX/CatogramX) | ![Freq](https://img.shields.io/github/commit-activity/m/CatogramX/CatogramX) |
 | [TelegramX](https://t.me/tgx_log) | ![Last Commit](https://img.shields.io/github/last-commit/TGX-Android/tdlib) | ![Freq](https://img.shields.io/github/commit-activity/m/TGX-Android/tdlib) |
 | [Nekogram](https://nekogram.app/) | ![Last Commit](https://badgen.net/gitlab/last-commit/Nekogram/Nekogram) |
-| [Graphmessenger](https://www.graphmessenger.com/) |
-| [PlusMessenger](https://plusmessenger.org/) |
+| [iMe Messenger](https://github.com/imemessenger/iMe-Android) | ![Last Commit](https://img.shields.io/github/last-commit/imemessenger/iMe-Android) | ![Freq](https://img.shields.io/github/commit-activity/m/imemessenger/iMe-Android) |
+| [BGram](https://github.com/BGramApp/BGramFiles) | ![Last Commit](https://img.shields.io/github/last-commit/BGramApp/BGramFiles) | ![Freq](https://img.shields.io/github/commit-activity/m/BGramApp/BGramFiles) |
+
+### Closed Source Apps
+- [Graphmessenger](https://www.graphmessenger.com/)
+- [PlusMessenger](https://plusmessenger.org)
+- [TurboTel Pro](https://play.google.com/store/apps/details?id=ellipi.messenger)
+- [aka](https://play.google.com/store/apps/details?id=org.aka.messenger) 
+
+## iOS
+| App Name | Status | Commit Frequency |
+| - | - | - |
+| [Telegram](https://github.com/TelegramMessenger/Telegram-iOS) | ![Last Commit](https://img.shields.io/github/last-commit/TelegramMessenger/Telegram-iOS) | ![Freq](https://img.shields.io/github/commit-activity/m/TelegramMessenger/Telegram-iOS) |
+| [iMe Messenger](https://github.com/imemessenger/iMe-iOS) | ![Last Commit](https://img.shields.io/github/last-commit/imemessenger/iMe-iOS) | ![Freq](https://img.shields.io/github/commit-activity/m/imemessenger/iMe-iOS) |
+| [Postufgram](https://github.com/Postuf/Telegram-iOS-Double-Bottom-Postufgram) | ![Last Commit](https://img.shields.io/github/last-commit/Postuf/Telegram-iOS-Double-Bottom-Postufgram) | ![Freq](https://img.shields.io/github/commit-activity/m/Postuf/Telegram-iOS-Double-Bottom-Postufgram) |
+| [nicegram](https://github.com/nicegram/Telegram-iOS) | ![Last Commit](https://img.shields.io/github/last-commit/nicegram/Telegram-iOS) | ![Freq](https://img.shields.io/github/commit-activity/m/nicegram/Telegram-iOS) |
+
 
 ## Desktop
 | App Name | Status | Commit Frequency |
