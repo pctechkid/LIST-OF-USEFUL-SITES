@@ -23,7 +23,7 @@
 * [Warezzsh](https://piracy.vercel.app/)
 
 **8. Freemediahack**
-* [FMHY](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)
+* [FMHY](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) | [Website](https://fmhy.tk/)
 
 **9. CHEF-KOCH/Warez**
 * [Chef-koch/Warez](https://libraries.io/github/CHEF-KOCH/Warez)
