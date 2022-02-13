@@ -34,7 +34,7 @@
 | [Sushi](https://play.google.com/store/apps/details?id=com.destructo.sushi_mal) | ✔ | ❌ |
 | [MoeList](https://github.com/axiel7/MoeList) | ✔ | ❌ |
 | [AnYme](https://github.com/zunjae/AnYme) | ✔ | ❌ |
-| [MAL Official App](https://myanimelist.net/) | ✔ | ✔ |
+| [MAL Official](https://myanimelist.net/) | ✔ | ✔ |
 | [MALClient](https://github.com/Drutol/MALClient) | ✔ | ❌ |
 | [Katarogu](https://play.google.com/store/apps/details?id=com.apoorvaditya.katarogu) | ✔ | ❌ |
 | [Livechart](https://play.google.com/store/apps/details?id=me.livechart.android) | ✔ | ❌ |
