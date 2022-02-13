@@ -24,7 +24,7 @@
 | App Name | Status | Commit Frequency |
 | - | - | - |
 | [Aliucord](https://github.com/Aliucord/Aliucord) | ![Last Commit](https://img.shields.io/github/last-commit/Aliucord/Aliucord) | ![Freq](https://img.shields.io/github/commit-activity/m/Aliucord/Aliucord) |
-| [Bluecord](https://bluesmods.com/)
+| [Bluecord](https://bluesmods.com/) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
 
 ## Desktop
 | App Name | Status | Commit Frequency |
@@ -34,7 +34,6 @@
 
 # Telegram
 ## Android
-### Open Source Apps
 | App Name | Status | Commit Frequency |
 | - | - | - |
 | [Telegram](https://github.com/DrKLO/Telegram) | ![Last Commit](https://img.shields.io/github/last-commit/DrKLO/Telegram) | ![Freq](https://img.shields.io/github/commit-activity/m/DrKLO/Telegram) |
@@ -42,21 +41,14 @@
 | [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) | ![Last Commit](https://img.shields.io/github/last-commit/Telegram-FOSS-Team/Telegram-FOSS) | ![Freq](https://img.shields.io/github/commit-activity/m/Telegram-FOSS-Team/Telegram-FOSS) |
 | [Forkgram](https://github.com/Forkgram/TelegramAndroid) | ![Last Commit](https://img.shields.io/github/last-commit/Forkgram/TelegramAndroid) | ![Freq](https://img.shields.io/github/commit-activity/m/Forkgram/TelegramAndroid) |
 | [CatogramX](https://github.com/CatogramX/CatogramX) | ![Last Commit](https://img.shields.io/github/last-commit/CatogramX/CatogramX) | ![Freq](https://img.shields.io/github/commit-activity/m/CatogramX/CatogramX) |
+| [PlusMessenger](https://plusmessenger.org) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
 | [TelegramX](https://t.me/tgx_log) | ![Last Commit](https://img.shields.io/github/last-commit/TGX-Android/tdlib) | ![Freq](https://img.shields.io/github/commit-activity/m/TGX-Android/tdlib) |
 | [Nekogram](https://nekogram.app/) | ![Last Commit](https://badgen.net/gitlab/last-commit/Nekogram/Nekogram) | ![Freq](https://img.shields.io/github/commit-activity/m/tehcneko/nekogram-files) |
+| [TurboTel Pro](https://play.google.com/store/apps/details?id=ellipi.messenger) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
 | [iMe Messenger](https://github.com/imemessenger/iMe-Android) | ![Last Commit](https://img.shields.io/github/last-commit/imemessenger/iMe-Android) | ![Freq](https://img.shields.io/github/commit-activity/m/imemessenger/iMe-Android) |
 | [BGram](https://github.com/BGramApp/BGramFiles) | ![Last Commit](https://img.shields.io/github/last-commit/BGramApp/BGramFiles) | ![Freq](https://img.shields.io/github/commit-activity/m/BGramApp/BGramFiles) |
-| [Graphmessenger](https://www.graphmessenger.com/) | ![Last Commit](https://img.shields.io/badge/-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/-Closed%20Source-blueviolet) |
-| [PlusMessenger](https://plusmessenger.org) | ![Last Commit](https://img.shields.io/badge/-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/-Closed%20Source-blueviolet) |
-| [iMe Messenger](https://github.com/imemessenger/iMe-Android) | ![Last Commit](https://img.shields.io/github/last-commit/imemessenger/iMe-Android) | ![Freq](https://img.shields.io/github/commit-activity/m/imemessenger/iMe-Android) |
-| [BGram](https://github.com/BGramApp/BGramFiles) | ![Last Commit](https://img.shields.io/github/last-commit/BGramApp/BGramFiles) | ![Freq](https://img.shields.io/github/commit-activity/m/BGramApp/BGramFiles) |
-
-
-### Closed Source Apps
-- []()
-- []()
-- [TurboTel Pro](https://play.google.com/store/apps/details?id=ellipi.messenger)
-- [aka](https://play.google.com/store/apps/details?id=org.aka.messenger) 
+| [Graphmessenger](https://www.graphmessenger.com/) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
+| [Aka](https://play.google.com/store/apps/details?id=org.aka.messenger) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
 
 ## iOS
 | App Name | Status | Commit Frequency |
@@ -65,7 +57,6 @@
 | [iMe Messenger](https://github.com/imemessenger/iMe-iOS) | ![Last Commit](https://img.shields.io/github/last-commit/imemessenger/iMe-iOS) | ![Freq](https://img.shields.io/github/commit-activity/m/imemessenger/iMe-iOS) |
 | [Postufgram](https://github.com/Postuf/Telegram-iOS-Double-Bottom-Postufgram) | ![Last Commit](https://img.shields.io/github/last-commit/Postuf/Telegram-iOS-Double-Bottom-Postufgram) | ![Freq](https://img.shields.io/github/commit-activity/m/Postuf/Telegram-iOS-Double-Bottom-Postufgram) |
 | [nicegram](https://github.com/nicegram/Telegram-iOS) | ![Last Commit](https://img.shields.io/github/last-commit/nicegram/Telegram-iOS) | ![Freq](https://img.shields.io/github/commit-activity/m/nicegram/Telegram-iOS) |
-
 
 ## Desktop
 | App Name | Status | Commit Frequency |
