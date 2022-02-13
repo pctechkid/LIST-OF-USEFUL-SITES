@@ -30,13 +30,15 @@
 | [Tegai](https://play.google.com/store/apps/details?id=com.Tegaki.anime) | ✔ | ❌ |
 | [Otraku](https://github.com/lotusgate/otraku) | ✔ | ❌ |
 | [MyAniList](https://apps.apple.com/us/app/myanilist/id741257899) | ❌ | ✔ |
-| [Ryuusei](https://simkl.com/apps/?allow) | ❌ | ✔ |
+| [Ryuusei](https://apps.apple.com/us/app/ryuusei/id1347721581) | ❌ | ✔ |
 | [Sushi](https://play.google.com/store/apps/details?id=com.destructo.sushi_mal) | ✔ | ❌ |
 | [MoeList](https://github.com/axiel7/MoeList) | ✔ | ❌ |
 | [AnYme](https://github.com/zunjae/AnYme) | ✔ | ❌ |
-| [MAL Official](https://myanimelist.net/) | ✔ | ✔ |
+| [MAL](https://myanimelist.net/) | ✔ | ✔ |
 | [MALClient](https://github.com/Drutol/MALClient) | ✔ | ❌ |
 | [Katarogu](https://play.google.com/store/apps/details?id=com.apoorvaditya.katarogu) | ✔ | ❌ |
 | [Livechart](https://play.google.com/store/apps/details?id=me.livechart.android) | ✔ | ❌ |
 | [Kitsu](https://play.google.com/store/apps/details?id=com.everfox.animetrackerandroid) | ✔ | ❌ |
 | [Komori](https://play.google.com/store/apps/details?id=app.komori) | ✔ | ❌ |
+| [AniList](https://anilist.co/apps) | ✔ | ✔ |
+| [Simkl](https://simkl.com/apps/?allow) | ✔ | ✔ |
