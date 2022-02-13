@@ -22,7 +22,7 @@
 **7. Warezz.now.sh**
 * [Warezzsh](https://piracy.vercel.app/)
 
-**8. Freemediahack**
+**8. FreeMediaHeckYeah**
 * [FMHY](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) | [Website](https://fmhy.tk/)
 
 **9. CHEF-KOCH/Warez**
