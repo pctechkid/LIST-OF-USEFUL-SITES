@@ -67,14 +67,27 @@
 
 # Reddit Collection
 
-* [r/wholesomehentai](https://www.reddit.com/r/wholesomehentai) - Hentai that makes your heart orgasm.
-* [r/hentai](https://www.reddit.com/r/hentai) - Hentai Related sub.
-* [r/HENTAI_GIF](https://www.reddit.com/r/HENTAI_GIF) - For Hentai Animations.
+* [Wholesomehentai](https://www.reddit.com/r/wholesomehentai) - Hentai that makes your heart orgasm.
+* [Hentai](https://www.reddit.com/r/hentai) | [List](https://reddit.com/r/hentai/w/hentai_subreddits) - Hentai Related sub.
+* [HENTAI_GIF](https://www.reddit.com/r/HENTAI_GIF) - For Hentai Animations.
 * [Hentai4Everyone](https://www.reddit.com/r/Hentai4Everyone) - Yet Another Hentai Subreddit.
 * [HentaiAnime](https://www.reddit.com/r/HentaiAnime) - About HentaiAnime.
 * [HentaiManga](https://www.reddit.com/r/HentaiManga) - NSFW subreddit dedicated to Hentai Manga adult genre.
-* [hentaicomics](https://www.reddit.com/r/hentaicomics) - Home to your favorite hentai comics and shenanigans.
+* [Hentaicomics](https://www.reddit.com/r/hentaicomics) - Home to your favorite hentai comics and shenanigans.
 * [HentaiSource](https://www.reddit.com/r/HentaiSource) - This subreddit is dedicated to finding and archiving sources for your fapping needs in the hentai category.
+* [Adorablehentai](https://www.reddit.com/r/adorablehentai) - Adorable hentai are those that give us warm fuzzies that make us go 'aww' and/or make us happy for the happiness of those in the story.
+* [Completedhentaimanga](https://www.reddit.com/r/Completedhentaimanga) - enjoy the compilation of every completed adult series completed.
+* [Doujinshi](https://www.reddit.com/r/doujinshi) - Lewd(er) manga, but not as lewd as hand holding.
+* [DoujinshiPanels](https://www.reddit.com/r/DoujinshiPanels) - Post panels or pages you find in Doujinshi here.
+* [Anime_Hentai](https://www.reddit.com/r/anime_hentai) - The best anime hentai collection. Find the best anime hentai videos, comics and images!
+* [AnimeMILFS](https://www.reddit.com/r/AnimeMILFS) - A community for all the anime MILF lovers out there.
+* [Ecchi](https://www.reddit.com/r/ecchi) - Ecchi - NSFW pictures of anime characters.
+* [Hentai_irl](https://www.reddit.com/r/hentai_irl) - Anime_irl's perverted sister.
+* [HentaiManga_X](https://www.reddit.com/r/hentaiManga_X) - Hentai manga of all genre.
+* [Nsfw_zhentai](https://www.reddit.com/r/nsfw_zhentai) - Hentai Community of ZHENTUBE.
+* [Sixdigits](https://www.reddit.com/r/sixdigits) - Six digit hentai codes, found in the wild. Most are intentionally shared, but it's cooler when they're posted by accident in some random sub.
+* [StierHentai](https://www.reddit.com/r/StierHentai) - Only the best of hentai!
+* [VanillaRomanceOnly](https://www.reddit.com/r/VanillaRomanceOnly) - Vanilla Romance are for those that do not cross the line in to fetish territory.
 
 # Tools
 
