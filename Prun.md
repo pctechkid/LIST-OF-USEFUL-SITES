@@ -45,4 +45,5 @@
 * [Mrporngreek](https://www.mrporngeek.com/best-porn-subreddits/) - *Adblocker must and don't click on other banners and shit*
 * [PornGeek](https://porngeek.com/) | [PornGeek-nsfwlist](https://porngeek.com/reddits-nsfw-list/)
 * [Reddit-nsfw-list](https://www.reddit-doesnt-like-this.site/)
-
+* [NSFW411](https://www.reddit.com/r/NSFW411)
+* [Rule_34](https://www.reddit.com/r/Rule_34) | [rule34](https://www.reddit.com/r/rule34)
