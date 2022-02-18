@@ -70,3 +70,13 @@
 | [JunctionBot](https://github.com/Anandpskerala/JunctionBot) | ![](https://img.shields.io/github/last-commit/Anandpskerala/JunctionBot) | ![](https://img.shields.io/github/commit-activity/m/Anandpskerala/JunctionBot)
 | [ForwardBot](https://github.com/rahulps1000/ForwardBot) | ![](https://img.shields.io/github/last-commit/rahulps1000/ForwardBot) | ![](https://img.shields.io/github/commit-activity/m/rahulps1000/ForwardBot)
 | [telegram-message-forwarder-bot](https://github.com/viperadnan-git/telegram-message-forwarder-bot) | ![](https://img.shields.io/github/last-commit/viperadnan-git/telegram-message-forwarder-bot) | ![](https://img.shields.io/github/commit-activity/m/viperadnan-git/telegram-message-forwarder-bot)
+
+# CLI cloning Tools [Forks]
+
+| Repo Name | SA Support | Status | Commit Frequency 
+|-|:-:|-|-|
+| [Rekulous/gclone](https://github.com/Rekulous/gclone) | ✔ | ![](https://img.shields.io/github/last-commit/Rekulous/gclone) | ![](https://img.shields.io/github/commit-activity/m/Rekulous/gclone)
+| [dogbutcat/gclone](https://github.com/dogbutcat/gclone) | ✔ | ![](https://img.shields.io/github/last-commit/dogbutcat/gclone) | ![](https://img.shields.io/github/commit-activity/m/dogbutcat/gclone)
+| [l3v11/gclone](https://github.com/l3v11/gclone) | ✔ | ![](https://img.shields.io/github/last-commit/l3v11/gclone) | ![](https://img.shields.io/github/commit-activity/m/l3v11/gclone)
+| [hsj51/gclone](https://github.com/hsj51/gclone) | ✔ | ![](https://img.shields.io/github/last-commit/hsj51/gclone) | ![](https://img.shields.io/github/commit-activity/m/hsj51/gclone)
+
