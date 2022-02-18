@@ -20,6 +20,8 @@
 | [Themoviedb.org/apps](https://www.themoviedb.org/apps) | ✔ | ✔ |
 | [Cinexplore](https://play.google.com/store/apps/details?id=com.fidloo.cinexplore) | ✔ | ❌ |
 | [Trakt](https://trakt.tv/a/trakt-ios) | ❌ | ✔ |
+| [Mustapp](https://mustapp.com/) | ✔ | ✔ |
+| [AVA](https://play.google.com/store/apps/details?id=de.ava) | ✔ | ❌ |
 
 # Anime
 
