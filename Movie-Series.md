@@ -1,4 +1,4 @@
-# ► Websites for Both Bollywood/Hollywood CONTENT (streaming+DDL)
+# ► Bollywood/Hollywood Content (Streaming+DDL)
 
 * [Todaypk](https://ww3.1todaypk.ws)
 * [hindilinks4u](https://www.hindilinks4u.to/)
@@ -60,7 +60,7 @@
 * [happy2hub](https://happy2hub.org/)
 * [olamovies](https://olamovies.vip)
 
-# ► Websites to Stream English/Hollywood Content (streaming)
+# ► Hollywood Content (streaming)
 
 ## Streaming (720p)
 * [myflixer](http://myflixer.to/)
@@ -128,7 +128,7 @@
 * [hdmovie8](https://hdmovie8.com/)
 * [ymovies](https://ymovies.to/)
 
-# ► Websites to Download English/Hollywood movies and series (DDL)
+# ► English/Hollywood Content (DDL)
 
 * [pahe](https://pahe.li/)
 * [megaddl](https://megaddl.co/)
