@@ -1,4 +1,4 @@
-# Websites to watch anime Online
+# Watch Online
 
 * [simplyaweeb](https://simplyaweeb.to/)
 * [kickassanime](https://kickassanime.rs/)
@@ -57,7 +57,7 @@
 * [chia-anime](https://chia-anime.su/)
 * [animetribes](https://animetribes.ru/)
 
-# Websites to Download anime(DDL)
+# Download anime
 
 * [anidl](https://anidl.org/)
 * [erai-raws](https://www.erai-raws.info/)
@@ -94,7 +94,7 @@
 * [animeflix](https://animeflix.org.in/)
 * [animesenpai4u](https://www.animesenpai4u.com/)
 
-# Websites to download anime(Torrents)
+# Torrent Websites
 
 * [animereleasegroup](http://animereleasegroup.blogspot.com/p/main.html)
 * [subsplease](https://subsplease.org/)
