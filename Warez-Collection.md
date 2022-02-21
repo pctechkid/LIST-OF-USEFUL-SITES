@@ -46,8 +46,8 @@
 **15. r/Piracy Megathread**
 * [Piracy/Wiki/index](https://www.reddit.com/r/Piracy/wiki/index)
 
-**16. A Small Collection**
-* [My little collections](https://my-little-collections.super.site/)
+**16. Ripped Piracy**
+* [Ripped](https://github.com/rippedpiracy/docs) | [Website](https://ripped.guidehttps://ripped.guide)
 
 **17. The Pirate List**
 * [Thepiratelist](https://thepiratelist.com/)
