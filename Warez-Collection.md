@@ -82,4 +82,5 @@
 **27. Linkr**
 * [linkr](https://www.linkr.top/)
 
-
+**28. Morrismotel**
+* [morrismotel](https://morrismotel.com/)
