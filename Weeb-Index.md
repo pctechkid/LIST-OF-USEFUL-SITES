@@ -19,8 +19,8 @@
 
 * [Senpai](https://www.senpai.moe/)
 * [Animecorner](https://Animecorner.me/)
-* [Anichart.net](https://anichart.net/airing)
-* [Livechart](http://livechart.me/) | [AniList](https://anilist.co/)
+* [Anichart.net](https://anichart.net/airing) | [AniList](https://anilist.co/)
+* [Livechart](http://livechart.me/)
 * [Myanimelist](https://myanimelist.net/)
 * [Animeschedule](https://animeschedule.net/)
 * [Animecalendar](http://animecalendar.eu/)
