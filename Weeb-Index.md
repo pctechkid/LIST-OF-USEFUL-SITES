@@ -2,13 +2,13 @@
 *Websites for easing the life of weebs*
 
 * [Animeawards](https://animeawards.moe/)
-* [Animekarmalist.com](https://animekarmalist.com/)
+* [Animekarmalist](https://animekarmalist.com/)
 * [A Certain Fansubber's Index](https://index.fansubcar.tel/)
 * [Seadex Index](http://releases.moe/)
 * [r/anime watch order](https://reddit.com/r/anime/w/watch_order)
 * [Fansubdb](https://fansubdb.com/) - Fansub Related Data
 * [Bakaupdates](https://www.mangaupdates.com/index.html) - Website to find specific titles you're looking for.
-* [Anidb.net](https://anidb.net/)
+* [Anidb](https://anidb.net/)
 * [Novelupdates](https://www.novelupdates.com/)
 * [Scanupdates](https://www.scanupdates.com/)
 * [Manga Update](https://www.manga-raw.club/listy/manga/)
@@ -19,7 +19,7 @@
 
 * [Senpai](https://www.senpai.moe/)
 * [Animecorner](https://Animecorner.me/)
-* [Anichart.net](https://anichart.net/airing) | [AniList](https://anilist.co/)
+* [Anichart](https://anichart.net/airing) | [AniList](https://anilist.co/)
 * [Livechart](http://livechart.me/)
 * [Myanimelist](https://myanimelist.net/)
 * [Animeschedule](https://animeschedule.net/)
