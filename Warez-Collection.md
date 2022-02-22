@@ -84,3 +84,6 @@
 
 **28. Morrismotel**
 * [morrismotel](https://morrismotel.com/)
+
+**29. r/Mangapiracy Index**
+* [Mangapiracy](https://www.reddit.com/r/mangapiracy/about/)
