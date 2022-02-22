@@ -80,6 +80,7 @@ All the information present here is purely for informational purposes and is not
 * **[General](https://github.com/Piratezparty/Piratezparty/blob/main/General-Awesome-Collection.md)**
 * **[Warez](https://github.com/Piratezparty/Piratezparty/blob/main/Warez-Collection.md)**
 * **[Reddit](https://github.com/Piratezparty/Piratezparty/blob/main/Awesome-Reddit.md)**
+* **[Weeb-Index](https://github.com/SpamVerse/Piratezparty/blob/main/Weeb-Index.md)**
 
 ***
 ***
