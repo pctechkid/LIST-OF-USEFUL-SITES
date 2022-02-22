@@ -25,3 +25,16 @@
 * [Animeschedule](https://animeschedule.net/)
 * [Animecalendar](http://animecalendar.eu/)
 
+# Wikis
+*Reddit wikis for Manga/Manhwa/Manhua etc which includes official publications and much more*
+
+* [Manhwa](https://www.reddit.com/r/manhwa/about/)
+* [Manhua](https://www.reddit.com/r/manhua/about/)
+* [Manga](https://reddit.com/r/manga/w/index)
+* [Webtoons](https://reddit.com/r/webtoons/w/index)
+* [Comicbooks](https://www.reddit.com/r/comicbooks/about/)
+* [Noveltranslation](https://reddit.com/r/noveltranslations/w/index)
+* [Anime](https://www.reddit.com/r/anime/about/)
+
+
+
