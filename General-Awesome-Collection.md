@@ -94,3 +94,6 @@
 **21. Awesome CLI**
 * [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
 * [awesome-cli](https://github.com/Kikobeats/awesome-cli)
+
+**22. Awesome Music**
+* [awesome-sheet-music](https://github.com/ad-si/awesome-sheet-music)
