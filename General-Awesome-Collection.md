@@ -47,6 +47,8 @@
 * [Free-For-Dev](https://free-for.dev/#/)
 * [Free-For-Dev](https://github.com/jixserver/free-for-dev)
 * [FreeSoft](https://freesoft.dev/)
+* [Rapidapi](https://rapidapi.com/hub)
+* [Landofdev](https://landof.dev/)
 
 **11. r/Android Wiki**
 * [Apps](https://reddit.com/r/Android/w/apps)
