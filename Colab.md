@@ -23,3 +23,5 @@
 * [HandBrakeCLI-ColabNotebook](https://github.com/SKGHD/Handy) - HandbrakeCLI with Files Mounted from Gdrive.
 
 * [FastColabCopy](https://github.com/L0garithmic/FastColabCopy) - Python3 script to transfer files in Google Colab 10-50x faster.
+
+* [ZspotifyColab](https://github.com/Ori5000/zspotifycolab) - Zspotify on Google Colab with GUI Controls.
