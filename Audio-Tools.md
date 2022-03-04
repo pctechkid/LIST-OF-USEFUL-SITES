@@ -18,7 +18,7 @@
 
 * [Savify](https://github.com/LaurenceRawlings/savify) - Download Spotify songs to mp3 with full metadata and cover art!
 
-* [Zspotify](https://github.com/THIS-IS-NOT-A-BACKUP/zspotify) - A Spotify downloader needing only a python interpreter and ffmpeg.
+* [Zspotify](https://github.com/jsavargas/zspotify) - A Spotify downloader that needs only Python and ffmpeg.
 
 * [Soggyfy](https://github.com/Rafiuth/Soggfy) - A downloader mod for the Windows Spotify client.
 
