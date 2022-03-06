@@ -80,7 +80,7 @@ All the information present here is purely for informational purposes and is not
 * **[General](https://github.com/Piratezparty/Piratezparty/blob/main/General-Awesome-Collection.md)**
 * **[Warez](https://github.com/Piratezparty/Piratezparty/blob/main/Warez-Collection.md)**
 * **[Reddit](https://github.com/Piratezparty/Piratezparty/blob/main/Awesome-Reddit.md)**
-* **[Weeb-Index](https://github.com/SpamVerse/Piratezparty/blob/main/Weeb-Index.md)**
+* **[Weeb Index](https://github.com/SpamVerse/Piratezparty/blob/main/Weeb-Index.md)**
 
 ***
 ***
@@ -111,7 +111,8 @@ All the information present here is purely for informational purposes and is not
 
 * **[Photos / Fonts](https://github.com/Piratezparty/Piratezparty/blob/main/Photo-Fonts.md)**
 * **[Opendirectories](https://github.com/Piratezparty/Piratezparty/blob/main/Opendirectories.md)**
-* **[Torrent-aggregators](https://github.com/Piratezparty/Piratezparty/blob/main/Torrent-aggregators.md)**
+* **[Torrent Aggregators](https://github.com/Piratezparty/Piratezparty/blob/main/Torrent-aggregators.md)**
+* **[Pastebin Services](https://github.com/SpamVerse/Piratezparty/blob/main/Pastebin-Services.md)**
 
 ***
 ***
