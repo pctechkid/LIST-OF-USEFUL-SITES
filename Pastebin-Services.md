@@ -54,4 +54,5 @@
 * [Pastes.io](https://pastes.io/)
 * [Teknik](https://paste.teknik.io/)
 * [Zpaste](https://zpaste.net/)
+* [Bin.piracy](https://bin.piracy.moe/)
 * [Privatebin](https://privatebin.info/) | [Directory](https://privatebin.info/directory/) 
