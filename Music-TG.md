@@ -110,3 +110,8 @@
 * [YouTubeMusicDB](https://t.me/joinchat/l4i3KWKnONQxNWNi)
 * [MusicDB](https://t.me/just_another_day_with_music)
 * [AppleMusicAlbum](https://t.me/AppleMusicAlbum)
+* [stayflac002](https://t.me/stayflac002)
+* [Tamilflacsong](https://t.me/tamilflacsong]
+* [Musicalossless](https://t.me/musicalossless)
+* [HQ_Music_Lossless](https://t.me/HQ_Music_Lossless)
+* [Freelosslessmusic](https://t.me/freelosslessmusic)
