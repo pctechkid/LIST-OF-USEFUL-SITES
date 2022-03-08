@@ -9,8 +9,8 @@
 | [AbleMusicPlayer](https://github.com/uditkarode/AbleMusicPlayer) | ![Last Commit](https://img.shields.io/github/last-commit/uditkarode/AbleMusicPlayer) | ![Freq](https://img.shields.io/github/commit-activity/m/uditkarode/AbleMusicPlayer) |
 | [BlackHole](https://github.com/Sangwan5688/BlackHole) | ![Last Commit](https://img.shields.io/github/last-commit/Sangwan5688/BlackHole) | ![Freq](https://img.shields.io/github/commit-activity/m/Sangwan5688/BlackHole) |
 | [Serenity](https://github.com/YajanaRao/Serenity) | ![Last Commit](https://img.shields.io/github/last-commit/YajanaRao/Serenity) | ![Freq](https://img.shields.io/github/commit-activity/m/YajanaRao/Serenity) |
-| [Freezer](https://t.me/freezerandroid)
-| [Deezloader](https://www.deezloader.app/)
+| [Freezer](https://t.me/freezerandroid) |  ![Last Commit](https://img.shields.io/badge/Source-Repo%20Dead-lightgrey) | ![Freq](https://img.shields.io/badge/Source-Repo%20Dead-lightgrey) |
+| [Deezloader](https://www.deezloader.app/) |  ![Last Commit](https://img.shields.io/badge/Source-Repo%20Dead-lightgrey) | ![Freq](https://img.shields.io/badge/Source-Repo%20Dead-lightgrey) |
 
 ## Desktop
 
@@ -20,9 +20,9 @@
 | [Youtube-Music](https://github.com/th-ch/youtube-music) | ![Last Commit](https://img.shields.io/github/last-commit/th-ch/youtube-music) | ![Freq](https://img.shields.io/github/commit-activity/m/th-ch/youtube-music) |
 | [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) | ![Last Commit](https://img.shields.io/github/last-commit/Shabinder/SpotiFlyer) | ![Freq](https://img.shields.io/github/commit-activity/m/Shabinder/SpotiFlyer) |
 | [BlackHole](https://github.com/Sangwan5688/BlackHole) | ![Last Commit](https://img.shields.io/github/last-commit/Sangwan5688/BlackHole) | ![Freq](https://img.shields.io/github/commit-activity/m/Sangwan5688/BlackHole) |
-| [Deemix](https://deemix.app/)
-| [Freezer PC](https://t.me/freezerpc)
-| [Deezloader](https://www.deezloader.app/)
+| [Deemix](https://deemix.app/) | ![Last Commit](https://img.shields.io/github/last-commit/mercode-org/deezloader-mer) | ![Freq](https://img.shields.io/github/commit-activity/m/mercode-org/deezloader-mer) |
+| [Freezer PC](https://t.me/freezerpc) | ![Last Commit](https://img.shields.io/badge/Source-Repo%20Dead-lightgrey) | ![Freq](https://img.shields.io/badge/Source-Repo%20Dead-lightgrey) |
+| [Deezloader](https://www.deezloader.app/) | ![Last Commit](https://img.shields.io/badge/Source-Repo%20Dead-lightgrey) | ![Freq](https://img.shields.io/badge/Source-Repo%20Dead-lightgrey) |
 
 # Music Players
 ## Android
@@ -39,8 +39,12 @@
 | [canaree](https://github.com/ologe/canaree-music-player) | ![Last Commit](https://img.shields.io/github/last-commit/ologe/canaree-music-player) | ![Freq](https://img.shields.io/github/commit-activity/m/ologe/canaree-music-player) |
 | [Auxio](https://github.com/OxygenCobalt/Auxio) | ![Last Commit](https://img.shields.io/github/last-commit/OxygenCobalt/Auxio) | ![Freq](https://img.shields.io/github/commit-activity/m/OxygenCobalt/Auxio)
 | [Veezee-android](https://github.com/veezee-music/veezee-android) | ![Last Commit](https://img.shields.io/github/last-commit/veezee-music/veezee-android) | ![Freq](https://img.shields.io/github/commit-activity/m/veezee-music/veezee-android) |
-| [S2 Music Player](https://play.google.com/store/apps/details?id=com.simplecityapps.shuttle)
-| [Pulse Music](https://play.google.com/store/apps/details?id=com.hardcodecoder.pulse)
+| [S2 Music Player](https://play.google.com/store/apps/details?id=com.simplecityapps.shuttle) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
+| [Pulse Music](https://play.google.com/store/apps/details?id=com.hardcodecoder.pulse) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
+| [Stellio](https://stellio.ru/en) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
+| [BlackPlayer](https://play.google.com/store/apps/details?id=com.musicplayer.blackplayerfree) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
+| [MediaMonkey](https://www.mediamonkey.com/) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
+| [Aimp](https://www.aimp.ru/) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
 
 ## Desktop
 
@@ -51,3 +55,7 @@
 | [Apple Music for Windows](https://github.com/imxeno/apple-music-windows) | ![Last Commit](https://img.shields.io/github/last-commit/imxeno/apple-music-windows) | ![Freq](https://img.shields.io/github/commit-activity/m/imxeno/apple-music-windows) |
 | [Veezee-web](https://github.com/veezee-music/veezee-web) | ![Last Commit](https://img.shields.io/github/last-commit/veezee-music/veezee-web) | ![Freq](https://img.shields.io/github/commit-activity/m/veezee-music/veezee-web) |
 | [Rhyme](https://github.com/Rhyme-Player/Rhyme) | ![Last Commit](https://img.shields.io/github/last-commit/Rhyme-Player/Rhyme) | ![Freq](https://img.shields.io/github/commit-activity/m/Rhyme-Player/Rhyme) |
+| [Foobar2000](https://www.foobar2000.org/) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
+| [MusicBee](https://www.getmusicbee.com/) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
+| [MediaMonkey](https://www.mediamonkey.com/) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
+| [Aimp](https://www.aimp.ru/) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
