@@ -104,3 +104,4 @@
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 * [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books)
 * [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary)
+* [awesome-python-books](https://github.com/Junnplus/awesome-python-books)
