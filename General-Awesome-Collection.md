@@ -97,3 +97,10 @@
 
 **22. Awesome Music**
 * [awesome-sheet-music](https://github.com/ad-si/awesome-sheet-music)
+
+**23. Awesome Books**
+* [awesome-libgen](https://github.com/freereadorg/awesome-libgen)
+* [learn-anything/books](https://github.com/learn-anything/books)
+* [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+* [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books)
+* [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary)
