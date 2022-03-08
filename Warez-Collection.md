@@ -41,7 +41,7 @@
 * [SoftwarePirates-Megathread](https://rentry.org/SoftwarePirates-Megathread)
 
 **14. r/APKsAPPs Megathread**
-* [Apks](https://apks.me)
+* [Apks](https://apksapps.notion.site/096ef38f452342ba99b4e1509a449729?v=9970360b443643789c333bd2c7180009)
 
 **15. r/Piracy Megathread**
 * [Piracy/Wiki/index](https://www.reddit.com/r/Piracy/wiki/index)
