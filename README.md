@@ -113,6 +113,7 @@ All the information present here is purely for informational purposes and is not
 * **[Opendirectories](https://github.com/Piratezparty/Piratezparty/blob/main/Opendirectories.md)**
 * **[Torrent Aggregators](https://github.com/Piratezparty/Piratezparty/blob/main/Torrent-aggregators.md)**
 * **[Pastebin Services](https://github.com/SpamVerse/Piratezparty/blob/main/Pastebin-Services.md)**
+* **[Gdrive Index](https://github.com/SpamVerse/Piratezparty/blob/main/Gdrive-Index.md)**
 
 ***
 ***
