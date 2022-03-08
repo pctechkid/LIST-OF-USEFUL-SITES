@@ -87,3 +87,6 @@
 
 **29. r/Mangapiracy Index**
 * [Mangapiracy](https://www.reddit.com/r/mangapiracy/about/)
+
+**30. IDatabase**
+* [iDatabase](https://telegra.ph/Resources-11-28)
