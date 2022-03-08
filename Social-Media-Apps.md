@@ -49,6 +49,8 @@
 | [BGram](https://github.com/BGramApp/BGramFiles) | ![Last Commit](https://img.shields.io/github/last-commit/BGramApp/BGramFiles) | ![Freq](https://img.shields.io/github/commit-activity/m/BGramApp/BGramFiles) |
 | [Graphmessenger](https://www.graphmessenger.com/) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
 | [Aka](https://play.google.com/store/apps/details?id=org.aka.messenger) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
+| [OwlGram](https://github.com/OwlGramDev/OwlGram) | ![Last Commit](https://img.shields.io/github/last-commit/OwlGramDev/OwlGram) | ![Freq](https://img.shields.io/github/commit-activity/m/OwlGramDev/OwlGram) |
+| [NinjaGram](https://play.google.com/store/apps/details?id=me.ninjagram.messenger) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
 
 ## iOS
 | App Name | Status | Commit Frequency |
