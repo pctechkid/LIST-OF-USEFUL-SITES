@@ -4,7 +4,7 @@
 * [Animeawards](https://animeawards.moe/)
 * [Animekarmalist](https://animekarmalist.com/)
 * [A Certain Fansubber's Index](https://index.fansubcar.tel/)
-* [Seadex Index](http://releases.moe/)
+* [Seadex Index](http://releases.moe/) | [Sneedex](http://Sneedex.moe)
 * [r/anime watch order](https://reddit.com/r/anime/w/watch_order)
 * [Fansubdb](https://fansubdb.com/) - Fansub Related Data
 * [Bakaupdates](https://www.mangaupdates.com/index.html) - Website to find specific titles you're looking for.
