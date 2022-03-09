@@ -64,6 +64,7 @@
 * [Deez_BIB_bot](https://t.me/Deez_BIB_bot)
 * [spotifysavebot](https://t.me/spotifysavebot)
 * [DeezerSongBot](https://t.me/DeezerSongBot)
+* [DeezSpot_bot](https://t.me/DeezSpot_bot)
 
 # Telegram (HI-RES/FLAC) channels to listen high quality music
 
