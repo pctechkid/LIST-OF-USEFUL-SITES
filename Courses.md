@@ -28,7 +28,7 @@
 * [crunchlearn](https://www.crunchlearn.com/)
 * [openedu](https://www.open.ac.uk/) | [openlearn](https://www.open.edu/openlearn/)
 * [Alison](https://alison.com/)
-* [Certbyte.com/](https://certbyte.com/)
+* [Certbyte](https://certbyte.com/)
 * [openculture](https://www.openculture.com/) | [freeonlinecourses](https://www.openculture.com/freeonlinecourses)
 * [GoogleDigitalGarage](https://learndigital.withgoogle.com/digitalgarage/courses)
 * [StanfordOnline](https://online.stanford.edu/lagunita-learning-platform)
