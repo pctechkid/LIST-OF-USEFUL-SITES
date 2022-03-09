@@ -49,6 +49,7 @@
 * [functionalcs](https://functionalcs.github.io/curriculum/)
 * [mysirg](https://www.mysirg.com/)
 * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+* [awesome-python-books](https://github.com/Junnplus/awesome-python-books)
 * [open-source-cs-degree](https://github.com/mvillaloboz/open-source-cs-degree)
 * [stackoverflow](https://stackoverflow.com/)
 * [stackexchange](https://stackexchange.com/)
