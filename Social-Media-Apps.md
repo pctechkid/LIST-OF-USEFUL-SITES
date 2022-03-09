@@ -76,3 +76,8 @@
 | [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit) | ![Last Commit](https://img.shields.io/github/last-commit/Docile-Alligator/Infinity-For-Reddit) | ![Freq](https://img.shields.io/github/commit-activity/m/Docile-Alligator/Infinity-For-Reddit) |
 | [Dawn](https://github.com/Tunous/Dawn) | ![Last Commit](https://img.shields.io/github/last-commit/Tunous/Dawn) | ![Freq](https://img.shields.io/github/commit-activity/m/Tunous/Dawn) |
 | [Slide](https://github.com/Haptic-Apps/Slide) | ![Last Commit](https://img.shields.io/github/last-commit/Haptic-Apps/Slide) | ![Freq](https://img.shields.io/github/commit-activity/m/Haptic-Apps/Slide) |
+| [Boost](https://boostforreddit.com/) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
+| [Relay](https://play.google.com/store/apps/details?id=free.reddit.news) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
+| [Sync](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
+| [Joey](https://play.google.com/store/apps/details?id=o.o.joey) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
+| [Baconreader](https://baconreader.com/) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
