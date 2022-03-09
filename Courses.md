@@ -1,4 +1,4 @@
-# Online Free courses 
+## Online Free courses 
 
 * [freecoursesite](https://freecoursesite.com/ )
 * [freetutsdownload](https://freetutsdownload.net/ )
@@ -38,7 +38,7 @@
 * [khanacademy](https://www.khanacademy.org/)
 * [watchknowlearn](http://www.watchknowlearn.org/)
 
-# Computer Science & Programming
+## Computer Science & Programming
 
 * [w3schools](https://www.w3schools.com/)
 * [learnpython](https://www.learnpython.org/)
