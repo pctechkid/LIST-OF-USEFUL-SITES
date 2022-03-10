@@ -14,8 +14,7 @@
 | [AnimeXStream](https://github.com/mukul500/AnimeXStream) | ![Last Commit](https://img.shields.io/github/last-commit/mukul500/AnimeXStream) | ![Freq](https://img.shields.io/github/commit-activity/m/mukul500/AnimeXStream) |
 | [Kayuri (AnimeXStream Fork)](https://github.com/Killerpac/Kayuri) | ![Last Commit](https://img.shields.io/github/last-commit/Killerpac/Kayuri) | ![Freq](https://img.shields.io/github/commit-activity/m/Killerpac/Kayuri) |
 | [AnimeBoya](https://github.com/Tu2l/AnimeBoya) | ![Last Commit](https://img.shields.io/github/last-commit/Tu2l/AnimeBoya) | ![Freq](https://img.shields.io/github/commit-activity/m/Tu2l/AnimeBoya) |
-| [Yukino](https://github.com/yukino-app/yukino)| ![Last Commit](https://img.shields.io/github/last-commit/yukino-app/yukino) | ![Freq](https://img.shields.io/github/commit-activity/m/yukino-app/yukino) |
-| [AnimeOut](https://www.animeout.xyz/progress-and-update-on-the-desktop-mobile-apps-and-new-platform/)
+| [AnimeOut](https://www.animeout.xyz/progress-and-update-on-the-desktop-mobile-apps-and-new-platform/) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
 
 ## Android TV
 | App Name | Status | Commit Frequency |
@@ -27,17 +26,15 @@
 | App Name | Language | Status | Commit Frequency |
 |-| :-: | - | - |
 | [Bangumi](https://github.com/czy0729/Bangumi) | Chinese | ![Last Commit](https://img.shields.io/github/last-commit/czy0729/Bangumi) | ![Freq](https://img.shields.io/github/commit-activity/m/czy0729/Bangumi) |
-| [SAnime](snoanime.com) | Arabic |
+| [SAnime](snoanime.com) | Arabic | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
 | [AniLabX](https://github.com/CrazyXacker/anilabx) | Russian | ![Last Commit](https://img.shields.io/github/last-commit/CrazyXacker/anilabx) | ![Freq](https://img.shields.io/github/commit-activity/m/CrazyXacker/anilabx) |
-| [TioAnime](https://app.tioanime.com) | Spanish |
-
+| [TioAnime](https://app.tioanime.com) | Spanish | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
 
 # Desktop Anime 
 | App Name | Status | Commit Frequency |
 | - | - | - |
 | [Anime-Downloader](https://github.com/henry-richard7/Anime-Downloader) | ![Last Commit](https://img.shields.io/github/last-commit/henry-richard7/Anime-Downloader) | ![Freq](https://img.shields.io/github/commit-activity/m/henry-richard7/Anime-Downloader) |
-| [Yukino](https://github.com/yukino-app/yukino)| ![Last Commit](https://img.shields.io/github/last-commit/yukino-app/yukino) | ![Freq](https://img.shields.io/github/commit-activity/m/yukino-app/yukino) |
-| [AnimeOut](https://www.animeout.xyz/progress-and-update-on-the-desktop-mobile-apps-and-new-platform/)
+| [AnimeOut](https://www.animeout.xyz/progress-and-update-on-the-desktop-mobile-apps-and-new-platform/) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
 | [Hakuneko](https://github.com/manga-download/hakuneko) | ![Last Commit](https://img.shields.io/github/last-commit/manga-download/hakuneko) | ![Freq](https://img.shields.io/github/commit-activity/m/manga-download/hakuneko) |
 
 # Android Manga
@@ -45,14 +42,17 @@
 | - | - | - |
 | [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) | ![Last Commit](https://img.shields.io/github/last-commit/tachiyomiorg/tachiyomi) | ![Freq](https://img.shields.io/github/commit-activity/m/tachiyomiorg/tachiyomi) |
 | [Kotatsu](https://github.com/nv95/Kotatsu) | ![Last Commit](https://img.shields.io/github/last-commit/nv95/Kotatsu) | ![Freq](https://img.shields.io/github/commit-activity/m/nv95/Kotatsu)
-| [Mangazone](https://mangazoneapp.com/)
+| [Mangazone](https://mangazoneapp.com/) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
 | [Saikou](https://github.com/saikou-app/saikou) | ![Last Commit](https://img.shields.io/github/last-commit/saikou-app/saikou) | ![Freq](https://img.shields.io/github/commit-activity/m/saikou-app/saikou) |
-| [MangaDLR](https://cyberneticlifeform.wixsite.com/cylonu87/mangadlr)
-| [Mangatag](https://www.mangatag.com/)
-| [MangaToon](https://play.google.com/store/apps/details?id=mobi.mangatoon.comics.aphone )
+| [MangaDLR](https://cyberneticlifeform.wixsite.com/cylonu87/mangadlr) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
+| [Mangatag](https://www.mangatag.com/) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
+| [MangaToon](https://play.google.com/store/apps/details?id=mobi.mangatoon.comics.aphone ) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
 | [AnimeClassroom](https://github.com/justdvnsh/AnimeClassroom) | ![Last Commit](https://img.shields.io/github/last-commit/justdvnsh/AnimeClassroom) | ![Freq](https://img.shields.io/github/commit-activity/m/justdvnsh/AnimeClassroom) |
-| [Yukino](https://github.com/yukino-app/yukino)| ![Last Commit](https://img.shields.io/github/last-commit/yukino-app/yukino) | ![Freq](https://img.shields.io/github/commit-activity/m/yukino-app/yukino) |
 | [OtakuWorld](https://github.com/jakepurple13/OtakuWorld) | ![Last Commit](https://img.shields.io/github/last-commit/jakepurple13/OtakuWorld) | ![Freq](https://img.shields.io/github/commit-activity/m/jakepurple13/OtakuWorld) |
+| [Fanga](https://github.com/SherlockHolmes2045/fanga) | ![Last Commit](https://img.shields.io/github/last-commit/SherlockHolmes2045/fanga) | ![Freq](https://img.shields.io/github/commit-activity/m/SherlockHolmes2045/fanga) |
+| [Mangaka](https://github.com/Mastersam07/mangaKa) | ![Last Commit](https://img.shields.io/github/last-commit/Mastersam07/mangaKa) | ![Freq](https://img.shields.io/github/commit-activity/m/Mastersam07/mangaKa) |
+| [MangaTain](https://github.com/AP-Atul/mangatain) | ![Last Commit](https://img.shields.io/github/last-commit/AP-Atul/mangatain) | ![Freq](https://img.shields.io/github/commit-activity/m/AP-Atul/mangatain) |
+| [Mangato](https://github.com/riimuru/Mangato) | ![Last Commit](https://img.shields.io/github/last-commit/riimuru/Mangato) | ![Freq](https://img.shields.io/github/commit-activity/m/riimuru/Mangato) |
 
 ## Tachiyomi Forks
 | App Name | Status | Commit Frequency
@@ -68,27 +68,21 @@
 | - | - | - |
 | [Tachidesk-Server](https://github.com/Suwayomi/Tachidesk-Server) | ![Last Commit](https://img.shields.io/github/last-commit/Suwayomi/Tachidesk-Server) | ![Freq](https://img.shields.io/github/commit-activity/m/Suwayomi/Tachidesk-Server) |
 | [Hakuneko](https://github.com/manga-download/hakuneko) | ![Last Commit](https://img.shields.io/github/last-commit/manga-download/hakuneko) | ![Freq](https://img.shields.io/github/commit-activity/m/manga-download/hakuneko) |
-| [Yukino](https://github.com/yukino-app/yukino) | ![Last Commit](https://img.shields.io/github/last-commit/yukino-app/yukino) | ![Freq](https://img.shields.io/github/commit-activity/m/yukino-app/yukino) |
-| [Adolla](https://github.com/AdollaApp/Adolla) | ![Last Commit](https://img.shields.io/github/last-commit/AdollaApp/Adolla) | ![Freq](https://img.shields.io/github/commit-activity/m/AdollaApp/Adolla) |
-| [OpenComic](https://github.com/ollm/OpenComic) | ![Last Commit](https://img.shields.io/github/last-commit/ollm/OpenComic) | ![Freq](https://img.shields.io/github/commit-activity/m/ollm/OpenComic) |
 | [Houdoku](https://github.com/xgi/houdoku) | ![Last Commit](https://img.shields.io/github/last-commit/xgi/houdoku) | ![Freq](https://img.shields.io/github/commit-activity/m/xgi/houdoku) |
-
-**Note 1:** Once Adolla or Tachidesk Server is started, you can use it on other devices as well by replacing **localhost:PORT** or **127.0.0.1:PORT** with IP of the Server. Eg - **169.196.69.96:PORT**
-
-**Note 2:** OpenComic is only a Comic/Manga Reader, you'd have to import CBR/CBZ/JPEG from somewhere to actually read it.
+| [Fludex](https://github.com/Riktam-Santra/Fludex) | ![Last Commit](https://img.shields.io/github/last-commit/Riktam-Santra/Fludex) | ![Freq](https://img.shields.io/github/commit-activity/m/Riktam-Santra/Fludex) |
+| [Tenarix](https://github.com/Akuqt/tenarix) | ![Last Commit](https://img.shields.io/github/last-commit/Akuqt/tenarix) | ![Freq](https://img.shields.io/github/commit-activity/m/Akuqt/tenarix) |
 
 # iOS Anime
 | App Name | Status | Commit Frequency |
 | - | - | - |
-| [Ketsu](https://ketsu.app/) |
+| [Ketsu](https://ketsu.app/) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
 | [NineAnimator](https://github.com/SuperMarcus/NineAnimator)|  ![Last Commit](https://img.shields.io/github/last-commit/SuperMarcus/NineAnimator) | ![Freq](https://img.shields.io/github/commit-activity/m/SuperMarcus/NineAnimator) |
 
-
 # iOS Manga
-* [MangaToon](https://apps.apple.com/us/app/mangatoon-manga-reader/id1385287093)
-* [Paperback](https://paperback.moe/ )
-* [Zetsu](https://apps.apple.com/us/app/zetsu-by-orion/id1510161371)
-* [MangaMax](https://apps.apple.com/us/app/apple-store/id1558957618 )
-
-
-
+| App Name | Status | Commit Frequency |
+| - | - | - |
+| [MangaToon](https://apps.apple.com/us/app/mangatoon-manga-reader/id1385287093) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
+| [Paperback](https://paperback.moe/ ) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
+| [Zetsu](https://apps.apple.com/us/app/zetsu-by-orion/id1510161371) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
+| [MangaMax](https://apps.apple.com/us/app/apple-store/id1558957618 ) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
+| [Mangaka](https://github.com/Mastersam07/mangaKa) | ![Last Commit](https://img.shields.io/github/last-commit/Mastersam07/mangaKa) | ![Freq](https://img.shields.io/github/commit-activity/m/Mastersam07/mangaKa) |
