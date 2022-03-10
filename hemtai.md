@@ -64,6 +64,8 @@
 * [NHViewer](https://github.com/ttdyce/NHentai-NHViewer) - NHViewer is a simple third-party nhentai client for Android.
 * [Hentai-Video-Downloader](https://github.com/Zebraslive/basic-hentai-video-downloader) - A simple hentai video downloader. Electron Windows App.
 * [Hendroid](https://github.com/Nonononoki/Hendroid) - This is a fork of Hentoid with several improvements - including removed tracking, third-party image viewer support and more!
+* [FreakMangaBrandNew](https://github.com/Abealkindy/FreakMangaBrandNew) - Browse and read hentai manga from 3 of some biggest hentai websites in one app.
+* [X-Comic-Downloader-Project](https://github.com/RealLowMaster/X-Comic-Downloader-Project) - A Software for downloading and viewing adult or hentai comics or mangas.
 
 # Reddit Collection
 
