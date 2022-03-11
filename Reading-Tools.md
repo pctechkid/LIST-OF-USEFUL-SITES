@@ -14,21 +14,11 @@
 
 * [Mdownloader](https://github.com/Rudoal/mdownloader) - MangaDex downloader using python. Forked from the repo linked.
 
-* [Adolla](https://github.com/AdollaApp/Adolla) - Manga reader for every device with a web browser.
-
 * [Manga-py](https://github.com/manga-py/manga-py) - Universal manga downloader.
-
-* [Ame-Reader](https://github.com/lijandrew/ame-reader) - In-browser manga & comic reader.
 
 * [Nice-pferd](https://github.com/augustin64/nice-pferd) - Manga scans reader and downloader for when you get offline.
 
 * [Furb](https://github.com/TheBoringDude/furb) - Manga Chapter Downloader.
-
-* [Komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs with API and OPDS support.
-
-* [Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server.
-
-* [Kthoom](https://github.com/codedread/kthoom) - Comic Book Reader in the Browser.
 
 * [Manga-Chapter](https://github.com/fakesimo/manga-chapter-downloader) - FoOlSlide downloader.
 
@@ -73,3 +63,25 @@
 * [Novel-2-EBook](https://github.com/EternalTrail/Novel-2-EBook) - Python program to download novels available on Wuxia World and other sites as E-Books.
 
 * [Mknovel](https://github.com/subchen/mknovel) - Download web novel and pack.
+
+# Reader
+
+* [Adolla](https://github.com/AdollaApp/Adolla) - Manga reader for every device with a web browser.
+
+* [Komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs with API and OPDS support.
+
+* [Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server.
+
+* [Ame-Reader](https://github.com/lijandrew/ame-reader) - In-browser manga & comic reader.
+
+* [Kthoom](https://github.com/codedread/kthoom) - Comic Book Reader in the Browser.
+
+* [Mangareader](https://github.com/g-fb/mangareader) - Qt manga reader for local files.
+
+* [OpenComic](https://github.com/ollm/OpenComic) - Comic and Manga reader, written with Node.js and using Electron.
+
+* [iizume-mobile](https://github.com/theluckyegg/iizume-mobile) - free and open source mobile application for browsing and reading manga.
+
+* [FoOlSlideX](https://github.com/saintly2k/FoOlSlideX) - The new, most powerful Comic- & Manga-Reader ever created by the human race.
+
+* [Mango](https://github.com/hkalexling/Mango) - Mango is a self-hosted manga server and web reader.
