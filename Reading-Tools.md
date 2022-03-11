@@ -40,6 +40,11 @@
 
 * [FMD2](https://github.com/dazedcat19/FMD2) - This is an active fork of the Free Manga Downloader which is a free open source application written in Object Pascal for managing and downloading manga from various websites.
 
+* [Mass-Manga-Downloader](https://github.com/stefmmm/Mass-Manga-Downloader) - Download Mangas From websites.
+
+* [Manga-cli](https://github.com/notprash/manga-cli) - Script to read manga from cli.
+
+* [7USTIN/manga-cli](https://github.com/7USTIN/manga-cli) - 📖 Bash script for reading mangas via the terminal.
 
 # Comics
 
@@ -58,7 +63,6 @@
 * [Tapas-Comic-Downloader](https://github.com/TilCreator/Tapas-Comic-Downloader) - This is a downloader to download whole comics from https://tapas.io/.
 
 * [Comic2pdf](https://github.com/thomasherzog/comic2pdf) - Comic2pdf converts comic book format to pdf.
-
 
 # Novels
 
