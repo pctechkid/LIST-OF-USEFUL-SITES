@@ -44,6 +44,7 @@
 
 * [Rss-anime-notifier](https://gitlab.com/blankX/rss-anime-notifier-rs) - RSS Anime Notifier but in Rust.
 
+* [Mass-Manga-Downloader](https://github.com/stefmmm/Mass-Manga-Downloader) - Download Mangas From websites.
 
 # Movie Tools
 
