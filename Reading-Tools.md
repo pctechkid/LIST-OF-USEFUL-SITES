@@ -80,8 +80,18 @@
 
 * [OpenComic](https://github.com/ollm/OpenComic) - Comic and Manga reader, written with Node.js and using Electron.
 
-* [iizume-mobile](https://github.com/theluckyegg/iizume-mobile) - free and open source mobile application for browsing and reading manga.
+* [Iizume-mobile](https://github.com/theluckyegg/iizume-mobile) - free and open source mobile application for browsing and reading manga.
 
 * [FoOlSlideX](https://github.com/saintly2k/FoOlSlideX) - The new, most powerful Comic- & Manga-Reader ever created by the human race.
 
 * [Mango](https://github.com/hkalexling/Mango) - Mango is a self-hosted manga server and web reader.
+
+* [Calibre-web](https://github.com/janeczku/calibre-web) - 📚 Web app for browsing, reading and downloading eBooks stored in a Calibre database.
+
+* [LANraragi](https://github.com/Difegue/LANraragi) - Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.
+
+* [Tanoshi](https://github.com/faldez/tanoshi) - Selfhosted web manga reader with extensions.
+
+* [Villain](https://github.com/btzr-io/Villain) - A free and open source web-based comic book reader.
+
+* [Ubooquity](https://vaemendis.net/ubooquity/) - Read your ebooks and comics on your favorite device, wherever you go.
