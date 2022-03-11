@@ -44,7 +44,7 @@
 
 * [Rss-anime-notifier](https://gitlab.com/blankX/rss-anime-notifier-rs) - RSS Anime Notifier but in Rust.
 
-* [Mass-Manga-Downloader](https://github.com/stefmmm/Mass-Manga-Downloader) - Download Mangas From websites.
+* [fastwatch](https://github.com/ree1261/fastwatch) - stream any movie, tv show, or anime with one command.
 
 # Movie Tools
 
