@@ -19,6 +19,7 @@
 ### PheonixOS Active Mods/Forks
 | App Name | Windows | MacOS | Linux
 |-|:-:|:-:|:-:|
+| [DROCK OS](https://drocksl.blogspot.com/) | ✔ | ✔ | ✔ |
 | [AbstregoOS](https://discord.com/invite/ZqvYu6mEjb) | ✔ | ✔ | ✔ |
 | [POSROG](https://posrog.my.id) <sup> [TG](https://t.me/posrogchannel)| ✔ | ✔ | ✔ |
 | [POS DarkMatter](https://supreme-gamers.com/r/phoenixos-darkmatter-supercharged-for-everyone.2/) | ✔ | ✔ | ✔ |
