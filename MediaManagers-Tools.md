@@ -10,7 +10,7 @@
 
 * [Stremio](https://www.stremio.com/) - Stremio is a modern media center that's a one-stop solution for your video entertainment.
 
-* [Libdrive](https://github.com/libdrive/libdrive) - Stremio is a modern media center that's a one-stop solution for your video entertainment.
+* [Libdrive](https://github.com/libdrive/libdrive) - LibDrive is a Google Drive media library manager and indexer, similar to Plex, that organizes Google Drive media to offer an intuitive and user-friendly experience.
 
 * [Sonarr](https://sonarr.tv/) - Sonarr is a PVR for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will grab, sort and rename them.
 
@@ -23,3 +23,13 @@
 * [Media Goblin](https://mediagoblin.org/) - MediaGoblin is a free software media publishing platform that anyone can run. You can think of it as a decentralized alternative to Flickr, YouTube, SoundCloud, etc.
 
 * [Streama](https://github.com/streamaserver/streama) - Self hosted streaming media server.
+
+* [Dusk-Labs](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
+
+* [Owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself. Streaming + chat out of the box.
+
+* [Openstreamingplatform](https://openstreamingplatform.com/) - A Self-Hosted Video Streaming and Recording Server Using Python, Flask, Nginx-RTMP.
+
+* [Ant-Media](https://github.com/ant-media/ant-media-server) - Ant Media Server is a streaming engine software that provides adaptive, ultra low latency streaming by using WebRTC.
+
+* [OvenMediaEngine](https://github.com/AirenSoft/OvenMediaEngine) - OvenMediaEngine (OME) is an Open-Source Streaming Server that enables Large-Scale and Sub-Second Latency Live Streaming.
