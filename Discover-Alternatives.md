@@ -2,6 +2,7 @@
 
 * [Opensourcelibs](https://opensourcelibs.com/)
 * [Awesomeopensource](https://awesomeopensource.com/)
+* [Opensourcealternative](https://www.opensourcealternative.to/)
 * [Toolhunt](https://www.toolhunt.dev/)
 * [Codelib](https://codelib.club/)
 * [Libhunt](https://www.libhunt.com/)
