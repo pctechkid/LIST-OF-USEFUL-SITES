@@ -33,3 +33,5 @@
 * [Ant-Media](https://github.com/ant-media/ant-media-server) - Ant Media Server is a streaming engine software that provides adaptive, ultra low latency streaming by using WebRTC.
 
 * [OvenMediaEngine](https://github.com/AirenSoft/OvenMediaEngine) - OvenMediaEngine (OME) is an Open-Source Streaming Server that enables Large-Scale and Sub-Second Latency Live Streaming.
+
+* [DesterLib](https://github.com/DesterLib) - This is a Dester theme for libDrive which is a Google Drive media library manager and indexer, similar to Plex, that organizes Google Drive media to offer an intuitive and user-friendly experience.
