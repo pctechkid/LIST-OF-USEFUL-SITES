@@ -49,6 +49,7 @@
 * [FreeSoft](https://freesoft.dev/)
 * [Rapidapi](https://rapidapi.com/hub)
 * [Landofdev](https://landof.dev/)
+* [Free Software Directory](https://directory.fsf.org/wiki/Main_Page)
 
 **11. r/Android Wiki**
 * [Apps](https://reddit.com/r/Android/w/apps)
@@ -68,9 +69,10 @@
 * [awesome-userscripts](https://github.com/bvolpato/awesome-userscripts)
 * [scriptz](https://github.com/d3ward/scriptz)
 
-**15. Opensource Game List**
+**15. Awesome Gaming**
 * [opensourcegames](https://trilarion.github.io/opensourcegames)
 * [awesome-games](https://github.com/michelpereira/awesome-games)
+* [pcgamingwiki](https://www.pcgamingwiki.com)
 
 **16. Alternative Frontends**
 * [alternative-front-ends](https://github.com/mendel5/alternative-front-ends)
@@ -107,6 +109,3 @@
 
 **24. YouTube Vanced Alternatives**
 * [youtube-vanced-alternatives](https://gist.github.com/SkyyySi/1b621c7c20ae7e0865a8ac428156c1cf)
-
-**25. Gaming**
-* [pcgamingwiki](https://www.pcgamingwiki.com)
