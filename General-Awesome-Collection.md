@@ -107,3 +107,6 @@
 
 **24. YouTube Vanced Alternatives**
 * [youtube-vanced-alternatives](https://gist.github.com/SkyyySi/1b621c7c20ae7e0865a8ac428156c1cf)
+
+**25. Gaming**
+* [pcgamingwiki](https://www.pcgamingwiki.com)
