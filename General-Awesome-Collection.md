@@ -86,6 +86,7 @@
 * [letsblockit](https://github.com/xvello/letsblockit) | [Website](https://letsblock.it/)
 * [Filterstalker](https://rentry.org/filterstalker)
 * [MR-Addblock-List](https://rentry.co/MR-Extensions-Script#adblocker)
+* [fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock)
 
 **19. Discord Opensource**
 * [discord-open-source](https://github.com/discord/discord-open-source)
