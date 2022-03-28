@@ -90,3 +90,6 @@
 
 **30. IDatabase**
 * [iDatabase](https://telegra.ph/Resources-11-28)
+
+**31. Awesome German Piracy**
+* [awesome-german-piracy](https://github.com/SeppPenner/awesome-german-piracy)
