@@ -30,8 +30,9 @@
 * [PrivacyTests](http://PrivacyTests.org)
 * [PrivacyTools](https://www.privacytools.io/)
 
-**6. Free Premium Leeches**
+**6. File Sharing & Storage**
 * [Free_Premium_Leeches](https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches)
+* [nafanz](https://nafanz.github.io/)
 
 **7. Awesome Opensource**
 * [Awesome-Opensource](https://awesomeopensource.com/)
