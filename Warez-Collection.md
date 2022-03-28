@@ -93,3 +93,6 @@
 
 **31. Awesome German Piracy**
 * [awesome-german-piracy](https://github.com/SeppPenner/awesome-german-piracy)
+
+**32. Useful Stuff**
+* [fulquit.github.io](https://github.com/fulquit/fulquit.github.io)
