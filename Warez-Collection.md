@@ -47,7 +47,7 @@
 * [Piracy/Wiki/index](https://www.reddit.com/r/Piracy/wiki/index)
 
 **16. Ripped Piracy**
-* [Ripped](https://github.com/rippedpiracy/docs) | [Website](https://ripped.guidehttps://ripped.guide)
+* [Ripped](https://github.com/rippedpiracy/docs) | [Website](https://ripped.guide/)
 
 **17. The Pirate List**
 * [Thepiratelist](https://thepiratelist.com/)
