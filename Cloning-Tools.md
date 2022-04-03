@@ -75,8 +75,7 @@
 
 | Repo Name | SA Support | Status | Commit Frequency 
 |-|:-:|-|-|
-| [Rekulous/gclone](https://github.com/Rekulous/gclone) | ✔ | ![](https://img.shields.io/github/last-commit/Rekulous/gclone) | ![](https://img.shields.io/github/commit-activity/m/Rekulous/gclone)
+| [AndreVuillemot/gclone](https://github.com/AndreVuillemot/gclone) | ✔ | ![](https://img.shields.io/github/last-commit/AndreVuillemot/gclone) | ![](https://img.shields.io/github/commit-activity/m/AndreVuillemot/gclone)
 | [dogbutcat/gclone](https://github.com/dogbutcat/gclone) | ✔ | ![](https://img.shields.io/github/last-commit/dogbutcat/gclone) | ![](https://img.shields.io/github/commit-activity/m/dogbutcat/gclone)
 | [l3v11/gclone](https://github.com/l3v11/gclone) | ✔ | ![](https://img.shields.io/github/last-commit/l3v11/gclone) | ![](https://img.shields.io/github/commit-activity/m/l3v11/gclone)
 | [hsj51/gclone](https://github.com/hsj51/gclone) | ✔ | ![](https://img.shields.io/github/last-commit/hsj51/gclone) | ![](https://img.shields.io/github/commit-activity/m/hsj51/gclone)
-
