@@ -96,3 +96,6 @@
 
 **32. Useful Stuff**
 * [fulquit.github.io](https://github.com/fulquit/fulquit.github.io)
+
+**33. Web-Indexer**
+* [Web-Indexer](https://oshekharo.github.io/Web-Indexer/) | [GitHub Link](https://github.com/OshekharO/Web-Indexer)
