@@ -51,6 +51,7 @@
 | [Aka](https://play.google.com/store/apps/details?id=org.aka.messenger) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
 | [OwlGram](https://github.com/OwlGramDev/OwlGram) | ![Last Commit](https://img.shields.io/github/last-commit/OwlGramDev/OwlGram) | ![Freq](https://img.shields.io/github/commit-activity/m/OwlGramDev/OwlGram) |
 | [NinjaGram](https://play.google.com/store/apps/details?id=me.ninjagram.messenger) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
+| [Telegraher](https://github.com/nikitasius/Telegraher) | ![Last Commit](https://img.shields.io/github/last-commit/nikitasius/Telegraher) | ![Freq](https://img.shields.io/github/commit-activity/m/nikitasius/Telegraher) |
 
 ## iOS
 | App Name | Status | Commit Frequency |
